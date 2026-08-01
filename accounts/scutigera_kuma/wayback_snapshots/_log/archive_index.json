@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T09:43:36",
+  "last_updated": "2026-08-01T09:43:53",
   "html": {
     "https://web.archive.org/web/20251203175923if_/https://twitter.com/scutigera_kuma/status/1996278102415298998": {
       "status": "done",
@@ -5094,9 +5094,9 @@
       "referenced_by": [
         "20260212123552_twitter_com_scutigera_kuma_status_2021926227800731680.json"
       ],
-      "last_updated": "2026-08-01T09:29:48",
+      "last_updated": "2026-08-01T09:43:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260212123552/https://video.twimg.com/tweet_video/Gv_0NlQW8AAdqUV.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2029600242900029445/vid/avc1/720x1280/zrT1rscj7TQoeih-.mp4": {
       "status": "done",
