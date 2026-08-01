@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2043594240958333087",
+    "created_at": "2026-04-13T07:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043594240958333087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2043162919131570177",
+          "start": 3,
+          "username": "BuildBible62588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043594240958333087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043421548296716312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BuildBible62588: 求轉貼。。互fo呀。。大號被封禁了TT我是餐券妹呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2043594240958333087",
+        "created_at": "2026-04-13T07:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043594240958333087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2043162919131570177",
+              "start": 3,
+              "username": "BuildBible62588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043594240958333087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043421548296716312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BuildBible62588: 求轉貼。。互fo呀。。大號被封禁了TT我是餐券妹呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043162919131570177",
+        "conversation_id": "2043421548296716312",
+        "created_at": "2026-04-12T20:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043421548296716312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043421548296716312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "求轉貼。。互fo呀。。大號被封禁了TT我是餐券妹呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4700,
+          "following_count": 3467,
+          "like_count": 34138,
+          "listed_count": 6,
+          "media_count": 480,
+          "tweet_count": 9087
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T03:03:15.000Z",
+        "description": "大號被封鎖(┯_┯)這里是唉愛2.0尋找丟失的互關ing                   \nMy love：@The_emonn6060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "The_emonn6060"
+              }
+            ]
+          }
+        },
+        "id": "2043162919131570177",
+        "location": "神秘星球",
+        "name": "唉、愛",
+        "pinned_tweet_id": "2043424255317340406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 47,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "BuildBible62588",
+        "verified": false
+      }
+    ]
+  }
+}

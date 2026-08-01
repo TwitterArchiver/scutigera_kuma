@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2025922027211923813",
+    "created_at": "2026-02-24T09:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026224260726026641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026224260726026641",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025922027211923813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 咖啡因：嘻嘻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2025922024074604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2FWNubcAAk-Db.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2025922027211923813",
+        "created_at": "2026-02-24T09:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026224260726026641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026224260726026641",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025922027211923813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 咖啡因：嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025922024074604544"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025922027211923813",
+        "created_at": "2026-02-23T13:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922027211923813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYNGlQDZT2",
+              "end": 150,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025922027211923813/photo/1",
+              "media_key": "3_2025922024074604544",
+              "start": 127,
+              "url": "https://t.co/PYNGlQDZT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025922027211923813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2571,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得双氢可待因特别好磕吗？\n她像以“理解者”和“抚慰者”的姿态出现。她擅长倾听，并能提供一种温柔的“隔离感”，让痛苦、焦虑都变得遥远。起初是有效的，人们会逐渐沉迷于那种“无痛”的麻木状态，丧失主动面对问题的勇气和动力。她的温柔本质是一种缓慢的缴械。 https://t.co/PYNGlQDZT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 3446,
+          "like_count": 34109,
+          "listed_count": 6,
+          "media_count": 468,
+          "tweet_count": 9014
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2026215184751313233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 148,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 97
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

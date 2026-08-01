@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2072316416146153531",
+    "created_at": "2026-07-01T17:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072366997871194174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1342850621192302592",
+          "start": 0,
+          "username": "WmQ18COQcplf9Va"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072366997871194174",
+    "in_reply_to_user_id": "1342850621192302592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072364210575872101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WmQ18COQcplf9Va 可以可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072364200975065089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKEQsxa4AEJ5Ji.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2072316416146153531",
+        "created_at": "2026-07-01T17:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072366997871194174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1342850621192302592",
+              "start": 0,
+              "username": "WmQ18COQcplf9Va"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072366997871194174",
+        "in_reply_to_user_id": "1342850621192302592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072364210575872101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WmQ18COQcplf9Va 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072364200975065089"
+          ]
+        },
+        "author_id": "1342850621192302592",
+        "conversation_id": "2072316416146153531",
+        "created_at": "2026-07-01T16:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072364210575872101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHYsQoZXnh",
+              "end": 39,
+              "expanded_url": "https://x.com/WmQ18COQcplf9Va/status/2072364210575872101/photo/1",
+              "media_key": "3_2072364200975065089",
+              "start": 16,
+              "url": "https://t.co/yHYsQoZXnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072364210575872101",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072316416146153531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma https://t.co/yHYsQoZXnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069860946647085056/E4BruncW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5027,
+          "following_count": 3326,
+          "like_count": 34231,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 9159
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T15:12:01.000Z",
+        "description": "茫茫酆都中,重重金刚山,灵宝无量光,洞照炎池烦,九幽诸罪魂,身随香云旛,定慧青莲花,上生神永安。",
+        "id": "1342850621192302592",
+        "name": "荃灣炒飯王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023695653315235840/KKhgTc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 2308,
+          "like_count": 5594,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "WmQ18COQcplf9Va",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2044040461963407871",
+    "created_at": "2026-04-14T16:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044085006063284523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758532281873125377",
+          "start": 0,
+          "username": "miyoko39196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044085006063284523",
+    "in_reply_to_user_id": "1758532281873125377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044081319920185767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyoko39196 节哀，她也是我的朋友，我只是在悲伤然后无能狂怒且无奈。希望她不再痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2044040461963407871",
+        "created_at": "2026-04-14T16:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044085006063284523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758532281873125377",
+              "start": 0,
+              "username": "miyoko39196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044085006063284523",
+        "in_reply_to_user_id": "1758532281873125377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044081319920185767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyoko39196 节哀，她也是我的朋友，我只是在悲伤然后无能狂怒且无奈。希望她不再痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758532281873125377",
+        "conversation_id": "2044040461963407871",
+        "created_at": "2026-04-14T15:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044081319920185767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081319920185767",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044040461963407871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 她是我女友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 3475,
+          "like_count": 34187,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 9102
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:42:37.000Z",
+        "description": "佛教信徒／梦想成为范马刃牙／照见五蕴皆空度一切苦厄／因为她是我的骄傲",
+        "id": "1758532281873125377",
+        "location": "Macau",
+        "name": "miyoko",
+        "pinned_tweet_id": "1999409951790497934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816362060768575488/vBUYB_KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 117,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 543
+        },
+        "username": "miyoko39196",
+        "verified": false
+      }
+    ]
+  }
+}

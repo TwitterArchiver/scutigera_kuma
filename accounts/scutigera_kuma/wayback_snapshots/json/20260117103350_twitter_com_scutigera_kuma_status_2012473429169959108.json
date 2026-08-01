@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012471090313080832",
+        "3_2012471090455461888",
+        "3_2012471090317230080"
+      ],
+      "media_source_tweet_id": [
+        "2012471154926133482",
+        "2012471154926133482",
+        "2012471154926133482"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2012473429169959108",
+    "created_at": "2026-01-17T10:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012473429169959108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692386236248309760",
+          "start": 3,
+          "username": "featherr1024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLSmm2X6UK",
+          "end": 53,
+          "expanded_url": "https://x.com/featherr1024/status/2012471154926133482/video/1",
+          "media_key": "13_2012471090313080832",
+          "start": 30,
+          "url": "https://t.co/HLSmm2X6UK"
+        },
+        {
+          "display_url": "pic.x.com/HLSmm2X6UK",
+          "end": 53,
+          "expanded_url": "https://x.com/featherr1024/status/2012471154926133482/video/1",
+          "media_key": "3_2012471090455461888",
+          "start": 30,
+          "url": "https://t.co/HLSmm2X6UK"
+        },
+        {
+          "display_url": "pic.x.com/HLSmm2X6UK",
+          "end": 53,
+          "expanded_url": "https://x.com/featherr1024/status/2012471154926133482/video/1",
+          "media_key": "3_2012471090317230080",
+          "start": 30,
+          "url": "https://t.co/HLSmm2X6UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012473429169959108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012471154926133482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @featherr1024: 呐，电次君，一起逃跑吧 https://t.co/HLSmm2X6UK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012473429169959108].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012473429169959108",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012473429169959108"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15270,
+        "height": 1280,
+        "media_key": "13_2012471090313080832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012471090313080832/img/mI3NU8IhuNZLEXow.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012471090313080832/vid/avc1/320x568/pNAZnVJmYFzd2STY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012471090313080832/vid/avc1/480x852/c5KgGUNR-PJUfGvt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012471090313080832/vid/avc1/720x1280/AMzPxTdG1a-3YnUa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012471090313080832/pl/twIIxTgPF7yCT56v.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012471090455461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-27y1NXQAA0-gj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012471090317230080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-27y0saAAAk8XI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012471090313080832",
+            "3_2012471090455461888",
+            "3_2012471090317230080"
+          ]
+        },
+        "author_id": "1692386236248309760",
+        "conversation_id": "2012471154926133482",
+        "created_at": "2026-01-17T10:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012471154926133482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLSmm2X6UK",
+              "end": 35,
+              "expanded_url": "https://x.com/featherr1024/status/2012471154926133482/video/1",
+              "media_key": "13_2012471090313080832",
+              "start": 12,
+              "url": "https://t.co/HLSmm2X6UK"
+            },
+            {
+              "display_url": "pic.x.com/HLSmm2X6UK",
+              "end": 35,
+              "expanded_url": "https://x.com/featherr1024/status/2012471154926133482/video/1",
+              "media_key": "3_2012471090455461888",
+              "start": 12,
+              "url": "https://t.co/HLSmm2X6UK"
+            },
+            {
+              "display_url": "pic.x.com/HLSmm2X6UK",
+              "end": 35,
+              "expanded_url": "https://x.com/featherr1024/status/2012471154926133482/video/1",
+              "media_key": "3_2012471090317230080",
+              "start": 12,
+              "url": "https://t.co/HLSmm2X6UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012471154926133482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呐，电次君，一起逃跑吧 https://t.co/HLSmm2X6UK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4686,
+          "following_count": 3430,
+          "like_count": 34001,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 8957
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T04:01:46.000Z",
+        "description": "我叫Umou 可以叫我小羽｜od｜地雷｜cos｜視覺系｜歡迎妹子找我互fo!男的先過門",
+        "id": "1692386236248309760",
+        "location": "🚪55/155/520",
+        "name": "Umou",
+        "pinned_tweet_id": "1988525357901992366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011462819959783424/hmjxXPwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 130,
+          "like_count": 856,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 299
+        },
+        "username": "featherr1024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019826487013318657"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2019826499147493383",
+    "created_at": "2026-02-06T17:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019826499147493383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/COFvwiA4lG",
+          "end": 37,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2019826499147493383/photo/1",
+          "media_key": "3_2019826487013318657",
+          "start": 14,
+          "url": "https://t.co/COFvwiA4lG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019826499147493383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人马上去美宜佳购买魔爪 https://t.co/COFvwiA4lG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2019826487013318657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfdfQpaoAEsAHS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019826487013318657"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019826499147493383",
+        "created_at": "2026-02-06T17:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019826499147493383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COFvwiA4lG",
+              "end": 37,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2019826499147493383/photo/1",
+              "media_key": "3_2019826487013318657",
+              "start": 14,
+              "url": "https://t.co/COFvwiA4lG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019826499147493383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人马上去美宜佳购买魔爪 https://t.co/COFvwiA4lG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 3431,
+          "like_count": 34079,
+          "listed_count": 6,
+          "media_count": 462,
+          "tweet_count": 8999
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

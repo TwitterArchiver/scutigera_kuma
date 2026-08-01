@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079078966384852992"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2079078980716797981",
+    "created_at": "2026-07-20T05:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079078980716797981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pqqvr08Pje",
+          "end": 39,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2079078980716797981/photo/1",
+          "media_key": "3_2079078966384852992",
+          "start": 16,
+          "url": "https://t.co/Pqqvr08Pje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079078980716797981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "薯条120重奏十分钟暴力清图来 https://t.co/Pqqvr08Pje"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2079078966384852992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpfTfNbAAA3QZ4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079078966384852992"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2079078980716797981",
+        "created_at": "2026-07-20T05:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079078980716797981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pqqvr08Pje",
+              "end": 39,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2079078980716797981/photo/1",
+              "media_key": "3_2079078966384852992",
+              "start": 16,
+              "url": "https://t.co/Pqqvr08Pje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079078980716797981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薯条120重奏十分钟暴力清图来 https://t.co/Pqqvr08Pje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 3328,
+          "like_count": 33943,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 9163
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

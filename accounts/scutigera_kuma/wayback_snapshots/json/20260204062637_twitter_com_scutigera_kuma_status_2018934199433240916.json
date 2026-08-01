@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2018760919615234162",
+    "created_at": "2026-02-04T06:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018934199433240916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012016163640000513",
+          "start": 0,
+          "username": "CHUAIBAIMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018934199433240916",
+    "in_reply_to_user_id": "2012016163640000513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018933169031123129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHUAIBAIMF 你就继续搞你的受害者有罪论，以后你妈被奸杀也是你妈有问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2018760919615234162",
+        "created_at": "2026-02-04T06:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018934199433240916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012016163640000513",
+              "start": 0,
+              "username": "CHUAIBAIMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018934199433240916",
+        "in_reply_to_user_id": "2012016163640000513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018933169031123129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHUAIBAIMF 你就继续搞你的受害者有罪论，以后你妈被奸杀也是你妈有问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012016163640000513",
+        "conversation_id": "2018760919615234162",
+        "created_at": "2026-02-04T06:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018933169031123129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018933169031123129",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018760919615234162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 能被骗的也是脑子有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735,
+          "following_count": 3426,
+          "like_count": 34087,
+          "listed_count": 6,
+          "media_count": 461,
+          "tweet_count": 8995
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T04:17:00.000Z",
+        "description": "今天你吃饭了吗 | 碎碎念@NEEDLM111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "NEEDLM111"
+              }
+            ]
+          }
+        },
+        "id": "2012016163640000513",
+        "location": "Hong Kong",
+        "name": "纯爱白米饭🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012016854416703490/kIemb6Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 11,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "CHUAIBAIMF",
+        "verified": false
+      }
+    ]
+  }
+}

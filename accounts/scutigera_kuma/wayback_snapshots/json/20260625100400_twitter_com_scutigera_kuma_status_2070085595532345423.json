@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070085585801564160",
+        "3_2070085585843412992",
+        "3_2070085585805717504",
+        "3_2070085585814032384"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070085595532345423",
+    "created_at": "2026-06-25T10:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070085595532345423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iCqWAjwK4v",
+          "end": 32,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+          "media_key": "3_2070085585801564160",
+          "start": 9,
+          "url": "https://t.co/iCqWAjwK4v"
+        },
+        {
+          "display_url": "pic.x.com/iCqWAjwK4v",
+          "end": 32,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+          "media_key": "3_2070085585843412992",
+          "start": 9,
+          "url": "https://t.co/iCqWAjwK4v"
+        },
+        {
+          "display_url": "pic.x.com/iCqWAjwK4v",
+          "end": 32,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+          "media_key": "3_2070085585805717504",
+          "start": 9,
+          "url": "https://t.co/iCqWAjwK4v"
+        },
+        {
+          "display_url": "pic.x.com/iCqWAjwK4v",
+          "end": 32,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+          "media_key": "3_2070085585814032384",
+          "start": 9,
+          "url": "https://t.co/iCqWAjwK4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070085595532345423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想起来一些事情 https://t.co/iCqWAjwK4v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070085585801564160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpr31xb0AA73SY.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070085585843412992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpr317aYAAwNFM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 720,
+        "media_key": "3_2070085585805717504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpr31ybMAANn62.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2070085585814032384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpr310aEAAerzj.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070085585801564160",
+            "3_2070085585843412992",
+            "3_2070085585805717504",
+            "3_2070085585814032384"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070085595532345423",
+        "created_at": "2026-06-25T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070085595532345423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCqWAjwK4v",
+              "end": 32,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+              "media_key": "3_2070085585801564160",
+              "start": 9,
+              "url": "https://t.co/iCqWAjwK4v"
+            },
+            {
+              "display_url": "pic.x.com/iCqWAjwK4v",
+              "end": 32,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+              "media_key": "3_2070085585843412992",
+              "start": 9,
+              "url": "https://t.co/iCqWAjwK4v"
+            },
+            {
+              "display_url": "pic.x.com/iCqWAjwK4v",
+              "end": 32,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+              "media_key": "3_2070085585805717504",
+              "start": 9,
+              "url": "https://t.co/iCqWAjwK4v"
+            },
+            {
+              "display_url": "pic.x.com/iCqWAjwK4v",
+              "end": 32,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2070085595532345423/photo/1",
+              "media_key": "3_2070085585814032384",
+              "start": 9,
+              "url": "https://t.co/iCqWAjwK4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070085595532345423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起来一些事情 https://t.co/iCqWAjwK4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069860946647085056/E4BruncW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 3314,
+          "like_count": 34215,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 9148
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

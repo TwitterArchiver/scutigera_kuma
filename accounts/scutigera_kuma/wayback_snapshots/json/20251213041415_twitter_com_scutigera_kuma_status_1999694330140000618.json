@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "1999136311085810077",
+    "created_at": "2025-12-13T04:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999694330140000618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999694330140000618",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999694232471408775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 没事闹着玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1999136311085810077",
+        "created_at": "2025-12-13T04:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999694330140000618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999694330140000618",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999694232471408775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 没事闹着玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "1999136311085810077",
+        "created_at": "2025-12-13T04:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999694232471408775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999694232471408775",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999136311085810077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 3421,
+          "like_count": 33997,
+          "listed_count": 6,
+          "media_count": 450,
+          "tweet_count": 8912
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "病み垢。同類會回fo",
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "1990288650362593493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981203600161333248/jyvginla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 515,
+          "like_count": 7494,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1030
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

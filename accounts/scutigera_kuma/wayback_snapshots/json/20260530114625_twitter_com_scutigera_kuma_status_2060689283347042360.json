@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060046883838459905"
+      ],
+      "media_source_tweet_id": [
+        "2060046895003644328"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "2060689283347042360",
+    "created_at": "2026-05-30T11:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060689283347042360"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "ひぐらしのなく頃に"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809269557271621635",
+          "start": 3,
+          "username": "_souel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqvZUHba4r",
+          "end": 47,
+          "expanded_url": "https://x.com/_souel_/status/2060046895003644328/photo/1",
+          "media_key": "3_2060046883838459905",
+          "start": 24,
+          "url": "https://t.co/cqvZUHba4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060689283347042360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060046895003644328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_souel_: #ひぐらしのなく頃に https://t.co/cqvZUHba4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060046883838459905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbBuevXgAE8ec0.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060046883838459905"
+          ],
+          "media_source_tweet_id": [
+            "2060046895003644328"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2060689283347042360",
+        "created_at": "2026-05-30T11:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060689283347042360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "ひぐらしのなく頃に"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809269557271621635",
+              "start": 3,
+              "username": "_souel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqvZUHba4r",
+              "end": 47,
+              "expanded_url": "https://x.com/_souel_/status/2060046895003644328/photo/1",
+              "media_key": "3_2060046883838459905",
+              "start": 24,
+              "url": "https://t.co/cqvZUHba4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060689283347042360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060046895003644328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_souel_: #ひぐらしのなく頃に https://t.co/cqvZUHba4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060046883838459905"
+          ]
+        },
+        "author_id": "1809269557271621635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2060046895003644328",
+        "created_at": "2026-05-28T17:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060046895003644328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ひぐらしのなく頃に"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqvZUHba4r",
+              "end": 34,
+              "expanded_url": "https://x.com/_souel_/status/2060046895003644328/photo/1",
+              "media_key": "3_2060046883838459905",
+              "start": 11,
+              "url": "https://t.co/cqvZUHba4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060046895003644328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 4993,
+          "like_count": 551,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "#ひぐらしのなく頃に https://t.co/cqvZUHba4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 3310,
+          "like_count": 34450,
+          "listed_count": 5,
+          "media_count": 476,
+          "tweet_count": 9169
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T16:54:20.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.lava.top/souel?donate=o…",
+                "end": 23,
+                "expanded_url": "http://app.lava.top/souel?donate=open",
+                "start": 0,
+                "url": "https://t.co/iLcYWpt0IC"
+              }
+            ]
+          }
+        },
+        "id": "1809269557271621635",
+        "name": "souel",
+        "pinned_tweet_id": "2053143255643021710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809269710791360512/LHMRQ6my_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 163,
+          "like_count": 2348,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/iLcYWpt0IC",
+        "username": "_souel_",
+        "verified": false
+      }
+    ]
+  }
+}

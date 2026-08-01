@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2014313809457160246",
+    "created_at": "2026-01-23T04:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014552091474461071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843311768040542209",
+          "start": 0,
+          "username": "Shipwreckrodney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014552091474461071",
+    "in_reply_to_user_id": "1843311768040542209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014551343504179428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shipwreckrodney 该公众号提供的服务出现故障，请稍后再试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2014313809457160246",
+        "created_at": "2026-01-23T04:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014552091474461071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843311768040542209",
+              "start": 0,
+              "username": "Shipwreckrodney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014552091474461071",
+        "in_reply_to_user_id": "1843311768040542209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014551343504179428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shipwreckrodney 该公众号提供的服务出现故障，请稍后再试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843311768040542209",
+        "conversation_id": "2014313809457160246",
+        "created_at": "2026-01-23T04:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014551343504179428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014551343504179428",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014313809457160246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 获取玩家二维码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 3426,
+          "like_count": 34014,
+          "listed_count": 6,
+          "media_count": 460,
+          "tweet_count": 8971
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T15:25:58.000Z",
+        "description": "罗德尼的船骸",
+        "id": "1843311768040542209",
+        "name": "罗德尼的船骸",
+        "pinned_tweet_id": "1843463985963905084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003793356607127552/cn-MZRYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 634,
+          "like_count": 84208,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 7702
+        },
+        "username": "Shipwreckrodney",
+        "verified": false
+      }
+    ]
+  }
+}

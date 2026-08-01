@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006786159943483392",
+        "7_2006786240004472832"
+      ],
+      "media_source_tweet_id": [
+        "2006786955301081231",
+        "2006786955301081231"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2006816657856155971",
+    "created_at": "2026-01-01T19:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006816657856155971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891848716023422976",
+          "start": 3,
+          "username": "AORINGO_nemuru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSAybfceIZ",
+          "end": 62,
+          "expanded_url": "https://x.com/AORINGO_nemuru/status/2006786955301081231/video/1",
+          "media_key": "7_2006786159943483392",
+          "start": 39,
+          "url": "https://t.co/rSAybfceIZ"
+        },
+        {
+          "display_url": "pic.x.com/rSAybfceIZ",
+          "end": 62,
+          "expanded_url": "https://x.com/AORINGO_nemuru/status/2006786955301081231/video/1",
+          "media_key": "7_2006786240004472832",
+          "start": 39,
+          "url": "https://t.co/rSAybfceIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006816657856155971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006786955301081231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AORINGO_nemuru: 躁狂男tori暴打小女孩的完整版视频 https://t.co/rSAybfceIZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006816657856155971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006816657856155971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006816657856155971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83233,
+        "height": 1280,
+        "media_key": "7_2006786159943483392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006786159943483392/pu/img/3IgMF3TB5WtUCS7U.jpg",
+        "public_metrics": {
+          "view_count": 108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/vid/avc1/320x568/7v5zP6UNd8hfgRAE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/vid/avc1/480x852/pi49Y7oPJhFz1Cd6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/vid/avc1/720x1280/dfIhGzEfHYZfTwkW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/pl/6AtAi0zXhRX4tUJg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 112933,
+        "height": 1280,
+        "media_key": "7_2006786240004472832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006786240004472832/pu/img/mQ92-ai4L-Sdp9eR.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/vid/avc1/320x568/g-f0dFmCkv1U0TAi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/vid/avc1/480x852/VJ8UT5gv88xRX6KR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/vid/avc1/720x1280/NrHvZVdJLNPato8K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/pl/Dr_tsLcPHFAG6qVX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 83233,
+        "height": 1280,
+        "media_key": "7_2006786159943483392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006786159943483392/pu/img/3IgMF3TB5WtUCS7U.jpg",
+        "public_metrics": {
+          "view_count": 113
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/vid/avc1/320x568/7v5zP6UNd8hfgRAE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/vid/avc1/480x852/pi49Y7oPJhFz1Cd6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/vid/avc1/720x1280/dfIhGzEfHYZfTwkW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006786159943483392/pu/pl/6AtAi0zXhRX4tUJg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 112933,
+        "height": 1280,
+        "media_key": "7_2006786240004472832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006786240004472832/pu/img/mQ92-ai4L-Sdp9eR.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/vid/avc1/320x568/g-f0dFmCkv1U0TAi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/vid/avc1/480x852/VJ8UT5gv88xRX6KR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/vid/avc1/720x1280/NrHvZVdJLNPato8K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006786240004472832/pu/pl/Dr_tsLcPHFAG6qVX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006786159943483392",
+            "7_2006786240004472832"
+          ]
+        },
+        "author_id": "1891848716023422976",
+        "conversation_id": "2006786955301081231",
+        "created_at": "2026-01-01T17:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006786955301081231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSAybfceIZ",
+              "end": 42,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2006786955301081231/video/1",
+              "media_key": "7_2006786159943483392",
+              "start": 19,
+              "url": "https://t.co/rSAybfceIZ"
+            },
+            {
+              "display_url": "pic.x.com/rSAybfceIZ",
+              "end": 42,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2006786955301081231/video/1",
+              "media_key": "7_2006786240004472832",
+              "start": 19,
+              "url": "https://t.co/rSAybfceIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006786955301081231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "躁狂男tori暴打小女孩的完整版视频 https://t.co/rSAybfceIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 3417,
+          "like_count": 34161,
+          "listed_count": 6,
+          "media_count": 454,
+          "tweet_count": 8940
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 欲望,暴力,自由",
+        "id": "1891848716023422976",
+        "location": "🚪50/88/150",
+        "name": "青林檎",
+        "pinned_tweet_id": "1998901537008210185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006667009631858691/Rt_oaZEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 222,
+          "like_count": 11613,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 967
+        },
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

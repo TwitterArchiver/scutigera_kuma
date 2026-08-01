@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2008533833663349078",
+    "created_at": "2026-01-06T13:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T14:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008536267760562290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798982562494414848",
+          "start": 0,
+          "username": "Nokami_Rui"
+        },
+        {
+          "end": 28,
+          "id": "1938335923587973120",
+          "start": 12,
+          "username": "inKhJ5dke532638"
+        },
+        {
+          "end": 45,
+          "id": "1856690138409267200",
+          "start": 29,
+          "username": "Austinblue90845"
+        },
+        {
+          "end": 60,
+          "id": "1847153221900685312",
+          "start": 46,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008536267760562290",
+    "in_reply_to_user_id": "1798982562494414848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008536206657941625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokami_Rui @inKhJ5dke532638 @Austinblue90845 @weiheyaokanwo 没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2008533833663349078",
+        "created_at": "2026-01-06T13:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008536267760562290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798982562494414848",
+              "start": 0,
+              "username": "Nokami_Rui"
+            },
+            {
+              "end": 28,
+              "id": "1938335923587973120",
+              "start": 12,
+              "username": "inKhJ5dke532638"
+            },
+            {
+              "end": 45,
+              "id": "1856690138409267200",
+              "start": 29,
+              "username": "Austinblue90845"
+            },
+            {
+              "end": 60,
+              "id": "1847153221900685312",
+              "start": 46,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008536267760562290",
+        "in_reply_to_user_id": "1798982562494414848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008536206657941625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokami_Rui @inKhJ5dke532638 @Austinblue90845 @weiheyaokanwo 没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798982562494414848",
+        "conversation_id": "2008533833663349078",
+        "created_at": "2026-01-06T13:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008536206657941625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 32,
+              "id": "1938335923587973120",
+              "start": 16,
+              "username": "inKhJ5dke532638"
+            },
+            {
+              "end": 49,
+              "id": "1856690138409267200",
+              "start": 33,
+              "username": "Austinblue90845"
+            },
+            {
+              "end": 64,
+              "id": "1847153221900685312",
+              "start": 50,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008536206657941625",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008536042996199511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @inKhJ5dke532638 @Austinblue90845 @weiheyaokanwo 你这边要是介意我可以先删"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 3420,
+          "like_count": 34069,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 8950
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:37:57.000Z",
+        "description": "In death, there is life. In disease, there is strength/万物皆腐，众生不灭/慈父的腐烂浓汤/毒舌病み垢🗑️🔞注意",
+        "id": "1798982562494414848",
+        "location": "Garden of Nurgle",
+        "name": "Sephy🍵渾沌神Nurgle",
+        "pinned_tweet_id": "2008504630112907488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798984703648882688/9zjGs5WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 99,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 1783
+        },
+        "username": "Nokami_Rui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T20:38:05.000Z",
+        "description": "インターネットや・め・ろ～！！！ 這只是一個小女孩的紀錄生活碎碎念什麼都沒有🚪52/88 好友位 @Austinblue90845",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Austinblue90845"
+              }
+            ]
+          }
+        },
+        "id": "1938335923587973120",
+        "location": "地獄",
+        "name": "ネコ王様👑",
+        "pinned_tweet_id": "2002989696109232616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960430951605133315/cvphLfw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 224,
+          "like_count": 2263,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1749
+        },
+        "username": "inKhJ5dke532638",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T13:26:52.000Z",
+        "description": "@inKhJ5dke532638守护最好的neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "inKhJ5dke532638"
+              }
+            ]
+          }
+        },
+        "id": "1856690138409267200",
+        "name": "この人がすごく怠惰ので何も書いたのしない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941743959933587456/KNpCXSNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 41,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 101
+        },
+        "username": "Austinblue90845",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ/ダメ女 追寻梦中的死亡/🚪288 谢谢你照顾我",
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990250273076600832/GZMeL-dW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 643,
+          "like_count": 1425,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 2660
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

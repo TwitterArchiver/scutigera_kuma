@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2042129394790232547",
+    "created_at": "2026-04-09T13:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042236552189984977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654904512950456320",
+          "start": 0,
+          "username": "bairinkishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042236552189984977",
+    "in_reply_to_user_id": "1654904512950456320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042235057100984649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bairinkishi 那你让让我，我自己会死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2042129394790232547",
+        "created_at": "2026-04-09T13:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042236552189984977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654904512950456320",
+              "start": 0,
+              "username": "bairinkishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042236552189984977",
+        "in_reply_to_user_id": "1654904512950456320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042235057100984649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bairinkishi 那你让让我，我自己会死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654904512950456320",
+        "conversation_id": "2042129394790232547",
+        "created_at": "2026-04-09T13:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042235057100984649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042235057100984649",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042129394790232547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 你装尼玛呢？有本事开碰碰车去，走私卖药都不敢你敢怎么发泄？你就这点power？那不欺负你欺负谁？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4711,
+          "following_count": 3467,
+          "like_count": 34095,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 9080
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:42:47.000Z",
+        "description": "English/日本語/中文　艦これ大好き　政治多いすみません",
+        "id": "1654904512950456320",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "梅淋骑士【≽ܫ≼】",
+        "pinned_tweet_id": "1668998561214902273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669012302262317057/vCkXIsbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 521,
+          "like_count": 4629,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2901
+        },
+        "username": "bairinkishi",
+        "verified": false
+      }
+    ]
+  }
+}

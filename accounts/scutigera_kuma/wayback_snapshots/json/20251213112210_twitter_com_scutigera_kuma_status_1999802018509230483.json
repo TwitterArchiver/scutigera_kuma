@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "1999801925508964774",
+    "created_at": "2025-12-13T11:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999802018509230483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341766476609462274",
+          "start": 0,
+          "username": "mentallychels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999802018509230483",
+    "in_reply_to_user_id": "1341766476609462274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999801925508964774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychels 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999801903019102208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8C5PEKakAAfyTS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999801903312728064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8C5PFQa8AAbjCb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1999801925508964774",
+        "created_at": "2025-12-13T11:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999802018509230483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999802018509230483",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999801925508964774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999801903019102208",
+            "3_1999801903312728064"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1999801925508964774",
+        "created_at": "2025-12-13T11:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999801925508964774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6NwaLczwq",
+              "end": 32,
+              "expanded_url": "https://x.com/mentallychels/status/1999801925508964774/photo/1",
+              "media_key": "3_1999801903019102208",
+              "start": 9,
+              "url": "https://t.co/o6NwaLczwq"
+            },
+            {
+              "display_url": "pic.x.com/o6NwaLczwq",
+              "end": 32,
+              "expanded_url": "https://x.com/mentallychels/status/1999801925508964774/photo/1",
+              "media_key": "3_1999801903312728064",
+              "start": 9,
+              "url": "https://t.co/o6NwaLczwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999801925508964774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加油鐵肩大姐姐！ https://t.co/o6NwaLczwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 3421,
+          "like_count": 33997,
+          "listed_count": 6,
+          "media_count": 450,
+          "tweet_count": 8913
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "小壑｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_kuma🚪299/520/1314/2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "scutigera_kuma"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1975825059651723566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13949,
+          "following_count": 235,
+          "like_count": 1824,
+          "listed_count": 22,
+          "media_count": 327,
+          "tweet_count": 1327
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

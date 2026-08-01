@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2051599064857497814",
+    "created_at": "2026-05-05T11:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051630896651128982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051630896651128982",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051618662684180950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skura_ku 国际快递说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2051599064857497814",
+        "created_at": "2026-05-05T11:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051630896651128982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051630896651128982",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051618662684180950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skura_ku 国际快递说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "2051599064857497814",
+        "created_at": "2026-05-05T11:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051618662684180950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051618662684180950",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051599064857497814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 我要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926,
+          "following_count": 3524,
+          "like_count": 34247,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9130
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💖🌍と@zqlxc_ あかちゃん",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "zqlxc_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1UFB7LOMI2R6F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/uTbdtOmXZG"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "1997718826864267728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050454809132867584/GOB1PgBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21475,
+          "following_count": 401,
+          "like_count": 16877,
+          "listed_count": 69,
+          "media_count": 882,
+          "tweet_count": 7050
+        },
+        "url": "https://t.co/uTbdtOmXZG",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

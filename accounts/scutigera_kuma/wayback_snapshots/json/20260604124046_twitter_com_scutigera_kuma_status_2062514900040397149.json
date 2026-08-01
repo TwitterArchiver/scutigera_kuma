@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062514890888335360"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2062514900040397149",
+    "created_at": "2026-06-04T12:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062514900040397149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5s1IBszBwA",
+          "end": 28,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2062514900040397149/photo/1",
+          "media_key": "3_2062514890888335360",
+          "start": 5,
+          "url": "https://t.co/5s1IBszBwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062514900040397149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凉席席席 https://t.co/5s1IBszBwA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062514890888335360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-GXZdaUAAUMR3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062514890888335360"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2062514900040397149",
+        "created_at": "2026-06-04T12:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062514900040397149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5s1IBszBwA",
+              "end": 28,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2062514900040397149/photo/1",
+              "media_key": "3_2062514890888335360",
+              "start": 5,
+              "url": "https://t.co/5s1IBszBwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062514900040397149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凉席席席 https://t.co/5s1IBszBwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423445410050048/x8WO11UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 3317,
+          "like_count": 34499,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 9150
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

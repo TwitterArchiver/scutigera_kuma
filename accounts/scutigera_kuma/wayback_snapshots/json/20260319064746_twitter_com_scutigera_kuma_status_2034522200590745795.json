@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034165274803662848"
+      ],
+      "media_source_tweet_id": [
+        "2034165278784033098"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034522200590745795",
+    "created_at": "2026-03-19T06:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034522200590745795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385206009065394182",
+          "start": 3,
+          "username": "chronic_clinic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxTidAI43H",
+          "end": 44,
+          "expanded_url": "https://x.com/chronic_clinic_/status/2034165278784033098/photo/1",
+          "media_key": "3_2034165274803662848",
+          "start": 21,
+          "url": "https://t.co/fxTidAI43H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034522200590745795",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034165278784033098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chronic_clinic_: https://t.co/fxTidAI43H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2034165274803662848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrOijsbcAAuMmw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034165274803662848"
+          ],
+          "media_source_tweet_id": [
+            "2034165278784033098"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034522200590745795",
+        "created_at": "2026-03-19T06:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034522200590745795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385206009065394182",
+              "start": 3,
+              "username": "chronic_clinic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxTidAI43H",
+              "end": 44,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2034165278784033098/photo/1",
+              "media_key": "3_2034165274803662848",
+              "start": 21,
+              "url": "https://t.co/fxTidAI43H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034522200590745795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034165278784033098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chronic_clinic_: https://t.co/fxTidAI43H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034165274803662848"
+          ]
+        },
+        "author_id": "1385206009065394182",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034165278784033098",
+        "created_at": "2026-03-18T07:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034165278784033098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxTidAI43H",
+              "end": 23,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2034165278784033098/photo/1",
+              "media_key": "3_2034165274803662848",
+              "start": 0,
+              "url": "https://t.co/fxTidAI43H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034165278784033098",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 14715,
+          "like_count": 537,
+          "quote_count": 21,
+          "reply_count": 14,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fxTidAI43H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 3448,
+          "like_count": 34074,
+          "listed_count": 6,
+          "media_count": 475,
+          "tweet_count": 9046
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:17:17.000Z",
+        "description": "bootleg images",
+        "id": "1385206009065394182",
+        "name": "bootleg_images_bot(twee!:void(0)-+****",
+        "pinned_tweet_id": "1574410887343247361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22396,
+          "following_count": 1,
+          "like_count": 8565,
+          "listed_count": 66,
+          "media_count": 8027,
+          "tweet_count": 8075
+        },
+        "username": "chronic_clinic_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059976245849534464"
+      ],
+      "media_source_tweet_id": [
+        "2059976252354896243"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2060607022094274814",
+    "created_at": "2026-05-30T06:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060607022094274814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1399308922087899138",
+          "start": 3,
+          "username": "Celicovvb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFjODAJa1U",
+          "end": 56,
+          "expanded_url": "https://x.com/Celicovvb/status/2059976252354896243/photo/1",
+          "media_key": "3_2059976245849534464",
+          "start": 33,
+          "url": "https://t.co/DFjODAJa1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060607022094274814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059976252354896243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celicovvb: 线下🚪38！转发这条抽10个奶茶！ https://t.co/DFjODAJa1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059976245849534464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBezuasAAGnF8.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059976245849534464"
+          ],
+          "media_source_tweet_id": [
+            "2059976252354896243"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060607022094274814",
+        "created_at": "2026-05-30T06:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060607022094274814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1399308922087899138",
+              "start": 3,
+              "username": "Celicovvb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFjODAJa1U",
+              "end": 56,
+              "expanded_url": "https://x.com/Celicovvb/status/2059976252354896243/photo/1",
+              "media_key": "3_2059976245849534464",
+              "start": 33,
+              "url": "https://t.co/DFjODAJa1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060607022094274814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059976252354896243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celicovvb: 线下🚪38！转发这条抽10个奶茶！ https://t.co/DFjODAJa1U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059976245849534464"
+          ]
+        },
+        "author_id": "1399308922087899138",
+        "conversation_id": "2059976252354896243",
+        "created_at": "2026-05-28T12:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059976252354896243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFjODAJa1U",
+              "end": 41,
+              "expanded_url": "https://x.com/Celicovvb/status/2059976252354896243/photo/1",
+              "media_key": "3_2059976245849534464",
+              "start": 18,
+              "url": "https://t.co/DFjODAJa1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059976252354896243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "线下🚪38！转发这条抽10个奶茶！ https://t.co/DFjODAJa1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 3310,
+          "like_count": 34436,
+          "listed_count": 5,
+          "media_count": 476,
+          "tweet_count": 9163
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T10:17:09.000Z",
+        "description": "女宝互fo互转。过门加q 1733643075",
+        "id": "1399308922087899138",
+        "location": "线下🚪38",
+        "name": "虫虫",
+        "pinned_tweet_id": "2059976252354896243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060533132290666496/SkpxR_RC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 13,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 161
+        },
+        "username": "Celicovvb",
+        "verified": true
+      }
+    ]
+  }
+}

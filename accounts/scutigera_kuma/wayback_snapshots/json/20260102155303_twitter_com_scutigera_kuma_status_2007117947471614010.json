@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2007117947471614010",
+    "created_at": "2026-01-02T15:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007117947471614010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inkhj5dke53263…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/inkhj5dke532638/status/2007095777253118120",
+          "start": 8,
+          "url": "https://t.co/Lkz9OhswLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007117947471614010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007095777253118120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还有dlc https://t.co/Lkz9OhswLf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2007117947471614010",
+        "created_at": "2026-01-02T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007117947471614010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inkhj5dke53263…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/inkhj5dke532638/status/2007095777253118120",
+              "start": 8,
+              "url": "https://t.co/Lkz9OhswLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007117947471614010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007095777253118120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还有dlc https://t.co/Lkz9OhswLf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938335923587973120",
+        "conversation_id": "2007095777253118120",
+        "created_at": "2026-01-02T14:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007095777253118120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007095777253118120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实tori非常两面三刀啊之前和墨恒沉黎一起玩的时候在我面前骂的可难听了转头又和人家和好🌚我承认我就是讨厌她那不也是因为她先讨厌的我还蛐蛐我不承认吗。其实当时你们和tori骂我的时候我就在旁边全听到了。后面又在那装无辜说我讨厌你。一开始都不是我骂你的，是你曾经最爱的哥哥说你让他恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4670,
+          "following_count": 3418,
+          "like_count": 34049,
+          "listed_count": 6,
+          "media_count": 455,
+          "tweet_count": 8942
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T20:38:05.000Z",
+        "description": "インターネットや・め・ろ～！！！ 這只是一個小女孩的紀錄生活碎碎念什麼都沒有🚪52/88 好友位 @Austinblue90845",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Austinblue90845"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neko11678",
+                "end": 23,
+                "expanded_url": "https://ngl.link/neko11678",
+                "start": 0,
+                "url": "https://t.co/7o2uDOkmXk"
+              }
+            ]
+          }
+        },
+        "id": "1938335923587973120",
+        "location": "地獄",
+        "name": "ネコ王様👑",
+        "pinned_tweet_id": "1954984387742986578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960430951605133315/cvphLfw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 223,
+          "like_count": 2169,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/7o2uDOkmXk",
+        "username": "inKhJ5dke532638",
+        "verified": false
+      }
+    ]
+  }
+}

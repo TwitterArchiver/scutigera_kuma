@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009307469265399808"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2009307474885841171",
+    "created_at": "2026-01-08T16:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009307474885841171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oXgvlbckeI",
+          "end": 28,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2009307474885841171/photo/1",
+          "media_key": "3_2009307469265399808",
+          "start": 5,
+          "url": "https://t.co/oXgvlbckeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009307474885841171",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……ok https://t.co/oXgvlbckeI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009307469265399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-J-f14acAAWQRr.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009307469265399808"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2009307474885841171",
+        "created_at": "2026-01-08T16:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009307474885841171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXgvlbckeI",
+              "end": 28,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2009307474885841171/photo/1",
+              "media_key": "3_2009307469265399808",
+              "start": 5,
+              "url": "https://t.co/oXgvlbckeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009307474885841171",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……ok https://t.co/oXgvlbckeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 3421,
+          "like_count": 33940,
+          "listed_count": 6,
+          "media_count": 457,
+          "tweet_count": 8942
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

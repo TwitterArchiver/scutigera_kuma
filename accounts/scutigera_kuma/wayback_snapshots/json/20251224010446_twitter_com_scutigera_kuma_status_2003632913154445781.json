@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2003549092451090535",
+    "created_at": "2025-12-24T01:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T02:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003632913154445781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003632913154445781",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003549092451090535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 我一点也不羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_2003549087585697799",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G84JR6eagAcssk4.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1431,
+        "media_key": "3_2003549087589916673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G84JR6fa4AECAAp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2003549092451090535",
+        "created_at": "2025-12-24T01:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003632913154445781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003632913154445781",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003549092451090535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 我一点也不羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003549087585697799",
+            "3_2003549087589916673"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "2003549092451090535",
+        "created_at": "2025-12-23T19:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003549092451090535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wx6ptCoEG4",
+              "end": 44,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2003549092451090535/photo/1",
+              "media_key": "3_2003549087585697799",
+              "start": 21,
+              "url": "https://t.co/wx6ptCoEG4"
+            },
+            {
+              "display_url": "pic.x.com/wx6ptCoEG4",
+              "end": 44,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2003549092451090535/photo/1",
+              "media_key": "3_2003549087589916673",
+              "start": 21,
+              "url": "https://t.co/wx6ptCoEG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003549092451090535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是悠悠🤓今天到此为止，明天再赶三个结束 https://t.co/wx6ptCoEG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 3416,
+          "like_count": 34164,
+          "listed_count": 6,
+          "media_count": 453,
+          "tweet_count": 8932
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "INTJ|男的|仮面ライダー|キャラクターデザイナー|小さな雑記|中野",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996001052634869760/MikLEZok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 221,
+          "like_count": 41806,
+          "listed_count": 0,
+          "media_count": 673,
+          "tweet_count": 5094
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

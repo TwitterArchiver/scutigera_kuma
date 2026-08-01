@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2036071186992660979",
+    "created_at": "2026-03-23T13:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036071186992660979"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "k8"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "纯绿"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "半绿"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1830321903522942976",
+          "start": 3,
+          "username": "miomio1560881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036071186992660979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031680955145211914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomio1560881: 我是雨野/小野 （线下半绿只接妈妈活！\n我只是个可怜的缺钱女孩呀…互转互粉磨多磨多！我只是个臭精神病！但是我很温良的🥺过我🚪吧我会爱你们的！谢谢你们！\n#妈妈活 #门槛妹 #门槛姐 #门槛哥 #ATM奴 #k8 #纯绿 #半绿 #线下 #女…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036071186992660979].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036071186992660979",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036071186992660979"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2031680938187583488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH7DImacAAolKK.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031680938191839232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH7DInbYAAgpbH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031680938175082497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH7DIjbsAEfAhm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031680938216964096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH7DItawAA4mSN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031680938187583488",
+            "3_2031680938191839232",
+            "3_2031680938175082497",
+            "3_2031680938216964096"
+          ]
+        },
+        "author_id": "1830321903522942976",
+        "conversation_id": "2031680955145211914",
+        "created_at": "2026-03-11T10:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031680955145211914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "k8"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "纯绿"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "半绿"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "线下"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "女高"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "反差女高"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "原味"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZd1PkQNJi",
+              "end": 160,
+              "expanded_url": "https://x.com/miomio1560881/status/2031680955145211914/photo/1",
+              "media_key": "3_2031680938187583488",
+              "start": 137,
+              "url": "https://t.co/xZd1PkQNJi"
+            },
+            {
+              "display_url": "pic.x.com/xZd1PkQNJi",
+              "end": 160,
+              "expanded_url": "https://x.com/miomio1560881/status/2031680955145211914/photo/1",
+              "media_key": "3_2031680938191839232",
+              "start": 137,
+              "url": "https://t.co/xZd1PkQNJi"
+            },
+            {
+              "display_url": "pic.x.com/xZd1PkQNJi",
+              "end": 160,
+              "expanded_url": "https://x.com/miomio1560881/status/2031680955145211914/photo/1",
+              "media_key": "3_2031680938175082497",
+              "start": 137,
+              "url": "https://t.co/xZd1PkQNJi"
+            },
+            {
+              "display_url": "pic.x.com/xZd1PkQNJi",
+              "end": 160,
+              "expanded_url": "https://x.com/miomio1560881/status/2031680955145211914/photo/1",
+              "media_key": "3_2031680938216964096",
+              "start": 137,
+              "url": "https://t.co/xZd1PkQNJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031680955145211914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7239,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我是雨野/小野 （线下半绿只接妈妈活！\n我只是个可怜的缺钱女孩呀…互转互粉磨多磨多！我只是个臭精神病！但是我很温良的🥺过我🚪吧我会爱你们的！谢谢你们！\n#妈妈活 #门槛妹 #门槛姐 #门槛哥 #ATM奴 #k8 #纯绿 #半绿 #线下 #女高 #反差女高 #原味 #爸爸活 https://t.co/xZd1PkQNJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 3458,
+          "like_count": 34122,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 9057
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T19:08:50.000Z",
+        "description": "请入我🚪互转互粉随时欢迎！\n52/88/152/252/520/1314入门不退不要欺负我！ 线下非绿只接妈妈活！对不起因为一些不好说的原因！\n喜欢💊 纹身 穿孔 小动物 尼古丁",
+        "id": "1830321903522942976",
+        "location": "奥比岛",
+        "name": "neko",
+        "pinned_tweet_id": "2031680955145211914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031794264976605190/YG02D00I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 59,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "username": "miomio1560881",
+        "verified": false
+      }
+    ]
+  }
+}

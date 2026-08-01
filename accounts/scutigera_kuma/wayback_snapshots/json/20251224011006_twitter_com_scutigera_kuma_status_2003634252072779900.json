@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003597063263834112",
+        "3_2003597073430773760"
+      ],
+      "media_source_tweet_id": [
+        "2003597089046147143",
+        "2003597089046147143"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2003634252072779900",
+    "created_at": "2025-12-24T01:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T02:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003634252072779900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lRbLJp6LD",
+          "end": 80,
+          "expanded_url": "https://x.com/Uni_btt/status/2003597089046147143/photo/1",
+          "media_key": "3_2003597063263834112",
+          "start": 57,
+          "url": "https://t.co/6lRbLJp6LD"
+        },
+        {
+          "display_url": "pic.x.com/6lRbLJp6LD",
+          "end": 80,
+          "expanded_url": "https://x.com/Uni_btt/status/2003597089046147143/photo/1",
+          "media_key": "3_2003597073430773760",
+          "start": 57,
+          "url": "https://t.co/6lRbLJp6LD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003634252072779900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003597089046147143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: 感谢支持感谢转发感谢喵、请约我吧……我是一个温柔善良的小女孩！拜托了！我需要钱！！！！ https://t.co/6lRbLJp6LD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003597063263834112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8406dzbUAAbmE_.jpg",
+        "width": 1857
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003597073430773760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8407DragAAD--8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003597063263834112",
+            "3_2003597073430773760"
+          ],
+          "media_source_tweet_id": [
+            "2003597089046147143",
+            "2003597089046147143"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2003634252072779900",
+        "created_at": "2025-12-24T01:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003634252072779900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358061535340290048",
+              "start": 3,
+              "username": "Uni_btt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lRbLJp6LD",
+              "end": 80,
+              "expanded_url": "https://x.com/Uni_btt/status/2003597089046147143/photo/1",
+              "media_key": "3_2003597063263834112",
+              "start": 57,
+              "url": "https://t.co/6lRbLJp6LD"
+            },
+            {
+              "display_url": "pic.x.com/6lRbLJp6LD",
+              "end": 80,
+              "expanded_url": "https://x.com/Uni_btt/status/2003597089046147143/photo/1",
+              "media_key": "3_2003597073430773760",
+              "start": 57,
+              "url": "https://t.co/6lRbLJp6LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003634252072779900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003597089046147143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni_btt: 感谢支持感谢转发感谢喵、请约我吧……我是一个温柔善良的小女孩！拜托了！我需要钱！！！！ https://t.co/6lRbLJp6LD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003597063263834112",
+            "3_2003597073430773760"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "2003597089046147143",
+        "created_at": "2025-12-23T22:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T23:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003597089046147143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lRbLJp6LD",
+              "end": 67,
+              "expanded_url": "https://x.com/Uni_btt/status/2003597089046147143/photo/1",
+              "media_key": "3_2003597063263834112",
+              "start": 44,
+              "url": "https://t.co/6lRbLJp6LD"
+            },
+            {
+              "display_url": "pic.x.com/6lRbLJp6LD",
+              "end": 67,
+              "expanded_url": "https://x.com/Uni_btt/status/2003597089046147143/photo/1",
+              "media_key": "3_2003597073430773760",
+              "start": 44,
+              "url": "https://t.co/6lRbLJp6LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003597089046147143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢支持感谢转发感谢喵、请约我吧……我是一个温柔善良的小女孩！拜托了！我需要钱！！！！ https://t.co/6lRbLJp6LD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 3415,
+          "like_count": 34167,
+          "listed_count": 6,
+          "media_count": 453,
+          "tweet_count": 8933
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "已成年 / 妈妈   @kanakosama0223f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kanakosama0223f"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2003597089046147143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10684,
+          "following_count": 521,
+          "like_count": 11700,
+          "listed_count": 16,
+          "media_count": 1546,
+          "tweet_count": 11416
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

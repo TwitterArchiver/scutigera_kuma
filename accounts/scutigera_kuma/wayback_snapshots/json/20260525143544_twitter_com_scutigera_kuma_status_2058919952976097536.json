@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2058899263783149668",
+    "created_at": "2026-05-25T14:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058919952976097536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878078033245986816",
+          "start": 0,
+          "username": "xipenco6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058919952976097536",
+    "in_reply_to_user_id": "1878078033245986816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058911962667647332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xipenco6666 代购"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2058899263783149668",
+        "created_at": "2026-05-25T14:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058919952976097536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878078033245986816",
+              "start": 0,
+              "username": "xipenco6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058919952976097536",
+        "in_reply_to_user_id": "1878078033245986816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058911962667647332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xipenco6666 代购"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878078033245986816",
+        "conversation_id": "2058899263783149668",
+        "created_at": "2026-05-25T14:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058911962667647332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058911962667647332",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058899263783149668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 卖吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5016,
+          "following_count": 3311,
+          "like_count": 34423,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 9154
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T13:54:39.000Z",
+        "description": "",
+        "id": "1878078033245986816",
+        "location": "California, USA",
+        "name": "Дурень",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005551885491511296/t1xdteMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 117,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "xipenco6666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2069844850338562487",
+    "created_at": "2026-06-24T19:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069859534496305331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069859534496305331",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069844850338562487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 欧姆哪里人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2069844850338562487",
+        "created_at": "2026-06-24T19:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069859534496305331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069859534496305331",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069844850338562487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 欧姆哪里人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046660159867400192",
+        "conversation_id": "2069844850338562487",
+        "created_at": "2026-06-24T18:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069844850338562487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "？（2.0）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vJpP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vJpPPazyBMJE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2069844852054048768/PAOHrddy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069844852054048768/PAOHrddy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 等待藥效中",
+              "unwound_url": "https://twitter.com/i/spaces/1vJpPPazyBMJE/peek",
+              "url": "https://t.co/1eAxgnM9El"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069844850338562487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1eAxgnM9El"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423445410050048/x8WO11UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 3301,
+          "like_count": 34182,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 9146
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "可以叫我歐姆\n躁鬱｜焦慮｜解離｜ADHD｜自傷｜od｜穿孔｜金屬｜Goth｜\n純綠／半綠／非綠開放中，全台可跑歡迎私訊詢問\n防走失：@omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2046660159867400192",
+        "name": "？（2.0）",
+        "pinned_tweet_id": "2061471539116339494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068574612896759808/qckpXnFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 599,
+          "like_count": 10249,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

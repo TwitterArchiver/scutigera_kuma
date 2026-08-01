@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016084542369447936"
+      ],
+      "media_source_tweet_id": [
+        "2016084626696241463"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016274638096224657",
+    "created_at": "2026-01-27T22:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T23:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016274638096224657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786682099677966336",
+          "start": 3,
+          "username": "mentallychel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VzXrOOPide",
+          "end": 65,
+          "expanded_url": "https://x.com/mentallychel/status/2016084626696241463/video/1",
+          "media_key": "13_2016084542369447936",
+          "start": 42,
+          "url": "https://t.co/VzXrOOPide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016274638096224657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016084626696241463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mentallychel: 之前的號沒了所以我重新發一下這個視頻^ _ ^ https://t.co/VzXrOOPide"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16033,
+        "height": 960,
+        "media_key": "13_2016084542369447936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016084542369447936/img/LwcpjmZq0sJnbeaD.jpg",
+        "public_metrics": {
+          "view_count": 983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016084542369447936/vid/avc1/320x426/q5XObZ8NTU0BSzz2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016084542369447936/vid/avc1/480x640/ksamwOU5fxjbOGCQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016084542369447936/vid/avc1/720x960/TOi7Nh0ukzWR5oDI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016084542369447936/pl/f7Xku32HMk9NJo_y.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016084542369447936"
+          ],
+          "media_source_tweet_id": [
+            "2016084626696241463"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016274638096224657",
+        "created_at": "2026-01-27T22:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T23:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016274638096224657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786682099677966336",
+              "start": 3,
+              "username": "mentallychel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzXrOOPide",
+              "end": 65,
+              "expanded_url": "https://x.com/mentallychel/status/2016084626696241463/video/1",
+              "media_key": "13_2016084542369447936",
+              "start": 42,
+              "url": "https://t.co/VzXrOOPide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016274638096224657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016084626696241463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mentallychel: 之前的號沒了所以我重新發一下這個視頻^ _ ^ https://t.co/VzXrOOPide"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016084542369447936"
+          ]
+        },
+        "author_id": "1786682099677966336",
+        "conversation_id": "2016084626696241463",
+        "created_at": "2026-01-27T09:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016084626696241463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzXrOOPide",
+              "end": 47,
+              "expanded_url": "https://x.com/mentallychel/status/2016084626696241463/video/1",
+              "media_key": "13_2016084542369447936",
+              "start": 24,
+              "url": "https://t.co/VzXrOOPide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016084626696241463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2814,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "之前的號沒了所以我重新發一下這個視頻^ _ ^ https://t.co/VzXrOOPide"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychel重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "mentallychel"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4693,
+          "following_count": 3431,
+          "like_count": 34053,
+          "listed_count": 6,
+          "media_count": 460,
+          "tweet_count": 8983
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T08:59:54.000Z",
+        "description": "壑2.0 爱是一个遍及宇宙的缺席者 前世@mentallychels 🚪188/288/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1786682099677966336",
+        "name": "mentallychels",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014902208790216704/uHa7O_q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 56,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "mentallychel",
+        "verified": false
+      }
+    ]
+  }
+}

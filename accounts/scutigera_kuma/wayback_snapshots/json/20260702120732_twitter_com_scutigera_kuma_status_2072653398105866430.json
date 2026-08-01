@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2072316416146153531",
+    "created_at": "2026-07-02T12:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072653398105866430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842490676543627264",
+          "start": 0,
+          "username": "Linden_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072653398105866430",
+    "in_reply_to_user_id": "1842490676543627264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072650536927555845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linden_ovo かわっ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2072650531328217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOIrUdX0AAyppR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2072316416146153531",
+        "created_at": "2026-07-02T12:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072653398105866430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072653398105866430",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072650536927555845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo かわっ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072650531328217088"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072316416146153531",
+        "created_at": "2026-07-02T11:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072650536927555845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMK8HFIi4c",
+              "end": 56,
+              "expanded_url": "https://x.com/Linden_ovo/status/2072650536927555845/photo/1",
+              "media_key": "3_2072650531328217088",
+              "start": 33,
+              "url": "https://t.co/FMK8HFIi4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072650536927555845",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072316416146153531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 深夜のネトゲがやめられない😔😔😔 https://t.co/FMK8HFIi4c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069860946647085056/E4BruncW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 3325,
+          "like_count": 34232,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 9161
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 113,
+          "like_count": 1987,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2022877771035480148",
+    "created_at": "2026-02-15T07:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022930479545225503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004619896630788096",
+          "start": 0,
+          "username": "wohaokun555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022930479545225503",
+    "in_reply_to_user_id": "2004619896630788096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022877771035480148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohaokun555 这他妈什么东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_2022877762625900548",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK0m4FakAQL9Rv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2022877771035480148",
+        "created_at": "2026-02-15T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022930479545225503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022930479545225503",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022877771035480148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 这他妈什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022877762625900548"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022877771035480148",
+        "created_at": "2026-02-15T03:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022877771035480148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tzQNH18c7",
+              "end": 154,
+              "expanded_url": "https://x.com/wohaokun555/status/2022877771035480148/photo/1",
+              "media_key": "3_2022877762625900548",
+              "start": 131,
+              "url": "https://t.co/6tzQNH18c7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022877771035480148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8462,
+          "like_count": 148,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥 https://t.co/6tzQNH18c7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 3450,
+          "like_count": 34158,
+          "listed_count": 6,
+          "media_count": 465,
+          "tweet_count": 9012
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 79,
+          "like_count": 7808,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1484
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

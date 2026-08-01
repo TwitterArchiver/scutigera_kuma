@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2060690272414228773",
+    "created_at": "2026-05-30T17:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060771158396723207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886567241510215682",
+          "start": 0,
+          "username": "imwaitingforone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060771158396723207",
+    "in_reply_to_user_id": "1886567241510215682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060770536633110758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwaitingforone 点击就送坦克车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060690272414228773",
+        "created_at": "2026-05-30T17:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060771158396723207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886567241510215682",
+              "start": 0,
+              "username": "imwaitingforone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060771158396723207",
+        "in_reply_to_user_id": "1886567241510215682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060770536633110758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwaitingforone 点击就送坦克车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886567241510215682",
+        "conversation_id": "2060690272414228773",
+        "created_at": "2026-05-30T17:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060770536633110758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060770536633110758",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060690272414228773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 89年开奖吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5031,
+          "following_count": 3312,
+          "like_count": 34485,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9177
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T00:07:49.000Z",
+        "description": "hi我谁也不是",
+        "id": "1886567241510215682",
+        "name": "leave me alone",
+        "pinned_tweet_id": "2031999936020299804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025145373879369728/RRYRZsCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 82,
+          "like_count": 1386,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 961
+        },
+        "username": "imwaitingforone",
+        "verified": false
+      }
+    ]
+  }
+}

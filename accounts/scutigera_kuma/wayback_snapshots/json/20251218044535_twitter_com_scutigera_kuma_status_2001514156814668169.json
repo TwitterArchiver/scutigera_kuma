@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001514145129336835",
+        "3_2001514145125142528",
+        "3_2001514145120960512",
+        "3_2001514145129336834"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001514156814668169",
+    "created_at": "2025-12-18T04:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T05:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001514156814668169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u8s7CmKEU7",
+          "end": 31,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+          "media_key": "3_2001514145129336835",
+          "start": 8,
+          "url": "https://t.co/u8s7CmKEU7"
+        },
+        {
+          "display_url": "pic.x.com/u8s7CmKEU7",
+          "end": 31,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+          "media_key": "3_2001514145125142528",
+          "start": 8,
+          "url": "https://t.co/u8s7CmKEU7"
+        },
+        {
+          "display_url": "pic.x.com/u8s7CmKEU7",
+          "end": 31,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+          "media_key": "3_2001514145120960512",
+          "start": 8,
+          "url": "https://t.co/u8s7CmKEU7"
+        },
+        {
+          "display_url": "pic.x.com/u8s7CmKEU7",
+          "end": 31,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+          "media_key": "3_2001514145129336834",
+          "start": 8,
+          "url": "https://t.co/u8s7CmKEU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001514156814668169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝大家圣诞快乐 https://t.co/u8s7CmKEU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2001514145129336835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bOgrFakAMxELP.jpg",
+        "width": 375
+      },
+      {
+        "height": 955,
+        "media_key": "3_2001514145125142528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bOgrEakAAiNPe.jpg",
+        "width": 844
+      },
+      {
+        "height": 1971,
+        "media_key": "3_2001514145120960512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bOgrDawAAphlX.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2001514145129336834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bOgrFakAIDTk9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001514145129336835",
+            "3_2001514145125142528",
+            "3_2001514145120960512",
+            "3_2001514145129336834"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001514156814668169",
+        "created_at": "2025-12-18T04:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T05:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001514156814668169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8s7CmKEU7",
+              "end": 31,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+              "media_key": "3_2001514145129336835",
+              "start": 8,
+              "url": "https://t.co/u8s7CmKEU7"
+            },
+            {
+              "display_url": "pic.x.com/u8s7CmKEU7",
+              "end": 31,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+              "media_key": "3_2001514145125142528",
+              "start": 8,
+              "url": "https://t.co/u8s7CmKEU7"
+            },
+            {
+              "display_url": "pic.x.com/u8s7CmKEU7",
+              "end": 31,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+              "media_key": "3_2001514145120960512",
+              "start": 8,
+              "url": "https://t.co/u8s7CmKEU7"
+            },
+            {
+              "display_url": "pic.x.com/u8s7CmKEU7",
+              "end": 31,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2001514156814668169/photo/1",
+              "media_key": "3_2001514145129336834",
+              "start": 8,
+              "url": "https://t.co/u8s7CmKEU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001514156814668169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝大家圣诞快乐 https://t.co/u8s7CmKEU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 3418,
+          "like_count": 34154,
+          "listed_count": 6,
+          "media_count": 451,
+          "tweet_count": 8922
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

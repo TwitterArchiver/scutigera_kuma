@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2011366780678361095",
+    "created_at": "2026-01-14T19:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T20:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011517216118947861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898431655054090240",
+          "start": 0,
+          "username": "chojyyzi1290741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011517216118947861",
+    "in_reply_to_user_id": "1898431655054090240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011504253677027685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chojyyzi1290741 再骂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2011504251454046212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-pMdZQbQAQchXP.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2011366780678361095",
+        "created_at": "2026-01-14T19:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T20:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011517216118947861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898431655054090240",
+              "start": 0,
+              "username": "chojyyzi1290741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011517216118947861",
+        "in_reply_to_user_id": "1898431655054090240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011504253677027685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chojyyzi1290741 再骂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011504251454046212"
+          ]
+        },
+        "author_id": "1898431655054090240",
+        "conversation_id": "2011366780678361095",
+        "created_at": "2026-01-14T18:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011504253677027685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGVjzuwKSZ",
+              "end": 46,
+              "expanded_url": "https://x.com/chojyyzi1290741/status/2011504253677027685/photo/1",
+              "media_key": "3_2011504251454046212",
+              "start": 23,
+              "url": "https://t.co/tGVjzuwKSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011504253677027685",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011366780678361095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 有点像吉他张 https://t.co/tGVjzuwKSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4692,
+          "following_count": 3424,
+          "like_count": 33957,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 8950
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T17:52:47.000Z",
+        "description": "一条蛆而已，不必在意我",
+        "id": "1898431655054090240",
+        "location": "Tokyo-to, Japan",
+        "name": "超级叶叶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008943524117663748/xBhPSs9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 90,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "chojyyzi1290741",
+        "verified": false
+      }
+    ]
+  }
+}

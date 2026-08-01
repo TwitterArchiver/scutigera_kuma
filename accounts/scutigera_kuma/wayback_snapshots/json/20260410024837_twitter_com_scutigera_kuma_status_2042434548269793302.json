@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2042133196750647315",
+    "created_at": "2026-04-10T02:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042434548269793302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "858927366269157377",
+          "start": 0,
+          "username": "gzg040234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042434548269793302",
+    "in_reply_to_user_id": "858927366269157377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042433437399990558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzg040234 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2042133196750647315",
+        "created_at": "2026-04-10T02:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042434548269793302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "858927366269157377",
+              "start": 0,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042434548269793302",
+        "in_reply_to_user_id": "858927366269157377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042433437399990558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzg040234 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858927366269157377",
+        "conversation_id": "2042133196750647315",
+        "created_at": "2026-04-10T02:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042433437399990558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042433437399990558",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042133196750647315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 结合上下文真的好好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 3466,
+          "like_count": 34095,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 9081
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "先天精神障碍/重度抑郁焦虑\nX号用于观察学习。机器人能不能不要私信我，不需要看片谢谢૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036844647465828352/40CiT0dD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 3960,
+          "like_count": 14398,
+          "listed_count": 15,
+          "media_count": 138,
+          "tweet_count": 658
+        },
+        "username": "gzg040234",
+        "verified": false
+      }
+    ]
+  }
+}

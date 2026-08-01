@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1994102429688725504"
+      ],
+      "media_source_tweet_id": [
+        "1994102435292561482"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2037511744063775171",
+    "created_at": "2026-03-27T12:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037511744063775171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947532287270391811",
+          "start": 3,
+          "username": "playoff_ajay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8caizKyDfF",
+          "end": 41,
+          "expanded_url": "https://x.com/NOTAWEIRDGIRL/status/1994102435292561482/photo/1",
+          "media_key": "16_1994102429688725504",
+          "start": 18,
+          "url": "https://t.co/8caizKyDfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037511744063775171",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036206898370978279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @playoff_ajay: https://t.co/8caizKyDfF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1994102429688725504",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G6x5mDdXAAABACs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G6x5mDdXAAABACs.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1994102429688725504"
+          ],
+          "media_source_tweet_id": [
+            "1994102435292561482"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2037511744063775171",
+        "created_at": "2026-03-27T12:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037511744063775171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947532287270391811",
+              "start": 3,
+              "username": "playoff_ajay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8caizKyDfF",
+              "end": 41,
+              "expanded_url": "https://x.com/NOTAWEIRDGIRL/status/1994102435292561482/photo/1",
+              "media_key": "16_1994102429688725504",
+              "start": 18,
+              "url": "https://t.co/8caizKyDfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037511744063775171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036206898370978279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @playoff_ajay: https://t.co/8caizKyDfF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1994102429688725504"
+          ],
+          "media_source_tweet_id": [
+            "1994102435292561482"
+          ]
+        },
+        "author_id": "1947532287270391811",
+        "conversation_id": "2036206898370978279",
+        "created_at": "2026-03-23T22:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036206898370978279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8caizKyDfF",
+              "end": 23,
+              "expanded_url": "https://x.com/NOTAWEIRDGIRL/status/1994102435292561482/photo/1",
+              "media_key": "16_1994102429688725504",
+              "start": 0,
+              "url": "https://t.co/8caizKyDfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036206898370978279",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 665,
+          "impression_count": 75933,
+          "like_count": 5207,
+          "quote_count": 38,
+          "reply_count": 4,
+          "retweet_count": 1149
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8caizKyDfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 3460,
+          "like_count": 34078,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 9061
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T05:41:02.000Z",
+        "description": "ADHD | 18+ | #dubnation | | interests in carddd & strawpage |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 13,
+                "tag": "dubnation"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sleepyazemazureviewpoint.straw.page",
+                "end": 23,
+                "expanded_url": "https://sleepyazemazureviewpoint.straw.page/",
+                "start": 0,
+                "url": "https://t.co/UnUpato0Ew"
+              }
+            ]
+          }
+        },
+        "id": "1947532287270391811",
+        "name": "❤️‍🔥",
+        "pinned_tweet_id": "2036206898370978279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036894857369968640/delRk35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 3254,
+          "like_count": 22986,
+          "listed_count": 0,
+          "media_count": 1952,
+          "tweet_count": 25226
+        },
+        "url": "https://t.co/UnUpato0Ew",
+        "username": "playoff_ajay",
+        "verified": false
+      }
+    ]
+  }
+}

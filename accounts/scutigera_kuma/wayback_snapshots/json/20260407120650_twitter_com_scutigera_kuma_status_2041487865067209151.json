@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2041423322483965997",
+    "created_at": "2026-04-07T12:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041487865067209151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        },
+        {
+          "end": 24,
+          "id": "2010422988236369920",
+          "start": 13,
+          "username": "jvziqwq555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041487865067209151",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041445560012738921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 @jvziqwq555 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2041423322483965997",
+        "created_at": "2026-04-07T12:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041487865067209151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            },
+            {
+              "end": 24,
+              "id": "2010422988236369920",
+              "start": 13,
+              "username": "jvziqwq555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041487865067209151",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041445560012738921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 @jvziqwq555 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2041423322483965997",
+        "created_at": "2026-04-07T09:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041445560012738921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010422988236369920",
+              "start": 0,
+              "username": "jvziqwq555"
+            },
+            {
+              "end": 27,
+              "id": "1557839863151337473",
+              "start": 12,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041445560012738921",
+        "in_reply_to_user_id": "2010422988236369920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041423322483965997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jvziqwq555 @scutigera_kuma 下次记得给我的处方通过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4723,
+          "following_count": 3460,
+          "like_count": 34115,
+          "listed_count": 6,
+          "media_count": 478,
+          "tweet_count": 9074
+        },
+        "username": "scutigera_kuma",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 782,
+          "like_count": 1038,
+          "listed_count": 2,
+          "media_count": 871,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:46:16.000Z",
+        "description": "🩵我是橘子/10/od/自伤/画画 /双相\n🩵同类互fo 很唐比 谢谢你们愿意和我玩...\n\n♡.꒰ ⑅:†· ♡ ·†:⑅ ꒱.♡ ₊⁺♡̶♡̶₊⁺",
+        "id": "2010422988236369920",
+        "name": "橘酱在哭",
+        "pinned_tweet_id": "2033949619986518419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033785794062913538/Bfy7cry1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 108,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 153
+        },
+        "username": "jvziqwq555",
+        "verified": false
+      }
+    ]
+  }
+}

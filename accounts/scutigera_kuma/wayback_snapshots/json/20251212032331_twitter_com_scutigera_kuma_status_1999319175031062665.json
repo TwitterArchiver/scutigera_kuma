@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999298048791662592"
+      ],
+      "media_source_tweet_id": [
+        "1999298055292826039"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "1999319175031062665",
+    "created_at": "2025-12-12T03:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T04:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999319175031062665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791558998426337283",
+          "start": 3,
+          "username": "404self886"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y2YJ7oS67O",
+          "end": 60,
+          "expanded_url": "https://x.com/404self886/status/1999298055292826039/photo/1",
+          "media_key": "3_1999298048791662592",
+          "start": 37,
+          "url": "https://t.co/Y2YJ7oS67O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999319175031062665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999298055292826039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404self886: 一觉睡醒号炸了。我是小次寻找前世互关中… https://t.co/Y2YJ7oS67O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_1999298048791662592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77u-45b0AA7LWh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999298048791662592"
+          ],
+          "media_source_tweet_id": [
+            "1999298055292826039"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1999319175031062665",
+        "created_at": "2025-12-12T03:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999319175031062665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791558998426337283",
+              "start": 3,
+              "username": "404self886"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2YJ7oS67O",
+              "end": 60,
+              "expanded_url": "https://x.com/404self886/status/1999298055292826039/photo/1",
+              "media_key": "3_1999298048791662592",
+              "start": 37,
+              "url": "https://t.co/Y2YJ7oS67O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999319175031062665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999298055292826039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404self886: 一觉睡醒号炸了。我是小次寻找前世互关中… https://t.co/Y2YJ7oS67O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999298048791662592"
+          ]
+        },
+        "author_id": "1791558998426337283",
+        "conversation_id": "1999298055292826039",
+        "created_at": "2025-12-12T01:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999298055292826039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2YJ7oS67O",
+              "end": 44,
+              "expanded_url": "https://x.com/404self886/status/1999298055292826039/photo/1",
+              "media_key": "3_1999298048791662592",
+              "start": 21,
+              "url": "https://t.co/Y2YJ7oS67O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999298055292826039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一觉睡醒号炸了。我是小次寻找前世互关中… https://t.co/Y2YJ7oS67O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 3416,
+          "like_count": 33932,
+          "listed_count": 6,
+          "media_count": 449,
+          "tweet_count": 8905
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T19:58:57.000Z",
+        "description": "我想要的是一种叫作幸福的恒久的东西",
+        "id": "1791558998426337283",
+        "location": "🚪288/588/1888/5888",
+        "name": "絶対神",
+        "pinned_tweet_id": "1805290006891913677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999313601518329856/PFQLM7Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 40,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "404self886",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2069875883754840390",
+    "created_at": "2026-06-24T20:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069875883754840390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/corpse_delusio…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/corpse_delusion/status/1615164869673877504",
+          "start": 9,
+          "url": "https://t.co/Vtwf7h9bu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069875883754840390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1615164869673877504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你想起了一些东西 https://t.co/Vtwf7h9bu2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2069875883754840390",
+        "created_at": "2026-06-24T20:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069875883754840390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/corpse_delusio…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/corpse_delusion/status/1615164869673877504",
+              "start": 9,
+              "url": "https://t.co/Vtwf7h9bu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069875883754840390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1615164869673877504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你想起了一些东西 https://t.co/Vtwf7h9bu2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505552929373454343",
+        "conversation_id": "1615164869673877504",
+        "created_at": "2023-01-17T01:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-17T02:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1615164869673877504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1615164869673877504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 89980,
+          "like_count": 281,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "自杀未遂\n割                                香\n腕                                烟\n流                                致\n血                                幻\n血                                药\n满                                不\n地                                停"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069860946647085056/E4BruncW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 3302,
+          "like_count": 34189,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 9148
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T14:32:55.000Z",
+        "description": "賽博偶像☆为残酷的世界带来残酷的new self-harm组合，由尸块组建起来的女孩们构成☆\n于2022.10.8堂堂出道！",
+        "id": "1505552929373454343",
+        "name": "尸塊妄想组 corpse delusion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578745332615233538/T70eGBLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 4,
+          "like_count": 120,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "corpse_delusion",
+        "verified": false
+      }
+    ]
+  }
+}

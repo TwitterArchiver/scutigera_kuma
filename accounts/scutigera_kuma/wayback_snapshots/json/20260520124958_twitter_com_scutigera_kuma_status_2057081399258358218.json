@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2054680326375620761",
+    "created_at": "2026-05-20T12:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057081399258358218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569966034035134464",
+          "start": 0,
+          "username": "sukixi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057081399258358218",
+    "in_reply_to_user_id": "1569966034035134464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054680326375620761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukixi_ovo 粉色那个貌似是印度右美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2054680326375620761",
+        "created_at": "2026-05-20T12:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057081399258358218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569966034035134464",
+              "start": 0,
+              "username": "sukixi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057081399258358218",
+        "in_reply_to_user_id": "1569966034035134464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054680326375620761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukixi_ovo 粉色那个貌似是印度右美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569966034035134464",
+        "conversation_id": "2054680326375620761",
+        "created_at": "2026-05-13T21:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T22:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054680326375620761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054680326375620761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1864,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近歌舞伎めっちゃ厳しいになった、なんかピンクか紫新種の薬物現れた、成分はなにで?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 3306,
+          "like_count": 34314,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9138
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨東京丨病み垢丨承認欲求｜shtwt丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054679631345979392/M4HYpaHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10410,
+          "following_count": 164,
+          "like_count": 1243,
+          "listed_count": 11,
+          "media_count": 187,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

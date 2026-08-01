@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006778737287901189",
+        "3_2006778741708795906",
+        "3_2006778741675212800",
+        "3_2006778737623445505"
+      ],
+      "media_source_tweet_id": [
+        "2006778790144524717",
+        "2006778790144524717",
+        "2006778790144524717",
+        "2006778790144524717"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2006780674662084837",
+    "created_at": "2026-01-01T17:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006780674662084837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891848716023422976",
+          "start": 3,
+          "username": "AORINGO_nemuru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4QKg6ocw7",
+          "end": 63,
+          "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+          "media_key": "7_2006778737287901189",
+          "start": 40,
+          "url": "https://t.co/O4QKg6ocw7"
+        },
+        {
+          "display_url": "pic.x.com/O4QKg6ocw7",
+          "end": 63,
+          "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+          "media_key": "3_2006778741708795906",
+          "start": 40,
+          "url": "https://t.co/O4QKg6ocw7"
+        },
+        {
+          "display_url": "pic.x.com/O4QKg6ocw7",
+          "end": 63,
+          "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+          "media_key": "3_2006778741675212800",
+          "start": 40,
+          "url": "https://t.co/O4QKg6ocw7"
+        },
+        {
+          "display_url": "pic.x.com/O4QKg6ocw7",
+          "end": 63,
+          "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+          "media_key": "3_2006778737623445505",
+          "start": 40,
+          "url": "https://t.co/O4QKg6ocw7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006780674662084837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006778790144524717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AORINGO_nemuru: 装逼网左吸毒男tori殴打女孩劝人下海 https://t.co/O4QKg6ocw7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006780674662084837].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006780674662084837",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006780674662084837"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11909,
+        "height": 960,
+        "media_key": "7_2006778737287901189",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006778737287901189/pu/img/SjXefEDnAHCntUE5.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006778737287901189/pu/vid/avc1/320x564/fr5iwu0WwslTon7_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006778737287901189/pu/vid/avc1/480x846/mf0Qjo849gdXTtDQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006778737287901189/pu/vid/avc1/544x960/6zQSTB4LzEuMcnIb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006778737287901189/pu/pl/orovMHnFSFzyyOoK.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006778741708795906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mCohpbsAI1COs.jpg",
+        "width": 914
+      },
+      {
+        "height": 1364,
+        "media_key": "3_2006778741675212800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mCohhbQAA2rPO.jpg",
+        "width": 1076
+      },
+      {
+        "height": 2020,
+        "media_key": "3_2006778737623445505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mCoSbaMAESLt_.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006778737287901189",
+            "3_2006778741708795906",
+            "3_2006778741675212800",
+            "3_2006778737623445505"
+          ]
+        },
+        "author_id": "1891848716023422976",
+        "conversation_id": "2006778790144524717",
+        "created_at": "2026-01-01T17:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006778790144524717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4QKg6ocw7",
+              "end": 43,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+              "media_key": "7_2006778737287901189",
+              "start": 20,
+              "url": "https://t.co/O4QKg6ocw7"
+            },
+            {
+              "display_url": "pic.x.com/O4QKg6ocw7",
+              "end": 43,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+              "media_key": "3_2006778741708795906",
+              "start": 20,
+              "url": "https://t.co/O4QKg6ocw7"
+            },
+            {
+              "display_url": "pic.x.com/O4QKg6ocw7",
+              "end": 43,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+              "media_key": "3_2006778741675212800",
+              "start": 20,
+              "url": "https://t.co/O4QKg6ocw7"
+            },
+            {
+              "display_url": "pic.x.com/O4QKg6ocw7",
+              "end": 43,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2006778790144524717/video/1",
+              "media_key": "3_2006778737623445505",
+              "start": 20,
+              "url": "https://t.co/O4QKg6ocw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006778790144524717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "装逼网左吸毒男tori殴打女孩劝人下海 https://t.co/O4QKg6ocw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4668,
+          "following_count": 3417,
+          "like_count": 34159,
+          "listed_count": 6,
+          "media_count": 454,
+          "tweet_count": 8939
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 欲望,暴力,自由",
+        "id": "1891848716023422976",
+        "location": "🚪50/88/150",
+        "name": "青林檎",
+        "pinned_tweet_id": "1998901537008210185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006667009631858691/Rt_oaZEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 222,
+          "like_count": 11596,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 965
+        },
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

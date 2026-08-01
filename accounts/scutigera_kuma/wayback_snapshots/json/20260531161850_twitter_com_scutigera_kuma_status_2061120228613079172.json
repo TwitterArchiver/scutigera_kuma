@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2061053107669479539",
+    "created_at": "2026-05-31T16:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061120228613079172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1977768201414197248",
+          "start": 0,
+          "username": "hi682383713928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061120228613079172",
+    "in_reply_to_user_id": "1977768201414197248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061053107669479539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi682383713928 曲马多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061053074538733568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpU2fMboAACkr2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2061053107669479539",
+        "created_at": "2026-05-31T16:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061120228613079172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1977768201414197248",
+              "start": 0,
+              "username": "hi682383713928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061120228613079172",
+        "in_reply_to_user_id": "1977768201414197248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061053107669479539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi682383713928 曲马多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061053074538733568"
+          ]
+        },
+        "author_id": "1977768201414197248",
+        "conversation_id": "2061053107669479539",
+        "created_at": "2026-05-31T11:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061053107669479539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3pWmekZky",
+              "end": 29,
+              "expanded_url": "https://x.com/hi682383713928/status/2061053107669479539/photo/1",
+              "media_key": "3_2061053074538733568",
+              "start": 6,
+              "url": "https://t.co/i3pWmekZky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061053107669479539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是啥药 https://t.co/i3pWmekZky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 3319,
+          "like_count": 34526,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9184
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T16:07:54.000Z",
+        "description": "为何痛苦伴我如影随形\n🐧2918543818\n我是海 你想怎么叫我都可以 od/自残/精神病/精分双向/mha/胜出相关/杂食可能会转发cp相关雷到你了真是对不起 但是你又能怎么样呢👌\n感谢关注 认识你们会让我很开心",
+        "id": "1977768201414197248",
+        "name": "海",
+        "pinned_tweet_id": "2055627277178900693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 113,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 175
+        },
+        "username": "hi682383713928",
+        "verified": false
+      }
+    ]
+  }
+}

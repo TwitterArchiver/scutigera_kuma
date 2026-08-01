@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2069881557855436949",
+    "created_at": "2026-06-24T20:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069881557855436949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "天才小爱’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1PKqr…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/spaces/1PKqrrkjyvQGb",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2069871340954513408/F6Ve6ILM?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2069871340954513408/F6Ve6ILM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 10,
+          "status": 200,
+          "title": "Happening now: 不知道",
+          "unwound_url": "https://twitter.com/i/spaces/1PKqrrkjyvQGb/peek",
+          "url": "https://t.co/jtDJ6jhMpj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069881557855436949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干嘛对我这么有兴趣 https://t.co/jtDJ6jhMpj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2069881557855436949",
+        "created_at": "2026-06-24T20:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069881557855436949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "天才小爱’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1PKqr…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/spaces/1PKqrrkjyvQGb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2069871340954513408/F6Ve6ILM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069871340954513408/F6Ve6ILM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "Happening now: 不知道",
+              "unwound_url": "https://twitter.com/i/spaces/1PKqrrkjyvQGb/peek",
+              "url": "https://t.co/jtDJ6jhMpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069881557855436949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干嘛对我这么有兴趣 https://t.co/jtDJ6jhMpj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069860946647085056/E4BruncW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 3305,
+          "like_count": 34192,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 9149
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

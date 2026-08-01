@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952801918033772544"
+      ],
+      "media_source_tweet_id": [
+        "1952801925470269697"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2001961058429456609",
+    "created_at": "2025-12-19T10:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001961058429456609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "842278046748966912",
+          "start": 3,
+          "username": "rnatataki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGHyB9ENwz",
+          "end": 38,
+          "expanded_url": "https://x.com/rnatataki/status/1952801925470269697/photo/1",
+          "media_key": "3_1952801918033772544",
+          "start": 15,
+          "url": "https://t.co/QGHyB9ENwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001961058429456609",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952801925470269697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnatataki: https://t.co/QGHyB9ENwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_1952801918033772544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm-_4EawAAvEv9.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952801918033772544"
+          ],
+          "media_source_tweet_id": [
+            "1952801925470269697"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2001961058429456609",
+        "created_at": "2025-12-19T10:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001961058429456609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "842278046748966912",
+              "start": 3,
+              "username": "rnatataki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGHyB9ENwz",
+              "end": 38,
+              "expanded_url": "https://x.com/rnatataki/status/1952801925470269697/photo/1",
+              "media_key": "3_1952801918033772544",
+              "start": 15,
+              "url": "https://t.co/QGHyB9ENwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001961058429456609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952801925470269697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnatataki: https://t.co/QGHyB9ENwz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952801918033772544"
+          ]
+        },
+        "author_id": "842278046748966912",
+        "conversation_id": "1952801925470269697",
+        "created_at": "2025-08-05T18:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T19:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952801925470269697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGHyB9ENwz",
+              "end": 23,
+              "expanded_url": "https://x.com/rnatataki/status/1952801925470269697/photo/1",
+              "media_key": "3_1952801918033772544",
+              "start": 0,
+              "url": "https://t.co/QGHyB9ENwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952801925470269697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 72967,
+          "like_count": 3120,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QGHyB9ENwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 3417,
+          "like_count": 34153,
+          "listed_count": 6,
+          "media_count": 451,
+          "tweet_count": 8923
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-16T07:35:09.000Z",
+        "description": "渦になる / mail rnatataki.exe@gmail.com / skeb https://t.co/z7gZVwbqfY / fanbox https://t.co/o3E3qVVNvx / FA等 #のろたんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "のろたんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rnatataki",
+                "end": 66,
+                "expanded_url": "https://skeb.jp/@rnatataki",
+                "start": 43,
+                "url": "https://t.co/z7gZVwbqfY"
+              },
+              {
+                "display_url": "rnatataki.fanbox.cc",
+                "end": 99,
+                "expanded_url": "https://rnatataki.fanbox.cc/",
+                "start": 76,
+                "url": "https://t.co/o3E3qVVNvx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rnatataki",
+                "end": 23,
+                "expanded_url": "https://lit.link/rnatataki",
+                "start": 0,
+                "url": "https://t.co/Of0neavDeG"
+              }
+            ]
+          }
+        },
+        "id": "842278046748966912",
+        "location": "お仕事受付停止中",
+        "name": "のろヰ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137491982404603906/iRcXCVNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63406,
+          "following_count": 89,
+          "like_count": 1238,
+          "listed_count": 423,
+          "media_count": 589,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/Of0neavDeG",
+        "username": "rnatataki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2052024454046462175",
+    "created_at": "2026-05-06T14:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052035413985177910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877153486682697728",
+          "start": 0,
+          "username": "000jiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052035413985177910",
+    "in_reply_to_user_id": "1877153486682697728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052024454046462175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@000jiaaa （龙咳）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2052024454046462175",
+        "created_at": "2026-05-06T14:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052035413985177910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877153486682697728",
+              "start": 0,
+              "username": "000jiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052035413985177910",
+        "in_reply_to_user_id": "1877153486682697728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052024454046462175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@000jiaaa （龙咳）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877153486682697728",
+        "conversation_id": "2052024454046462175",
+        "created_at": "2026-05-06T13:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052024454046462175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052024454046462175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我咳嗽的时候像拖拉机过境，但是别的女孩子咳嗽总是淡淡的 惹人怜惜的 病弱受的感觉 咋做到的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 3521,
+          "like_count": 34235,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9129
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T00:40:49.000Z",
+        "description": "神\n不过门不闲聊别浪费彼此的时间\n🚪🧱188",
+        "id": "1877153486682697728",
+        "location": "1.1km",
+        "name": "ゴミのパパ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008272943751839744/HnV7uyVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 79,
+          "like_count": 615,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1639
+        },
+        "username": "000jiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

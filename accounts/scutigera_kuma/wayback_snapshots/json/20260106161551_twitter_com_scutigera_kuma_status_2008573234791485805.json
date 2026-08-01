@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008565468064608259",
+        "3_2008565468064624641"
+      ],
+      "media_source_tweet_id": [
+        "2008565476960641138",
+        "2008565476960641138"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2008573234791485805",
+    "created_at": "2026-01-06T16:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008573234791485805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1910085836420558848",
+          "start": 3,
+          "username": "BaiandErika8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2RqjSVBr3a",
+          "end": 55,
+          "expanded_url": "https://x.com/BaiandErika8964/status/2008565476960641138/photo/1",
+          "media_key": "3_2008565468064608259",
+          "start": 32,
+          "url": "https://t.co/2RqjSVBr3a"
+        },
+        {
+          "display_url": "pic.x.com/2RqjSVBr3a",
+          "end": 55,
+          "expanded_url": "https://x.com/BaiandErika8964/status/2008565476960641138/photo/1",
+          "media_key": "3_2008565468064624641",
+          "start": 32,
+          "url": "https://t.co/2RqjSVBr3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008573234791485805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008565476960641138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaiandErika8964: 我简直就是战场原黑仪 https://t.co/2RqjSVBr3a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008573234791485805].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008573234791485805",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008573234791485805"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2008565468064608259",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_bpsAbcAMuk6L.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2008565468064624641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_bpsAbsAE2_tS.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008565468064608259",
+            "3_2008565468064624641"
+          ]
+        },
+        "author_id": "1910085836420558848",
+        "conversation_id": "2008565476960641138",
+        "created_at": "2026-01-06T15:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008565476960641138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RqjSVBr3a",
+              "end": 34,
+              "expanded_url": "https://x.com/BaiandErika8964/status/2008565476960641138/photo/1",
+              "media_key": "3_2008565468064608259",
+              "start": 11,
+              "url": "https://t.co/2RqjSVBr3a"
+            },
+            {
+              "display_url": "pic.x.com/2RqjSVBr3a",
+              "end": 34,
+              "expanded_url": "https://x.com/BaiandErika8964/status/2008565476960641138/photo/1",
+              "media_key": "3_2008565468064624641",
+              "start": 11,
+              "url": "https://t.co/2RqjSVBr3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008565476960641138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我简直就是战场原黑仪 https://t.co/2RqjSVBr3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4669,
+          "following_count": 3419,
+          "like_count": 34073,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 8951
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "这里有什么？",
+        "id": "1910085836420558848",
+        "location": "1989.6.4",
+        "name": "诅咒是纯白色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996141185673707520/Lk3IKjOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 526,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1814
+        },
+        "username": "BaiandErika8964",
+        "verified": false
+      }
+    ]
+  }
+}

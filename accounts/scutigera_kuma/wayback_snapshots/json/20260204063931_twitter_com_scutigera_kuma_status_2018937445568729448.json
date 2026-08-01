@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2018760919615234162",
+    "created_at": "2026-02-04T06:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018937445568729448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959035687011065857",
+          "start": 0,
+          "username": "FangX79807"
+        },
+        {
+          "end": 23,
+          "id": "2012016163640000513",
+          "start": 12,
+          "username": "CHUAIBAIMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018937445568729448",
+    "in_reply_to_user_id": "1959035687011065857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018936739847672145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FangX79807 @CHUAIBAIMF 那你全家死完了呗，我在这提醒别人注意财产安全你在这逼逼赖赖什么你配说话吗你就在阴沟里觉得自己全世界最聪明去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2018760919615234162",
+        "created_at": "2026-02-04T06:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018937445568729448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959035687011065857",
+              "start": 0,
+              "username": "FangX79807"
+            },
+            {
+              "end": 23,
+              "id": "2012016163640000513",
+              "start": 12,
+              "username": "CHUAIBAIMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018937445568729448",
+        "in_reply_to_user_id": "1959035687011065857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018936739847672145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FangX79807 @CHUAIBAIMF 那你全家死完了呗，我在这提醒别人注意财产安全你在这逼逼赖赖什么你配说话吗你就在阴沟里觉得自己全世界最聪明去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959035687011065857",
+        "conversation_id": "2018760919615234162",
+        "created_at": "2026-02-04T06:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018936739847672145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 27,
+              "id": "2012016163640000513",
+              "start": 16,
+              "username": "CHUAIBAIMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018936739847672145",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018934199433240916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @CHUAIBAIMF 这又受害者有罪论上了？能被这么低级的骗局骗不是脑子有问题吗 用苹果手机不知道不能登别人ID吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735,
+          "following_count": 3426,
+          "like_count": 34087,
+          "listed_count": 6,
+          "media_count": 461,
+          "tweet_count": 8996
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T23:32:19.000Z",
+        "description": "4i 微卡颜       可以叫我乐乐！      想要做一只小猫黏在对方身边 🚪52纯圈我会一直骚扰你   （都来找我玩好不好https://t.co/h4B4lu9iWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lele1207",
+                "end": 87,
+                "expanded_url": "https://ngl.link/lele1207",
+                "start": 64,
+                "url": "https://t.co/h4B4lu9iWu"
+              }
+            ]
+          }
+        },
+        "id": "1959035687011065857",
+        "name": "Xanny.",
+        "pinned_tweet_id": "1964760195453857998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016753831900852225/7AfwPheL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 88,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 671
+        },
+        "username": "FangX79807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T04:17:00.000Z",
+        "description": "今天你吃饭了吗 | 碎碎念@NEEDLM111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "NEEDLM111"
+              }
+            ]
+          }
+        },
+        "id": "2012016163640000513",
+        "location": "Hong Kong",
+        "name": "纯爱白米饭🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012016854416703490/kIemb6Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 11,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "CHUAIBAIMF",
+        "verified": false
+      }
+    ]
+  }
+}

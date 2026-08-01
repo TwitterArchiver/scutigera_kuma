@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2071613836738850994",
+    "created_at": "2026-06-29T15:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071615576913682526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066626659768532992",
+          "start": 0,
+          "username": "Kanakoyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071615576913682526",
+    "in_reply_to_user_id": "2066626659768532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071613836738850994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanakoyq 来跟我看寒蝉搞寒蝉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071613823832993792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_ZzAFasAA-APR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2071613836738850994",
+        "created_at": "2026-06-29T15:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071615576913682526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066626659768532992",
+              "start": 0,
+              "username": "Kanakoyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071615576913682526",
+        "in_reply_to_user_id": "2066626659768532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071613836738850994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanakoyq 来跟我看寒蝉搞寒蝉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071613823832993792"
+          ]
+        },
+        "author_id": "2066626659768532992",
+        "conversation_id": "2071613836738850994",
+        "created_at": "2026-06-29T15:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071613836738850994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTwq2T11hS",
+              "end": 42,
+              "expanded_url": "https://x.com/Kanakoyq/status/2071613836738850994/photo/1",
+              "media_key": "3_2071613823832993792",
+              "start": 19,
+              "url": "https://t.co/nTwq2T11hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071613836738850994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看番中 好喜欢宅家 好舒服 重度宅女 https://t.co/nTwq2T11hS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069860946647085056/E4BruncW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5028,
+          "following_count": 3317,
+          "like_count": 34209,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 9151
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T21:02:08.000Z",
+        "description": "07 INTP 中推惨圈红色担当 無邪之翼 🚪288\n我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "2066626659768532992",
+        "name": "草莓水烟枪🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066628433615220736/yZceHquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 17,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "Kanakoyq",
+        "verified": false
+      }
+    ]
+  }
+}

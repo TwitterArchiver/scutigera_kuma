@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026661440233570304"
+      ],
+      "media_source_tweet_id": [
+        "2026661613609300423"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2026931521773584395",
+    "created_at": "2026-02-26T08:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026931521773584395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1391389462257561602",
+          "start": 3,
+          "username": "kaminari_kzy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D4TKGndrjw",
+          "end": 44,
+          "expanded_url": "https://x.com/kaminari_kzy/status/2026661613609300423/photo/1",
+          "media_key": "3_2026661440233570304",
+          "start": 21,
+          "url": "https://t.co/D4TKGndrjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026931521773584395",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026661613609300423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaminari_kzy: ⬛🌻 https://t.co/D4TKGndrjw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_2026661440233570304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAl15kagAATcpk.jpg",
+        "width": 2568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026661440233570304"
+          ],
+          "media_source_tweet_id": [
+            "2026661613609300423"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2026931521773584395",
+        "created_at": "2026-02-26T08:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026931521773584395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1391389462257561602",
+              "start": 3,
+              "username": "kaminari_kzy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4TKGndrjw",
+              "end": 44,
+              "expanded_url": "https://x.com/kaminari_kzy/status/2026661613609300423/photo/1",
+              "media_key": "3_2026661440233570304",
+              "start": 21,
+              "url": "https://t.co/D4TKGndrjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026931521773584395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026661613609300423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaminari_kzy: ⬛🌻 https://t.co/D4TKGndrjw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026661440233570304"
+          ]
+        },
+        "author_id": "1391389462257561602",
+        "conversation_id": "2026661613609300423",
+        "created_at": "2026-02-25T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026661613609300423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4TKGndrjw",
+              "end": 26,
+              "expanded_url": "https://x.com/kaminari_kzy/status/2026661613609300423/photo/1",
+              "media_key": "3_2026661440233570304",
+              "start": 3,
+              "url": "https://t.co/D4TKGndrjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026661613609300423",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 7856,
+          "like_count": 863,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "⬛🌻 https://t.co/D4TKGndrjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747,
+          "following_count": 3447,
+          "like_count": 34129,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9021
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-09T13:48:13.000Z",
+        "description": "おえかきをします。次は動画を作ってみたいです。FANBOX（制作過程など全体公開。イラストご依頼の説明もこちら）：https://t.co/xir2r6Ck5w BOOTH：https://t.co/RJlpcIoC8H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kaminari-kzy.fanbox.cc",
+                "end": 80,
+                "expanded_url": "https://kaminari-kzy.fanbox.cc/",
+                "start": 57,
+                "url": "https://t.co/xir2r6Ck5w"
+              },
+              {
+                "display_url": "kaminari-kzy.booth.pm",
+                "end": 110,
+                "expanded_url": "https://kaminari-kzy.booth.pm/",
+                "start": 87,
+                "url": "https://t.co/RJlpcIoC8H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/23568793",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/23568793",
+                "start": 0,
+                "url": "https://t.co/OIYGV6E14p"
+              }
+            ]
+          }
+        },
+        "id": "1391389462257561602",
+        "name": "かみなり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713925267406929920/o3FhQ-Jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10802,
+          "following_count": 681,
+          "like_count": 23406,
+          "listed_count": 105,
+          "media_count": 767,
+          "tweet_count": 3045
+        },
+        "url": "https://t.co/OIYGV6E14p",
+        "username": "kaminari_kzy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2045797615019991232",
+    "created_at": "2026-04-19T09:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045797911292956954"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045797911292956954",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045797615019991232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "准备退推"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2045797608552325120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQiFfwa4AAjgbr.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2045797608556527616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQiFfxbAAA1pC-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2045797615019991232",
+        "created_at": "2026-04-19T09:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045797911292956954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045797911292956954",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045797615019991232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "准备退推"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045797608552325120",
+            "3_2045797608556527616"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2045797615019991232",
+        "created_at": "2026-04-19T09:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045797615019991232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsRC54thsk",
+              "end": 42,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2045797615019991232/photo/1",
+              "media_key": "3_2045797608552325120",
+              "start": 19,
+              "url": "https://t.co/BsRC54thsk"
+            },
+            {
+              "display_url": "pic.x.com/BsRC54thsk",
+              "end": 42,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2045797615019991232/photo/1",
+              "media_key": "3_2045797608556527616",
+              "start": 19,
+              "url": "https://t.co/BsRC54thsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045797615019991232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1好友码，互关加我好吗。p2是乞讨 https://t.co/BsRC54thsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4728,
+          "following_count": 3476,
+          "like_count": 34180,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 9110
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2003128845596323893",
+    "created_at": "2025-12-22T16:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003135906803597628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932467157256056832",
+          "start": 0,
+          "username": "NaoQie54938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003135906803597628",
+    "in_reply_to_user_id": "1932467157256056832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003128845596323893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaoQie54938 👂🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2003128845596323893",
+        "created_at": "2025-12-22T16:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003135906803597628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932467157256056832",
+              "start": 0,
+              "username": "NaoQie54938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003135906803597628",
+        "in_reply_to_user_id": "1932467157256056832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003128845596323893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaoQie54938 👂🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932467157256056832",
+        "conversation_id": "2003128845596323893",
+        "created_at": "2025-12-22T15:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003128845596323893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003128845596323893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你他媽傻逼吧，你情我願得事情非要逮著對自己有利的方式凸顯自己的無辜？賤女人還說別人有心機，自己的心機才重的不行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 3416,
+          "like_count": 34168,
+          "listed_count": 6,
+          "media_count": 453,
+          "tweet_count": 8930
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T15:57:45.000Z",
+        "description": "揮舞旗幟的愛𓆩♡𓆪",
+        "id": "1932467157256056832",
+        "name": "革命日誌型",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001484770501627904/Y4BvQFCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "username": "NaoQie54938",
+        "verified": false
+      }
+    ]
+  }
+}

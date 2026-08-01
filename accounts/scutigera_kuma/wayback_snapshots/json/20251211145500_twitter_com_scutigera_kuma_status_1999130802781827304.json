@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "1999112321210446296",
+    "created_at": "2025-12-11T14:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999130802781827304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999130802781827304",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999112321210446296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 馋死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999112314310787072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75GDuCagAAtE_a.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1999112314252128256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75GDt0bcAAjlhl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1999112321210446296",
+        "created_at": "2025-12-11T14:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999130802781827304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999130802781827304",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999112321210446296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 馋死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999112314310787072",
+            "3_1999112314252128256"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999112321210446296",
+        "created_at": "2025-12-11T13:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999112321210446296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzqsuQuybJ",
+              "end": 47,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/1999112321210446296/photo/1",
+              "media_key": "3_1999112314310787072",
+              "start": 24,
+              "url": "https://t.co/TzqsuQuybJ"
+            },
+            {
+              "display_url": "pic.x.com/TzqsuQuybJ",
+              "end": 47,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/1999112321210446296/photo/1",
+              "media_key": "3_1999112314252128256",
+              "start": 24,
+              "url": "https://t.co/TzqsuQuybJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999112321210446296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "螃蟹吃完加汤吃火锅，以及酵母过期了馒头改小面饼 https://t.co/TzqsuQuybJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 3414,
+          "like_count": 33929,
+          "listed_count": 6,
+          "media_count": 447,
+          "tweet_count": 8901
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "INTJ|男的|仮面ライダー|キャラクターデザイナー|小さな雑記|中野",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996001052634869760/MikLEZok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 207,
+          "like_count": 39474,
+          "listed_count": 0,
+          "media_count": 630,
+          "tweet_count": 4770
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

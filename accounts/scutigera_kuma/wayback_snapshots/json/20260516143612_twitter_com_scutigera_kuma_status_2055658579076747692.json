@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2055126725248585750",
+    "created_at": "2026-05-16T14:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055658579076747692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "708477357",
+          "start": 0,
+          "username": "ttkrfdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055658579076747692",
+    "in_reply_to_user_id": "708477357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055656858355196122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttkrfdw 还没创新号呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2055126725248585750",
+        "created_at": "2026-05-16T14:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055658579076747692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "708477357",
+              "start": 0,
+              "username": "ttkrfdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055658579076747692",
+        "in_reply_to_user_id": "708477357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055656858355196122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttkrfdw 还没创新号呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708477357",
+        "conversation_id": "2055126725248585750",
+        "created_at": "2026-05-16T14:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055656858355196122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055656858355196122",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055126725248585750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma qiuzhilu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4971,
+          "following_count": 3513,
+          "like_count": 34203,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9136
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-11T00:03:04.000Z",
+        "description": "喜欢我的话点关注188🚪超刺激露脸露点图包视频、可线下tg粉丝群：https://t.co/jVCrYilakk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+sj1JUkIgvD9iM…",
+                "end": 56,
+                "expanded_url": "https://t.me/+sj1JUkIgvD9iMjgx",
+                "start": 33,
+                "url": "https://t.co/jVCrYilakk"
+              }
+            ]
+          }
+        },
+        "id": "708477357",
+        "location": "🚪188/1888",
+        "name": "糖糖烤肉饭大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051280545284603904/wC36tcdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 142,
+          "like_count": 1722,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 745
+        },
+        "username": "ttkrfdw",
+        "verified": false
+      }
+    ]
+  }
+}

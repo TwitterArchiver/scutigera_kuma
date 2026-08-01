@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052727487378141184"
+      ],
+      "media_source_tweet_id": [
+        "2052728008084181376"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2053044604375822659",
+    "created_at": "2026-05-09T09:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053044604375822659"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898642909576286208",
+          "start": 3,
+          "username": "____speace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5c5fgwsFQL",
+          "end": 47,
+          "expanded_url": "https://x.com/____speace/status/2052728008084181376/photo/1",
+          "media_key": "3_2052727487378141184",
+          "start": 24,
+          "url": "https://t.co/5c5fgwsFQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053044604375822659",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052728008084181376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @____speace: #SKC美術部 https://t.co/5c5fgwsFQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052727487378141184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzAxiHasAAZSf5.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052727487378141184"
+          ],
+          "media_source_tweet_id": [
+            "2052728008084181376"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2053044604375822659",
+        "created_at": "2026-05-09T09:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053044604375822659"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898642909576286208",
+              "start": 3,
+              "username": "____speace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c5fgwsFQL",
+              "end": 47,
+              "expanded_url": "https://x.com/____speace/status/2052728008084181376/photo/1",
+              "media_key": "3_2052727487378141184",
+              "start": 24,
+              "url": "https://t.co/5c5fgwsFQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044604375822659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052728008084181376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @____speace: #SKC美術部 https://t.co/5c5fgwsFQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052727487378141184"
+          ]
+        },
+        "author_id": "1898642909576286208",
+        "conversation_id": "2052728008084181376",
+        "created_at": "2026-05-08T12:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052728008084181376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c5fgwsFQL",
+              "end": 31,
+              "expanded_url": "https://x.com/____speace/status/2052728008084181376/photo/1",
+              "media_key": "3_2052727487378141184",
+              "start": 8,
+              "url": "https://t.co/5c5fgwsFQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052728008084181376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 15796,
+          "like_count": 1811,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/5c5fgwsFQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4952,
+          "following_count": 3518,
+          "like_count": 34220,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9131
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T07:52:10.000Z",
+        "description": "🪐【Mail】hayu03050305@gmail.com \n【skeb】https://t.co/Y1XNyLDXee\n5月着手可能⚪︎ご依頼募集中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@____speace",
+                "end": 60,
+                "expanded_url": "https://skeb.jp/@____speace",
+                "start": 37,
+                "url": "https://t.co/Y1XNyLDXee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hayu0305",
+                "end": 23,
+                "expanded_url": "https://lit.link/hayu0305",
+                "start": 0,
+                "url": "https://t.co/1vT37j1W67"
+              }
+            ]
+          }
+        },
+        "id": "1898642909576286208",
+        "location": "日本",
+        "name": "ﾊ𝚈u",
+        "pinned_tweet_id": "2002580882549584010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938865117833125888/o8lRnyAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 188,
+          "like_count": 817,
+          "listed_count": 25,
+          "media_count": 124,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/1vT37j1W67",
+        "username": "____speace",
+        "verified": false
+      }
+    ]
+  }
+}

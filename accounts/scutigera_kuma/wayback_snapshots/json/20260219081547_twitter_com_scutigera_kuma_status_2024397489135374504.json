@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2024384745547977092",
+    "created_at": "2026-02-19T08:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024397489135374504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024397489135374504",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024384745547977092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223f 你不是养胃吗宝子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024384736278511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgPMSaagAAlmXY.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2024384745547977092",
+        "created_at": "2026-02-19T08:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024397489135374504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024397489135374504",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024384745547977092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223f 你不是养胃吗宝子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024384736278511616"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2024384745547977092",
+        "created_at": "2026-02-19T07:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024384745547977092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hd2Mbij7UV",
+              "end": 40,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024384745547977092/photo/1",
+              "media_key": "3_2024384736278511616",
+              "start": 17,
+              "url": "https://t.co/hd2Mbij7UV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024384745547977092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我好喜欢她。。。。。。好想扣 https://t.co/hd2Mbij7UV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 3445,
+          "like_count": 34162,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 9017
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2012755946506756346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16433,
+          "following_count": 103,
+          "like_count": 7168,
+          "listed_count": 22,
+          "media_count": 901,
+          "tweet_count": 4903
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2067801770932449623",
+    "created_at": "2026-06-19T02:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067801770932449623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066626659768532992",
+          "start": 3,
+          "username": "Kanakoyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067801770932449623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066886201462620391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanakoyq: 终于回归我哭 互联网重度依赖不能上推特我感觉每天身上都有蚂蚁在爬。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2067801770932449623",
+        "created_at": "2026-06-19T02:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067801770932449623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066626659768532992",
+              "start": 3,
+              "username": "Kanakoyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067801770932449623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066886201462620391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanakoyq: 终于回归我哭 互联网重度依赖不能上推特我感觉每天身上都有蚂蚁在爬。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066626659768532992",
+        "conversation_id": "2066886201462620391",
+        "created_at": "2026-06-16T14:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066886201462620391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066886201462620391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3058,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于回归我哭 互联网重度依赖不能上推特我感觉每天身上都有蚂蚁在爬。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423445410050048/x8WO11UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 3308,
+          "like_count": 34197,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 9143
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T21:02:08.000Z",
+        "description": "07 INTP 中推惨圈红色担当 無邪之翼 🚪288\n我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "2066626659768532992",
+        "name": "草莓水烟枪🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066628433615220736/yZceHquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 16,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "Kanakoyq",
+        "verified": false
+      }
+    ]
+  }
+}

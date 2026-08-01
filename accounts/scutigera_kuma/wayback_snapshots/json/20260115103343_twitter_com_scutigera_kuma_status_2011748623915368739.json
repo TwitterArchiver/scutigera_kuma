@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2011744954792714392",
+    "created_at": "2026-01-15T10:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T11:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011748623915368739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816737770850689024",
+          "start": 0,
+          "username": "Nexal_w"
+        },
+        {
+          "end": 24,
+          "id": "1639479811864162305",
+          "start": 9,
+          "username": "AsherBrass5089"
+        },
+        {
+          "end": 35,
+          "id": "1833047332369383424",
+          "start": 25,
+          "username": "Momimi365"
+        },
+        {
+          "end": 48,
+          "id": "1160691220152246273",
+          "start": 36,
+          "username": "halfyourbmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011748623915368739",
+    "in_reply_to_user_id": "1816737770850689024",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011745720445931675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nexal_w @AsherBrass5089 @Momimi365 @halfyourbmi just for fun cuz he is a clown"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2011744954792714392",
+        "created_at": "2026-01-15T10:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011748623915368739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816737770850689024",
+              "start": 0,
+              "username": "Nexal_w"
+            },
+            {
+              "end": 24,
+              "id": "1639479811864162305",
+              "start": 9,
+              "username": "AsherBrass5089"
+            },
+            {
+              "end": 35,
+              "id": "1833047332369383424",
+              "start": 25,
+              "username": "Momimi365"
+            },
+            {
+              "end": 48,
+              "id": "1160691220152246273",
+              "start": 36,
+              "username": "halfyourbmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011748623915368739",
+        "in_reply_to_user_id": "1816737770850689024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011745720445931675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nexal_w @AsherBrass5089 @Momimi365 @halfyourbmi just for fun cuz he is a clown"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816737770850689024",
+        "conversation_id": "2011744954792714392",
+        "created_at": "2026-01-15T10:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011745720445931675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639479811864162305",
+              "start": 0,
+              "username": "AsherBrass5089"
+            },
+            {
+              "end": 26,
+              "id": "1833047332369383424",
+              "start": 16,
+              "username": "Momimi365"
+            },
+            {
+              "end": 42,
+              "id": "1557839863151337473",
+              "start": 27,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 55,
+              "id": "1160691220152246273",
+              "start": 43,
+              "username": "halfyourbmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011745720445931675",
+        "in_reply_to_user_id": "1816737770850689024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011744954792714392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsherBrass5089 @Momimi365 @scutigera_kuma @halfyourbmi why moots….. 😢😢 fess up or your gone…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4691,
+          "following_count": 3429,
+          "like_count": 33961,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 8951
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T07:30:26.000Z",
+        "description": "Shedtwt, Drugtwt, Shtwt 😈 // I’m Black and white // basic dni // DM’S OPEN :)",
+        "id": "1816737770850689024",
+        "location": "🏳️‍🌈land of fags🏳️‍⚧️ im 16",
+        "name": "Sir Daddy Alpha Nexal //shtwt",
+        "pinned_tweet_id": "1886265914712006836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855765100780556289/EBU2F6k2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 1738,
+          "like_count": 32309,
+          "listed_count": 19,
+          "media_count": 302,
+          "tweet_count": 2326
+        },
+        "username": "Nexal_w",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T04:10:52.000Z",
+        "description": "MINOR (17!) \nhttps://t.co/yrGLDX69lr\nDNI: Zoophiles, pedos, CHILDREN..under 15",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asherssillypage.straw.page",
+                "end": 36,
+                "expanded_url": "https://asherssillypage.straw.page",
+                "start": 13,
+                "url": "https://t.co/yrGLDX69lr"
+              }
+            ]
+          }
+        },
+        "id": "1639479811864162305",
+        "name": "Cedric the wolf",
+        "pinned_tweet_id": "2000445542543810782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000761723863580684/31dZrV3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 606,
+          "like_count": 5022,
+          "listed_count": 6,
+          "media_count": 213,
+          "tweet_count": 1427
+        },
+        "username": "AsherBrass5089",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T07:38:44.000Z",
+        "description": "Blood shtwt 自傷",
+        "id": "1833047332369383424",
+        "name": "Don't ask me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833130127640977408/AxssNS3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 168,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 236
+        },
+        "username": "Momimi365",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T23:15:26.000Z",
+        "description": "problematic online presence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/abR7H",
+                "end": 23,
+                "expanded_url": "https://boxd.it/abR7H",
+                "start": 0,
+                "url": "https://t.co/9Oj6SXIytn"
+              }
+            ]
+          }
+        },
+        "id": "1160691220152246273",
+        "location": "aquarius",
+        "name": "sienna",
+        "pinned_tweet_id": "1516101670148657158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819265675891814400/bS8yGrRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 566,
+          "like_count": 20471,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/9Oj6SXIytn",
+        "username": "halfyourbmi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999369772014927876"
+      ],
+      "media_source_tweet_id": [
+        "1999370773530837085"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1999394210269843574",
+    "created_at": "2025-12-12T08:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999394210269843574"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "レゼダンス"
+        },
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "チェンソーマン"
+        },
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "RezeDance"
+        },
+        {
+          "end": 68,
+          "start": 56,
+          "tag": "ChainsawMan"
+        },
+        {
+          "end": 77,
+          "start": 69,
+          "tag": "IRISOUT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "58794150",
+          "start": 3,
+          "username": "hachi_08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvJv1z3Ypb",
+          "end": 101,
+          "expanded_url": "https://x.com/hachi_08/status/1999370773530837085/video/1",
+          "media_key": "13_1999369772014927876",
+          "start": 78,
+          "url": "https://t.co/MvJv1z3Ypb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999394210269843574",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52562
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999370773530837085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachi_08: 🫵😭\n\n「IRIS OUT」 #レゼダンス　#チェンソーマン　#RezeDance #ChainsawMan #IRISOUT https://t.co/MvJv1z3Ypb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16500,
+        "height": 1920,
+        "media_key": "13_1999369772014927876",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999369772014927876/img/jawaH9M2iaOlCmne.jpg",
+        "public_metrics": {
+          "view_count": 1142735
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369772014927876/vid/avc1/720x1280/jwJZoWf1eeB8nOSj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369772014927876/vid/avc1/480x852/ILumL1p48-g1m6yi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999369772014927876/pl/E4iD3R-YtFHvAzqL.m3u8?v=bd6"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369772014927876/vid/avc1/320x568/oWdEPTS9QZcn6N5N.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369772014927876/vid/avc1/1080x1920/k0p6K7RT7DYhWp4X.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999369772014927876"
+          ],
+          "media_source_tweet_id": [
+            "1999370773530837085"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1999394210269843574",
+        "created_at": "2025-12-12T08:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999394210269843574"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "レゼダンス"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "RezeDance"
+            },
+            {
+              "end": 68,
+              "start": 56,
+              "tag": "ChainsawMan"
+            },
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "IRISOUT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "58794150",
+              "start": 3,
+              "username": "hachi_08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvJv1z3Ypb",
+              "end": 101,
+              "expanded_url": "https://x.com/hachi_08/status/1999370773530837085/video/1",
+              "media_key": "13_1999369772014927876",
+              "start": 78,
+              "url": "https://t.co/MvJv1z3Ypb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999394210269843574",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52546
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999370773530837085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hachi_08: 🫵😭\n\n「IRIS OUT」 #レゼダンス　#チェンソーマン　#RezeDance #ChainsawMan #IRISOUT https://t.co/MvJv1z3Ypb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999369772014927876"
+          ]
+        },
+        "author_id": "58794150",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1999370773530837085",
+        "created_at": "2025-12-12T06:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999370773530837085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "レゼダンス"
+            },
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "RezeDance"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "ChainsawMan"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "IRISOUT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvJv1z3Ypb",
+              "end": 87,
+              "expanded_url": "https://x.com/hachi_08/status/1999370773530837085/video/1",
+              "media_key": "13_1999369772014927876",
+              "start": 64,
+              "url": "https://t.co/MvJv1z3Ypb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999370773530837085",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45163,
+          "impression_count": 3119849,
+          "like_count": 229637,
+          "quote_count": 5148,
+          "reply_count": 1363,
+          "retweet_count": 52546
+        },
+        "reply_settings": "everyone",
+        "text": "🫵😭\n\n「IRIS OUT」 #レゼダンス　#チェンソーマン　#RezeDance #ChainsawMan #IRISOUT https://t.co/MvJv1z3Ypb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4678,
+          "following_count": 3415,
+          "like_count": 33934,
+          "listed_count": 6,
+          "media_count": 449,
+          "tweet_count": 8906
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-21T13:27:32.000Z",
+        "description": "Kenshi Yonezu https://t.co/qjZOsWiMq7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hachi_08/",
+                "end": 37,
+                "expanded_url": "https://www.instagram.com/hachi_08/",
+                "start": 14,
+                "url": "https://t.co/qjZOsWiMq7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reissuerecords.net",
+                "end": 23,
+                "expanded_url": "http://reissuerecords.net/",
+                "start": 0,
+                "url": "https://t.co/E4jtIuZomJ"
+              }
+            ]
+          }
+        },
+        "id": "58794150",
+        "name": "米津玄師　ハチ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/878591995429609474/aJaslQ-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284857,
+          "following_count": 17,
+          "like_count": 29,
+          "listed_count": 13097,
+          "media_count": 586,
+          "tweet_count": 3139
+        },
+        "url": "https://t.co/E4jtIuZomJ",
+        "username": "hachi_08",
+        "verified": true
+      }
+    ]
+  }
+}

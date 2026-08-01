@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043729539449401351"
+      ],
+      "media_source_tweet_id": [
+        "2043729543068844040"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2043734391667732874",
+    "created_at": "2026-04-13T16:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043734391667732874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 60,
+          "tag": "Heartheartart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1248262946175606785",
+          "start": 3,
+          "username": "_gummy_bear___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gX2EwwFZsK",
+          "end": 98,
+          "expanded_url": "https://x.com/_gummy_bear___/status/2043729543068844040/photo/1",
+          "media_key": "3_2043729539449401351",
+          "start": 75,
+          "url": "https://t.co/gX2EwwFZsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043734391667732874",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043729543068844040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_gummy_bear___: I put a pair of glasses on her ꜀(˘꒳˘ ꜀)\n#Heartheartart https://t.co/gX2EwwFZsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2043729539449401351",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzJMB_asAcjXAh.jpg",
+        "width": 1828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043729539449401351"
+          ],
+          "media_source_tweet_id": [
+            "2043729543068844040"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2043734391667732874",
+        "created_at": "2026-04-13T16:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043734391667732874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 60,
+              "tag": "Heartheartart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1248262946175606785",
+              "start": 3,
+              "username": "_gummy_bear___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gX2EwwFZsK",
+              "end": 98,
+              "expanded_url": "https://x.com/_gummy_bear___/status/2043729543068844040/photo/1",
+              "media_key": "3_2043729539449401351",
+              "start": 75,
+              "url": "https://t.co/gX2EwwFZsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043734391667732874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043729543068844040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_gummy_bear___: I put a pair of glasses on her ꜀(˘꒳˘ ꜀)\n#Heartheartart https://t.co/gX2EwwFZsK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043729539449401351"
+          ]
+        },
+        "author_id": "1248262946175606785",
+        "conversation_id": "2043729543068844040",
+        "created_at": "2026-04-13T16:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043729543068844040"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "Heartheartart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gX2EwwFZsK",
+              "end": 78,
+              "expanded_url": "https://x.com/_gummy_bear___/status/2043729543068844040/photo/1",
+              "media_key": "3_2043729539449401351",
+              "start": 55,
+              "url": "https://t.co/gX2EwwFZsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043729543068844040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "I put a pair of glasses on her ꜀(˘꒳˘ ꜀)\n#Heartheartart https://t.co/gX2EwwFZsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 3469,
+          "like_count": 34147,
+          "listed_count": 6,
+          "media_count": 480,
+          "tweet_count": 9094
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T14:54:22.000Z",
+        "description": "hi！// poor english //in school//drawing//单机//AI🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/ricecandy000",
+                "end": 23,
+                "expanded_url": "https://vgen.co/ricecandy000",
+                "start": 0,
+                "url": "https://t.co/IAZCto5SFO"
+              }
+            ]
+          }
+        },
+        "id": "1248262946175606785",
+        "location": "in terraria",
+        "name": "米糖巧克力",
+        "pinned_tweet_id": "2043247764524466619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042911805261967360/vVCSRxo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1188,
+          "like_count": 1760,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/IAZCto5SFO",
+        "username": "_gummy_bear___",
+        "verified": false
+      }
+    ]
+  }
+}
