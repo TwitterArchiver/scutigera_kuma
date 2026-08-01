@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T09:33:24",
+  "last_updated": "2026-08-01T09:43:36",
   "html": {
     "https://web.archive.org/web/20251203175923if_/https://twitter.com/scutigera_kuma/status/1996278102415298998": {
       "status": "done",
@@ -2779,13 +2779,13 @@
   },
   "images": {
     "https://pbs.twimg.com/media/G7LBuMmbgAIhh1G.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251202150005_twitter_com_scutigera_kuma_status_1995870591124209815.json"
       ],
-      "last_updated": "2026-08-01T09:19:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251202150005im_/https://pbs.twimg.com/media/G7LBuMmbgAIhh1G.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:33:54",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251202150005/https://pbs.twimg.com/media/G7LBuMmbgAIhh1G.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G7fAleeaUAA794n.jpg": {
       "status": "done",
@@ -2807,9 +2807,9 @@
         "20251207140233_twitter_com_scutigera_kuma_status_1997668051739648132.json",
         "20251207140237_twitter_com_scutigera_kuma_status_1997668070731473346.json"
       ],
-      "last_updated": "2026-08-01T09:19:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251207140233im_/https://pbs.twimg.com/media/G7kOkOabUAAyKO9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24fcb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-01T09:34:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251207140233if_/https://pbs.twimg.com/media/G7kOkOabUAAyKO9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746f90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/G75UPUfbwAA2CXC.jpg": {
       "status": "failed",
@@ -2817,18 +2817,18 @@
         "20251211144350_twitter_com_scutigera_kuma_status_1999127993126666336.json",
         "20251211144418_twitter_com_scutigera_kuma_status_1999128111787696578.json"
       ],
-      "last_updated": "2026-08-01T09:19:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251211144350im_/https://pbs.twimg.com/media/G75UPUfbwAA2CXC.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-01T09:34:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251211144350if_/https://pbs.twimg.com/media/G75UPUfbwAA2CXC.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e70b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G74PyQzaQAA9tdL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251212083143_twitter_com_scutigera_kuma_status_1999396737660944805.json"
       ],
-      "last_updated": "2026-08-01T09:20:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212083143im_/https://pbs.twimg.com/media/G74PyQzaQAA9tdL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24eab0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:34:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212083143im_/https://pbs.twimg.com/media/G74PyQzaQAA9tdL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G7_VU4tagAIJJbs.jpg": {
       "status": "done",
@@ -2871,9 +2871,9 @@
       "referenced_by": [
         "20251225131938_twitter_com_scutigera_kuma_status_2004180235064168736.json"
       ],
-      "last_updated": "2026-08-01T09:20:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225131938im_/https://pbs.twimg.com/media/G9BChdDb0AInZIT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282f90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:35:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225131938im_/https://pbs.twimg.com/media/G9BChdDb0AInZIT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a1f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9BSzn1b0Ao_tYx.jpg": {
       "status": "done",
@@ -2887,9 +2887,9 @@
       "referenced_by": [
         "20260108111048_twitter_com_scutigera_kuma_status_2009221241966833978.json"
       ],
-      "last_updated": "2026-08-01T09:21:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108111048im_/https://pbs.twimg.com/media/G-FPcdQa0AUJoXK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24dd00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:35:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108111048im_/https://pbs.twimg.com/media/G-FPcdQa0AUJoXK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237747a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G-Iv6xJa0AYuOIv.jpg": {
       "status": "done",
@@ -2920,27 +2920,27 @@
       "referenced_by": [
         "20260109094108_twitter_com_scutigera_kuma_status_2009561065571680434.json"
       ],
-      "last_updated": "2026-08-01T09:21:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260109094108im_/https://pbs.twimg.com/media/G-NlE8TXcAALrIP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281d90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:35:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260109094108im_/https://pbs.twimg.com/media/G-NlE8TXcAALrIP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G-nPbHmaUAAWZQP.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260114091624_twitter_com_scutigera_kuma_status_2011366780678361095.json"
       ],
-      "last_updated": "2026-08-01T09:21:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260114091624im_/https://pbs.twimg.com/media/G-nPbHmaUAAWZQP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ee450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:35:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260114091624im_/https://pbs.twimg.com/media/G-nPbHmaUAAWZQP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a3770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G-14r_LWQAAvEp6.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260117053821_twitter_com_scutigera_kuma_status_2012399068757336149.json"
       ],
-      "last_updated": "2026-08-01T09:21:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260117053821im_/https://pbs.twimg.com/media/G-14r_LWQAAvEp6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24f170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:36:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260117053821im_/https://pbs.twimg.com/media/G-14r_LWQAAvEp6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23744140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G_LBObMXIAEYrFY.jpg": {
       "status": "done",
@@ -2968,9 +2968,9 @@
       "referenced_by": [
         "20260214140644_twitter_com_scutigera_kuma_status_2022673869900067101.json"
       ],
-      "last_updated": "2026-08-01T09:22:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260214140644im_/https://pbs.twimg.com/media/HBH67GxakAgdfMz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:36:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260214140644im_/https://pbs.twimg.com/media/HBH67GxakAgdfMz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e6b10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HAlfPrSbAAE-6EI.jpg": {
       "status": "done",
@@ -3033,63 +3033,63 @@
       "referenced_by": [
         "20260219162915_twitter_com_scutigera_kuma_status_2024521672548843853.json"
       ],
-      "last_updated": "2026-08-01T09:22:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219162915im_/https://pbs.twimg.com/media/HBiLuXNbUAA5L58.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282ea0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:36:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219162915im_/https://pbs.twimg.com/media/HBiLuXNbUAA5L58.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23e78c50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HBiLuXLbwAAwxq8.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260219162915_twitter_com_scutigera_kuma_status_2024521672548843853.json"
       ],
-      "last_updated": "2026-08-01T09:22:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219162915if_/https://pbs.twimg.com/media/HBiLuXLbwAAwxq8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:36:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219162915im_/https://pbs.twimg.com/media/HBiLuXLbwAAwxq8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HBiLuXJbcAANHW4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260219162915_twitter_com_scutigera_kuma_status_2024521672548843853.json"
       ],
-      "last_updated": "2026-08-01T09:22:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219162915if_/https://pbs.twimg.com/media/HBiLuXJbcAANHW4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d1c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:36:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219162915im_/https://pbs.twimg.com/media/HBiLuXJbcAANHW4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCFIINxagAA3Yag.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260227034320_twitter_com_scutigera_kuma_status_2027228026149494853.json"
       ],
-      "last_updated": "2026-08-01T09:23:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320if_/https://pbs.twimg.com/media/HCFIINxagAA3Yag.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103effe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIINxagAA3Yag.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237775c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCFIIOUaUAEO2w0.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260227034320_twitter_com_scutigera_kuma_status_2027228026149494853.json"
       ],
-      "last_updated": "2026-08-01T09:23:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIIOUaUAEO2w0.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIIOUaUAEO2w0.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237447d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCFIINuaAAA_cW8.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260227034320_twitter_com_scutigera_kuma_status_2027228026149494853.json"
       ],
-      "last_updated": "2026-08-01T09:23:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIINuaAAA_cW8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2cb3e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIINuaAAA_cW8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a1370>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCFIINubYAAoBZB.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260227034320_twitter_com_scutigera_kuma_status_2027228026149494853.json"
       ],
-      "last_updated": "2026-08-01T09:23:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIINubYAAoBZB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a2570>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260227034320im_/https://pbs.twimg.com/media/HCFIINubYAAoBZB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cc470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCUbLtsb0AAlUP3.jpg": {
       "status": "done",
@@ -3110,9 +3110,9 @@
       "referenced_by": [
         "20260303091357_twitter_com_scutigera_kuma_status_2028760779651166691.json"
       ],
-      "last_updated": "2026-08-01T09:23:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260303091357im_/https://pbs.twimg.com/media/HCaXlP1a8AAHn_H.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2ca210>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260303091357im_/https://pbs.twimg.com/media/HCaXlP1a8AAHn_H.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cddc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HClbWc9bMAADIhh.jpg": {
       "status": "done",
@@ -3126,36 +3126,36 @@
       "referenced_by": [
         "20260308111122_twitter_com_scutigera_kuma_status_2030602270459752525.json"
       ],
-      "last_updated": "2026-08-01T09:23:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308111122im_/https://pbs.twimg.com/media/HC4YJb5asAAMYlw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24ecf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308111122im_/https://pbs.twimg.com/media/HC4YJb5asAAMYlw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cf620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HC4YJb4acAAdgX7.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260308111122_twitter_com_scutigera_kuma_status_2030602270459752525.json"
       ],
-      "last_updated": "2026-08-01T09:23:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308111122im_/https://pbs.twimg.com/media/HC4YJb4acAAdgX7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a347a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308111122im_/https://pbs.twimg.com/media/HC4YJb4acAAdgX7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776750>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HC5O6l7bMAACn4r.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260308141008_twitter_com_scutigera_kuma_status_2030647256760869224.json"
       ],
-      "last_updated": "2026-08-01T09:23:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308141008im_/https://pbs.twimg.com/media/HC5O6l7bMAACn4r.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24f2c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:37:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308141008im_/https://pbs.twimg.com/media/HC5O6l7bMAACn4r.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237744a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDiqixcaoAAwOCN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260316163523_twitter_com_scutigera_kuma_status_2033582913930039588.json"
       ],
-      "last_updated": "2026-08-01T09:24:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316163523im_/https://pbs.twimg.com/media/HDiqixcaoAAwOCN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:38:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316163523im_/https://pbs.twimg.com/media/HDiqixcaoAAwOCN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23747260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDnPFJ3a0AAlGEX.jpg": {
       "status": "done",
@@ -3190,18 +3190,18 @@
       "referenced_by": [
         "20260320061851_twitter_com_scutigera_kuma_status_2034877309426311577.json"
       ],
-      "last_updated": "2026-08-01T09:24:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320061851im_/https://pbs.twimg.com/media/HDxeWmlbYAA24Pd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103edf70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:38:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320061851im_/https://pbs.twimg.com/media/HDxeWmlbYAA24Pd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDxeWspaMAAEy-j.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260320061851_twitter_com_scutigera_kuma_status_2034877309426311577.json"
       ],
-      "last_updated": "2026-08-01T09:24:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320061851im_/https://pbs.twimg.com/media/HDxeWspaMAAEy-j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2cb0b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:38:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320061851im_/https://pbs.twimg.com/media/HDxeWspaMAAEy-j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23745f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HD11yboboAMQq6N.jpg": {
       "status": "done",
@@ -3236,45 +3236,45 @@
       "referenced_by": [
         "20260403081327_twitter_com_scutigera_kuma_status_2039979580929573122.json"
       ],
-      "last_updated": "2026-08-01T09:25:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403081327im_/https://pbs.twimg.com/media/HE92m0RboAApxlA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24db20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:39:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403081327im_/https://pbs.twimg.com/media/HE92m0RboAApxlA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cf530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HE93d7makAAkN7d.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260403081713_twitter_com_scutigera_kuma_status_2039980528603127889.json"
       ],
-      "last_updated": "2026-08-01T09:25:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403081713im_/https://pbs.twimg.com/media/HE93d7makAAkN7d.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103efb60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:39:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403081713/https://pbs.twimg.com/media/HE93d7makAAkN7d.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746030>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFcyCnnaAAA4P9R.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409091739_twitter_com_scutigera_kuma_status_2042170063822930269.json"
       ],
-      "last_updated": "2026-08-01T09:26:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409091739im_/https://pbs.twimg.com/media/HFcyCnnaAAA4P9R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a2f00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:40:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409091739im_/https://pbs.twimg.com/media/HFcyCnnaAAA4P9R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFcyCu0a8AMAy9O.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409091739_twitter_com_scutigera_kuma_status_2042170063822930269.json"
       ],
-      "last_updated": "2026-08-01T09:26:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409091739im_/https://pbs.twimg.com/media/HFcyCu0a8AMAy9O.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2cb440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:40:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409091739im_/https://pbs.twimg.com/media/HFcyCu0a8AMAy9O.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23747080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFcyCpBa8AQkBim.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409091739_twitter_com_scutigera_kuma_status_2042170063822930269.json"
       ],
-      "last_updated": "2026-08-01T09:26:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409091739im_/https://pbs.twimg.com/media/HFcyCpBa8AQkBim.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2807a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:40:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409091739im_/https://pbs.twimg.com/media/HFcyCpBa8AQkBim.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFtdCMZagAAuXaI.jpg": {
       "status": "done",
@@ -3295,27 +3295,27 @@
       "referenced_by": [
         "20260413072429_twitter_com_scutigera_kuma_status_2043591136493940839.json"
       ],
-      "last_updated": "2026-08-01T09:26:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413072429im_/https://pbs.twimg.com/media/HFwh9AOaMAAurDV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2cade0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413072429if_/https://pbs.twimg.com/media/HFwh9AOaMAAurDV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e75c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFwh9APbUAAkkfr.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260413072429_twitter_com_scutigera_kuma_status_2043591136493940839.json"
       ],
-      "last_updated": "2026-08-01T09:26:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413072429im_/https://pbs.twimg.com/media/HFwh9APbUAAkkfr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a2630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413072429im_/https://pbs.twimg.com/media/HFwh9APbUAAkkfr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cfb60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFyJadGagAA0NGk.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260413125820_twitter_com_scutigera_kuma_status_2043675149904548078.json"
       ],
-      "last_updated": "2026-08-01T09:26:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413125820im_/https://pbs.twimg.com/media/HFyJadGagAA0NGk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1070>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413125820im_/https://pbs.twimg.com/media/HFyJadGagAA0NGk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237466c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFy1jUsbIAAqi8J.jpg": {
       "status": "done",
@@ -3330,45 +3330,45 @@
         "20260414141631_twitter_com_scutigera_kuma_status_2044057215498338450.json",
         "20260414142325_twitter_com_scutigera_kuma_status_2044058952011526496.json"
       ],
-      "last_updated": "2026-08-01T09:27:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414141631im_/https://pbs.twimg.com/media/HF3zMntasAYJ8Af.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2c92e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-01T09:41:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414141631im_/https://pbs.twimg.com/media/HF3zMntasAYJ8Af.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23eda9f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HGAKG2SaQAAhLBP.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260416063914_twitter_com_scutigera_kuma_status_2044666910852395288.json"
       ],
-      "last_updated": "2026-08-01T09:27:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416063914im_/https://pbs.twimg.com/media/HGAKG2SaQAAhLBP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281640>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416063914im_/https://pbs.twimg.com/media/HGAKG2SaQAAhLBP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e65d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGAKG2RbMAAWidK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260416063914_twitter_com_scutigera_kuma_status_2044666910852395288.json"
       ],
-      "last_updated": "2026-08-01T09:27:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416063914im_/https://pbs.twimg.com/media/HGAKG2RbMAAWidK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ee0f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416063914im_/https://pbs.twimg.com/media/HGAKG2RbMAAWidK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e6570>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGCAEt8aAAAjTaw.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260416134954_twitter_com_scutigera_kuma_status_2044775292087255175.json"
       ],
-      "last_updated": "2026-08-01T09:27:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416134954im_/https://pbs.twimg.com/media/HGCAEt8aAAAjTaw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280fb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416134954im_/https://pbs.twimg.com/media/HGCAEt8aAAAjTaw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd241cdeb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGCAEt_aAAA4Ei6.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260416134954_twitter_com_scutigera_kuma_status_2044775292087255175.json"
       ],
-      "last_updated": "2026-08-01T09:27:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416134954im_/https://pbs.twimg.com/media/HGCAEt_aAAA4Ei6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281220>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:41:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416134954if_/https://pbs.twimg.com/media/HGCAEt_aAAA4Ei6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cd190>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGQiFfwa4AAjgbr.jpg": {
       "status": "failed",
@@ -3376,9 +3376,9 @@
         "20260419093215_twitter_com_scutigera_kuma_status_2045797615019991232.json",
         "20260419093325_twitter_com_scutigera_kuma_status_2045797911292956954.json"
       ],
-      "last_updated": "2026-08-01T09:27:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419093215im_/https://pbs.twimg.com/media/HGQiFfwa4AAjgbr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2839e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-01T09:41:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419093215im_/https://pbs.twimg.com/media/HGQiFfwa4AAjgbr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e5d60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HGQiFfxbAAA1pC-.jpg": {
       "status": "failed",
@@ -3386,9 +3386,9 @@
         "20260419093215_twitter_com_scutigera_kuma_status_2045797615019991232.json",
         "20260419093325_twitter_com_scutigera_kuma_status_2045797911292956954.json"
       ],
-      "last_updated": "2026-08-01T09:27:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419093215im_/https://pbs.twimg.com/media/HGQiFfxbAAA1pC-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-01T09:42:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419093215im_/https://pbs.twimg.com/media/HGQiFfxbAAA1pC-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cf080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HGPe544akAAIE61.jpg": {
       "status": "done",
@@ -3402,18 +3402,18 @@
       "referenced_by": [
         "20260419151757_twitter_com_scutigera_kuma_status_2045884616784101816.json"
       ],
-      "last_updated": "2026-08-01T09:27:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419151757im_/https://pbs.twimg.com/media/HGRBdC4bkAArGbF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a351f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:42:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419151757im_/https://pbs.twimg.com/media/HGRBdC4bkAArGbF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cde50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGRBdC5bEAIj2bz.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260419151757_twitter_com_scutigera_kuma_status_2045884616784101816.json"
       ],
-      "last_updated": "2026-08-01T09:27:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419151757im_/https://pbs.twimg.com/media/HGRBdC5bEAIj2bz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2ca390>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:42:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419151757im_/https://pbs.twimg.com/media/HGRBdC5bEAIj2bz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23ed93d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHFOk--aEAAcgX3.jpg": {
       "status": "done",
@@ -3469,9 +3469,9 @@
       "referenced_by": [
         "20260511014858_twitter_com_scutigera_kuma_status_2053653559204536617.json"
       ],
-      "last_updated": "2026-08-01T09:28:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511014858im_/https://pbs.twimg.com/media/HH9ay_JaoAAMb1i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2c8b90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:42:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511014858im_/https://pbs.twimg.com/media/HH9ay_JaoAAMb1i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23744230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HI4bxnba0AEWZ1w.jpg": {
       "status": "done",
@@ -3485,18 +3485,18 @@
       "referenced_by": [
         "20260524064321_twitter_com_scutigera_kuma_status_2058438687030173919.json"
       ],
-      "last_updated": "2026-08-01T09:28:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524064321im_/https://pbs.twimg.com/media/HJELEhmaQAArlbU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:42:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524064321im_/https://pbs.twimg.com/media/HJELEhmaQAArlbU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23775160>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJQEMVUa0AAze4s.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260529144341_twitter_com_scutigera_kuma_status_2060371504395866139.json"
       ],
-      "last_updated": "2026-08-01T09:28:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529144341im_/https://pbs.twimg.com/media/HJQEMVUa0AAze4s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24dbe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:42:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529144341im_/https://pbs.twimg.com/media/HJQEMVUa0AAze4s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJfsIZIbQAASkVQ.jpg": {
       "status": "done",
@@ -3531,9 +3531,9 @@
       "referenced_by": [
         "20260530160802_twitter_com_scutigera_kuma_status_2060755120074473857.json"
       ],
-      "last_updated": "2026-08-01T09:28:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530160802im_/https://pbs.twimg.com/media/HJkqsb0aUAEaJrS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a3620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:43:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530160802im_/https://pbs.twimg.com/media/HJkqsb0aUAEaJrS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJd3KoZasAAND42.jpg": {
       "status": "done",
@@ -3645,9 +3645,9 @@
       "referenced_by": [
         "20251206173232_twitter_com_scutigera_kuma_status_1997358511202664483.json"
       ],
-      "last_updated": "2026-08-01T09:19:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251206173232im_/https://pbs.twimg.com/media/G7gK-iiaAAA-DIh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ee780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251206173232/https://pbs.twimg.com/media/G7gK-iiaAAA-DIh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e74d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G73ooAbaMAERctH.jpg": {
       "status": "done",
@@ -3689,27 +3689,27 @@
       "referenced_by": [
         "20251212032331_twitter_com_scutigera_kuma_status_1999319175031062665.json"
       ],
-      "last_updated": "2026-08-01T09:19:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212032331im_/https://pbs.twimg.com/media/G77u-45b0AA7LWh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24db80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212032331im_/https://pbs.twimg.com/media/G77u-45b0AA7LWh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237453d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G78dz-cagAQD5GE.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251212054742_twitter_com_scutigera_kuma_status_1999355458977693899.json"
       ],
-      "last_updated": "2026-08-01T09:20:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212054742im_/https://pbs.twimg.com/media/G78dz-cagAQD5GE.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212054742im_/https://pbs.twimg.com/media/G78dz-cagAQD5GE.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e6e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G78dz-bagAMs0BB.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251212054742_twitter_com_scutigera_kuma_status_1999355458977693899.json"
       ],
-      "last_updated": "2026-08-01T09:20:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212054742if_/https://pbs.twimg.com/media/G78dz-bagAMs0BB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a0200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251212054742im_/https://pbs.twimg.com/media/G78dz-bagAMs0BB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746f00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G7-1NzaaMAAT-5f.jpg": {
       "status": "done",
@@ -3730,18 +3730,18 @@
       "referenced_by": [
         "20251213112210_twitter_com_scutigera_kuma_status_1999802018509230483.json"
       ],
-      "last_updated": "2026-08-01T09:20:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213112210im_/https://pbs.twimg.com/media/G8C5PEKakAAfyTS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213112210im_/https://pbs.twimg.com/media/G8C5PEKakAAfyTS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G8C5PFQa8AAbjCb.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251213112210_twitter_com_scutigera_kuma_status_1999802018509230483.json"
       ],
-      "last_updated": "2026-08-01T09:20:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213112210im_/https://pbs.twimg.com/media/G8C5PFQa8AAbjCb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ee210>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213112210im_/https://pbs.twimg.com/media/G8C5PFQa8AAbjCb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cc590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G8bOgrFakAMxELP.jpg": {
       "status": "done",
@@ -3790,27 +3790,27 @@
       "referenced_by": [
         "20251219151929_twitter_com_scutigera_kuma_status_2002036069630656896.json"
       ],
-      "last_updated": "2026-08-01T09:20:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251219151929im_/https://pbs.twimg.com/media/G8ioj-7aUAEyErn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a0860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251219151929im_/https://pbs.twimg.com/media/G8ioj-7aUAEyErn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e74a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G8tgK7mboAAE2qs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251221175554_twitter_com_scutigera_kuma_status_2002800207021654366.json"
       ],
-      "last_updated": "2026-08-01T09:20:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251221175554im_/https://pbs.twimg.com/media/G8tgK7mboAAE2qs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251221175554im_/https://pbs.twimg.com/media/G8tgK7mboAAE2qs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774c50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G8tjPgXaAAAPQaT.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251221181223_twitter_com_scutigera_kuma_status_2002804356278788607.json"
       ],
-      "last_updated": "2026-08-01T09:20:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251221181223im_/https://pbs.twimg.com/media/G8tjPgXaAAAPQaT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24cda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:34:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251221181223im_/https://pbs.twimg.com/media/G8tjPgXaAAAPQaT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237774d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G8ZHVVZXgAA2qR7.png": {
       "status": "done",
@@ -3838,36 +3838,36 @@
       "referenced_by": [
         "20251224011006_twitter_com_scutigera_kuma_status_2003634252072779900.json"
       ],
-      "last_updated": "2026-08-01T09:20:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224011006im_/https://pbs.twimg.com/media/G8406dzbUAAbmE_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24e960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224011006im_/https://pbs.twimg.com/media/G8406dzbUAAbmE_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ce930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G8407DragAAD--8.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251224011006_twitter_com_scutigera_kuma_status_2003634252072779900.json"
       ],
-      "last_updated": "2026-08-01T09:20:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224011006im_/https://pbs.twimg.com/media/G8407DragAAD--8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2c9b20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224011006im_/https://pbs.twimg.com/media/G8407DragAAD--8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9LgnWGbwAAsfNp.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251228131238_twitter_com_scutigera_kuma_status_2005265636034048102.json"
       ],
-      "last_updated": "2026-08-01T09:20:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251228131238im_/https://pbs.twimg.com/media/G9LgnWGbwAAsfNp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a3cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251228131238im_/https://pbs.twimg.com/media/G9LgnWGbwAAsfNp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e6b70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9LgnV_aUAA1Jbt.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251228131238_twitter_com_scutigera_kuma_status_2005265636034048102.json"
       ],
-      "last_updated": "2026-08-01T09:20:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251228131238im_/https://pbs.twimg.com/media/G9LgnV_aUAA1Jbt.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280b90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251228131238im_/https://pbs.twimg.com/media/G9LgnV_aUAA1Jbt.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a2180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9R_9jzbkAA3k5i.jpg": {
       "status": "done",
@@ -3931,9 +3931,9 @@
         "20260103192351_twitter_com_scutigera_kuma_status_2007533382444658892.json",
         "20260103192404_twitter_com_scutigera_kuma_status_2007533440187630050.json"
       ],
-      "last_updated": "2026-08-01T09:21:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260103192351im_/https://pbs.twimg.com/media/G9ww7lIXgAE8FJf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a0fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:35:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260103192351im_/https://pbs.twimg.com/media/G9ww7lIXgAE8FJf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a3b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G95V-fcaAAAQuN4.jpg": {
       "status": "done",
@@ -3954,45 +3954,45 @@
       "referenced_by": [
         "20260105183542_twitter_com_scutigera_kuma_status_2008246042916254040.json"
       ],
-      "last_updated": "2026-08-01T09:21:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260105183542im_/https://pbs.twimg.com/media/G963SHPaYAAz-ua.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2819a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260105183542im_/https://pbs.twimg.com/media/G963SHPaYAAz-ua.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23e2abd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9--3xWawAAdiKC.png": {
       "status": "failed",
       "referenced_by": [
         "20260106134804_twitter_com_scutigera_kuma_status_2008536042996199511.json"
       ],
-      "last_updated": "2026-08-01T09:21:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106134804if_/https://pbs.twimg.com/media/G9--3xWawAAdiKC.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f283c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106134804im_/https://pbs.twimg.com/media/G9--3xWawAAdiKC.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a2a50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9--3xPaIAADMdk.png": {
       "status": "failed",
       "referenced_by": [
         "20260106134804_twitter_com_scutigera_kuma_status_2008536042996199511.json"
       ],
-      "last_updated": "2026-08-01T09:21:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106134804im_/https://pbs.twimg.com/media/G9--3xPaIAADMdk.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24db20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106134804im_/https://pbs.twimg.com/media/G9--3xPaIAADMdk.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9_bpsAbcAMuk6L.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260106161551_twitter_com_scutigera_kuma_status_2008573234791485805.json"
       ],
-      "last_updated": "2026-08-01T09:21:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106161551im_/https://pbs.twimg.com/media/G9_bpsAbcAMuk6L.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281850>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106161551im_/https://pbs.twimg.com/media/G9_bpsAbcAMuk6L.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G9_bpsAbsAE2_tS.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260106161551_twitter_com_scutigera_kuma_status_2008573234791485805.json"
       ],
-      "last_updated": "2026-08-01T09:21:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106161551im_/https://pbs.twimg.com/media/G9_bpsAbsAE2_tS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ee270>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:35:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106161551im_/https://pbs.twimg.com/media/G9_bpsAbsAE2_tS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23745760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G-J-f14acAAWQRr.jpg": {
       "status": "done",
@@ -4027,9 +4027,9 @@
       "referenced_by": [
         "20260116133440_twitter_com_scutigera_kuma_status_2012156550257983852.json"
       ],
-      "last_updated": "2026-08-01T09:21:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116133440im_/https://pbs.twimg.com/media/G-yUsVDbQAAZyQM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1b50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116133440im_/https://pbs.twimg.com/media/G-yUsVDbQAAZyQM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a2090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G-27y1NXQAA0-gj.jpg": {
       "status": "done",
@@ -4064,9 +4064,9 @@
       "referenced_by": [
         "20260122162902_twitter_com_scutigera_kuma_status_2014374757974909244.json"
       ],
-      "last_updated": "2026-08-01T09:21:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260122162902im_/https://pbs.twimg.com/media/G_R8d69XcAA-EqD.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1be0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260122162902im_/https://pbs.twimg.com/media/G_R8d69XcAA-EqD.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cc710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G_ZjD5iaQAADWzr.jpg": {
       "status": "done",
@@ -4125,9 +4125,9 @@
       "referenced_by": [
         "20260124155800_twitter_com_scutigera_kuma_status_2015091726613168445.json"
       ],
-      "last_updated": "2026-08-01T09:22:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124155800im_/https://pbs.twimg.com/media/G_X7eZHWUAALecj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a08c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124155800im_/https://pbs.twimg.com/media/G_X7eZHWUAALecj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237745f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G_X7gnQWsAACq33.jpg": {
       "status": "done",
@@ -4141,18 +4141,18 @@
       "referenced_by": [
         "20260131165037_twitter_com_scutigera_kuma_status_2017641680288288988.json"
       ],
-      "last_updated": "2026-08-01T09:22:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131165037im_/https://pbs.twimg.com/media/G_10QUXbUAYYKEd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131165037im_/https://pbs.twimg.com/media/G_10QUXbUAYYKEd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/G_10QUYbUAMW6QJ.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260131165037_twitter_com_scutigera_kuma_status_2017641680288288988.json"
       ],
-      "last_updated": "2026-08-01T09:22:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131165037im_/https://pbs.twimg.com/media/G_10QUYbUAMW6QJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a3680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:27",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260131165037/https://pbs.twimg.com/media/G_10QUYbUAMW6QJ.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HAQUWU3a4AIbiiQ.jpg": {
       "status": "done",
@@ -4180,9 +4180,9 @@
       "referenced_by": [
         "20260205201141_twitter_com_scutigera_kuma_status_2019504222933512321.json"
       ],
-      "last_updated": "2026-08-01T09:22:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260205201141im_/https://pbs.twimg.com/media/HAa4Yq-aIAADt5J.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a2b10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260205201141im_/https://pbs.twimg.com/media/HAa4Yq-aIAADt5J.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23e79460>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HAfdfQpaoAEsAHS.jpg": {
       "status": "done",
@@ -4238,45 +4238,45 @@
       "referenced_by": [
         "20260215070625_twitter_com_scutigera_kuma_status_2022930479545225503.json"
       ],
-      "last_updated": "2026-08-01T09:22:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260215070625im_/https://pbs.twimg.com/media/HBK0m4FakAQL9Rv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a0200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260215070625im_/https://pbs.twimg.com/media/HBK0m4FakAQL9Rv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23744200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HBgPMSaagAAlmXY.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260219081547_twitter_com_scutigera_kuma_status_2024397489135374504.json"
       ],
-      "last_updated": "2026-08-01T09:22:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219081547im_/https://pbs.twimg.com/media/HBgPMSaagAAlmXY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a348f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219081547im_/https://pbs.twimg.com/media/HBgPMSaagAAlmXY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23777b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HB2FWNubcAAk-Db.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260224091443_twitter_com_scutigera_kuma_status_2026224260726026641.json"
       ],
-      "last_updated": "2026-08-01T09:22:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224091443im_/https://pbs.twimg.com/media/HB2FWNubcAAk-Db.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24c0b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:37:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224091443im_/https://pbs.twimg.com/media/HB2FWNubcAAk-Db.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e62d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HB67MWIbkAAl9zm.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260224114955_twitter_com_scutigera_kuma_status_2026263317736739139.json"
       ],
-      "last_updated": "2026-08-01T09:22:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224114955im_/https://pbs.twimg.com/media/HB67MWIbkAAl9zm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f283710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:37:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224114955im_/https://pbs.twimg.com/media/HB67MWIbkAAl9zm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23745ca0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HB67MWEbUAAjR81.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260224114955_twitter_com_scutigera_kuma_status_2026263317736739139.json"
       ],
-      "last_updated": "2026-08-01T09:22:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224114955if_/https://pbs.twimg.com/media/HB67MWEbUAAjR81.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24ea20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:37:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224114955im_/https://pbs.twimg.com/media/HB67MWEbUAAjR81.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a3d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HB98715aMAAIiTY.jpg": {
       "status": "done",
@@ -4325,9 +4325,9 @@
       "referenced_by": [
         "20260303063952_twitter_com_scutigera_kuma_status_2028722006808813791.json"
       ],
-      "last_updated": "2026-08-01T09:23:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260303063952im_/https://pbs.twimg.com/media/HCaCXNqasAAIxJn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a34da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:37:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260303063952im_/https://pbs.twimg.com/media/HCaCXNqasAAIxJn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ccf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HCeRFZ6aIAAYirO.jpg": {
       "status": "done",
@@ -4348,36 +4348,36 @@
       "referenced_by": [
         "20260305185305_twitter_com_scutigera_kuma_status_2029631302094475764.json"
       ],
-      "last_updated": "2026-08-01T09:23:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260305185305im_/https://pbs.twimg.com/media/HCqy6NrbwAAcuVX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24f740>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:37:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260305185305im_/https://pbs.twimg.com/media/HCqy6NrbwAAcuVX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e72c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HC8hygIb0AAp4fw.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260311034034_twitter_com_scutigera_kuma_status_2031575985804685483.json"
       ],
-      "last_updated": "2026-08-01T09:23:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034034im_/https://pbs.twimg.com/media/HC8hygIb0AAp4fw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282fc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:37:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034034im_/https://pbs.twimg.com/media/HC8hygIb0AAp4fw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ccd40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HC8hygIbwAEucNj.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260311034034_twitter_com_scutigera_kuma_status_2031575985804685483.json"
       ],
-      "last_updated": "2026-08-01T09:23:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034034im_/https://pbs.twimg.com/media/HC8hygIbwAEucNj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282d20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034034im_/https://pbs.twimg.com/media/HC8hygIbwAEucNj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HC8hygCbIAAP--l.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260311034034_twitter_com_scutigera_kuma_status_2031575985804685483.json"
       ],
-      "last_updated": "2026-08-01T09:24:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034034im_/https://pbs.twimg.com/media/HC8hygCbIAAP--l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24dbb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034034im_/https://pbs.twimg.com/media/HC8hygCbIAAP--l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776ae0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HDNRZYFbQAAwptJ.jpg": {
       "status": "done",
@@ -4391,27 +4391,27 @@
       "referenced_by": [
         "20260314132001_twitter_com_scutigera_kuma_status_2032808972718428296.json"
       ],
-      "last_updated": "2026-08-01T09:24:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314132001im_/https://pbs.twimg.com/media/HDX5DofaMAYM0ch.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314132001im_/https://pbs.twimg.com/media/HDX5DofaMAYM0ch.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237472f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HDoqQ-eWEAEgPId.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260318053811_twitter_com_scutigera_kuma_status_2034142298242748922.json"
       ],
-      "last_updated": "2026-08-01T09:24:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318053811im_/https://pbs.twimg.com/media/HDoqQ-eWEAEgPId.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d460>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318053811im_/https://pbs.twimg.com/media/HDoqQ-eWEAEgPId.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23e78bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HDoqQ-gW4AA-WCZ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260318053811_twitter_com_scutigera_kuma_status_2034142298242748922.json"
       ],
-      "last_updated": "2026-08-01T09:24:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318053811im_/https://pbs.twimg.com/media/HDoqQ-gW4AA-WCZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318053811im_/https://pbs.twimg.com/media/HDoqQ-gW4AA-WCZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a2690>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HDrOijsbcAAuMmw.jpg": {
       "status": "done",
@@ -4425,27 +4425,27 @@
       "referenced_by": [
         "20260320200908_twitter_com_scutigera_kuma_status_2035086255739084986.json"
       ],
-      "last_updated": "2026-08-01T09:24:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320200908im_/https://pbs.twimg.com/media/HD3oY45bEAAB2pI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f283b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320200908if_/https://pbs.twimg.com/media/HD3oY45bEAAB2pI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a2120>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HD3oY4yasAAWFTU.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260320200908_twitter_com_scutigera_kuma_status_2035086255739084986.json"
       ],
-      "last_updated": "2026-08-01T09:24:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320200908im_/https://pbs.twimg.com/media/HD3oY4yasAAWFTU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a36060>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320200908im_/https://pbs.twimg.com/media/HD3oY4yasAAWFTU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776de0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HD7Cyf0aQAEdjJh.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260321101433_twitter_com_scutigera_kuma_status_2035299013139075205.json"
       ],
-      "last_updated": "2026-08-01T09:24:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321101433im_/https://pbs.twimg.com/media/HD7Cyf0aQAEdjJh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a21b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:38:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321101433im_/https://pbs.twimg.com/media/HD7Cyf0aQAEdjJh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a0680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HDH7DImacAAolKK.jpg": {
       "status": "failed",
@@ -4453,9 +4453,9 @@
         "20260323132254_twitter_com_scutigera_kuma_status_2036071186992660979.json",
         "20260413165004_twitter_com_scutigera_kuma_status_2043733469709382024.json"
       ],
-      "last_updated": "2026-08-01T09:24:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DImacAAolKK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282060>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:38:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DImacAAolKK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a20c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDH7DInbYAAgpbH.jpg": {
       "status": "failed",
@@ -4463,9 +4463,9 @@
         "20260323132254_twitter_com_scutigera_kuma_status_2036071186992660979.json",
         "20260413165004_twitter_com_scutigera_kuma_status_2043733469709382024.json"
       ],
-      "last_updated": "2026-08-01T09:24:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DInbYAAgpbH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:38:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DInbYAAgpbH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cccb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDH7DIjbsAEfAhm.jpg": {
       "status": "failed",
@@ -4473,9 +4473,9 @@
         "20260323132254_twitter_com_scutigera_kuma_status_2036071186992660979.json",
         "20260413165004_twitter_com_scutigera_kuma_status_2043733469709382024.json"
       ],
-      "last_updated": "2026-08-01T09:24:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DIjbsAEfAhm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f283440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:39:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DIjbsAEfAhm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a3d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDH7DItawAA4mSN.jpg": {
       "status": "failed",
@@ -4483,9 +4483,9 @@
         "20260323132254_twitter_com_scutigera_kuma_status_2036071186992660979.json",
         "20260413165004_twitter_com_scutigera_kuma_status_2043733469709382024.json"
       ],
-      "last_updated": "2026-08-01T09:24:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DItawAA4mSN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24c620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:39:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132254im_/https://pbs.twimg.com/media/HDH7DItawAA4mSN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23745070>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HEK0heiaIAAyY0F.jpg": {
       "status": "done",
@@ -4499,63 +4499,63 @@
       "referenced_by": [
         "20260327094649_twitter_com_scutigera_kuma_status_2037466359798624683.json"
       ],
-      "last_updated": "2026-08-01T09:25:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327094649im_/https://pbs.twimg.com/media/HEZu_gSaUAADoDf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2839e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327094649im_/https://pbs.twimg.com/media/HEZu_gSaUAADoDf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237758b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HEZu_gaa8AAaRip.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260327094649_twitter_com_scutigera_kuma_status_2037466359798624683.json"
       ],
-      "last_updated": "2026-08-01T09:25:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327094649im_/https://pbs.twimg.com/media/HEZu_gaa8AAaRip.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281910>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327094649im_/https://pbs.twimg.com/media/HEZu_gaa8AAaRip.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a1670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HEZu_gVa4AABPJr.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260327094649_twitter_com_scutigera_kuma_status_2037466359798624683.json"
       ],
-      "last_updated": "2026-08-01T09:25:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327094649im_/https://pbs.twimg.com/media/HEZu_gVa4AABPJr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a3fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327094649im_/https://pbs.twimg.com/media/HEZu_gVa4AABPJr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cc3e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HEbcGBZbEAAAFeV.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260327170853_twitter_com_scutigera_kuma_status_2037577610209984653.json"
       ],
-      "last_updated": "2026-08-01T09:25:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327170853im_/https://pbs.twimg.com/media/HEbcGBZbEAAAFeV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f281a60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327170853im_/https://pbs.twimg.com/media/HEbcGBZbEAAAFeV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746990>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HEuyVNzb0AAhtbK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260331100110_twitter_com_scutigera_kuma_status_2038919522749690110.json"
       ],
-      "last_updated": "2026-08-01T09:25:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331100110im_/https://pbs.twimg.com/media/HEuyVNzb0AAhtbK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24c7a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331100110im_/https://pbs.twimg.com/media/HEuyVNzb0AAhtbK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a08c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HExavZyb0AATyFk.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402062954_twitter_com_scutigera_kuma_status_2039591132783689801.json"
       ],
-      "last_updated": "2026-08-01T09:25:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402062954im_/https://pbs.twimg.com/media/HExavZyb0AATyFk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a08f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402062954im_/https://pbs.twimg.com/media/HExavZyb0AATyFk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23745190>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HE5qvF2bgAA3JJO.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402152831_twitter_com_scutigera_kuma_status_2039726681322320236.json"
       ],
-      "last_updated": "2026-08-01T09:25:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402152831im_/https://pbs.twimg.com/media/HE5qvF2bgAA3JJO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f282ea0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402152831im_/https://pbs.twimg.com/media/HE5qvF2bgAA3JJO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23747e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFUFs8EbwAAkunH.jpg": {
       "status": "done",
@@ -4583,108 +4583,108 @@
       "referenced_by": [
         "20260408124151_twitter_com_scutigera_kuma_status_2041859064729354707.json"
       ],
-      "last_updated": "2026-08-01T09:25:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408124151im_/https://pbs.twimg.com/media/HFYj_k7a8AIszL-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f280620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:39:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408124151im_/https://pbs.twimg.com/media/HFYj_k7a8AIszL-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFcWslWb0AAhZg2.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409062215_twitter_com_scutigera_kuma_status_2042125920929247628.json"
       ],
-      "last_updated": "2026-08-01T09:25:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409062215im_/https://pbs.twimg.com/media/HFcWslWb0AAhZg2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d160>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409062215im_/https://pbs.twimg.com/media/HFcWslWb0AAhZg2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cfda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFWoWr4a8AAyZPL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409064550_twitter_com_scutigera_kuma_status_2042131858507624656.json"
       ],
-      "last_updated": "2026-08-01T09:25:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWr4a8AAyZPL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103eddc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWr4a8AAyZPL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e73e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFWoWr8a8AAKJvO.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409064550_twitter_com_scutigera_kuma_status_2042131858507624656.json"
       ],
-      "last_updated": "2026-08-01T09:25:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWr8a8AAKJvO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2c9010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWr8a8AAKJvO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237475c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFWoWr5bAAAeIZz.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409064550_twitter_com_scutigera_kuma_status_2042131858507624656.json"
       ],
-      "last_updated": "2026-08-01T09:25:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWr5bAAAeIZz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103eebd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWr5bAAAeIZz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e6cf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFWoWs3bsAAPaA7.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409064550_twitter_com_scutigera_kuma_status_2042131858507624656.json"
       ],
-      "last_updated": "2026-08-01T09:26:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWs3bsAAPaA7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2cb530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409064550im_/https://pbs.twimg.com/media/HFWoWs3bsAAPaA7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23774110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFcdUTCa8AAia1A.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260409065109_twitter_com_scutigera_kuma_status_2042133196750647315.json"
       ],
-      "last_updated": "2026-08-01T09:26:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409065109im_/https://pbs.twimg.com/media/HFcdUTCa8AAia1A.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a3320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409065109im_/https://pbs.twimg.com/media/HFcdUTCa8AAia1A.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23edb200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFt2e6pa4AALuqo.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260412155700_twitter_com_scutigera_kuma_status_2043357728140390613.json"
       ],
-      "last_updated": "2026-08-01T09:26:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700im_/https://pbs.twimg.com/media/HFt2e6pa4AALuqo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ee660>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700im_/https://pbs.twimg.com/media/HFt2e6pa4AALuqo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e7410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFt2e6qa8AAvBmk.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260412155700_twitter_com_scutigera_kuma_status_2043357728140390613.json"
       ],
-      "last_updated": "2026-08-01T09:26:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700/https://pbs.twimg.com/media/HFt2e6qa8AAvBmk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a12e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700im_/https://pbs.twimg.com/media/HFt2e6qa8AAvBmk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746e40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFt2e6rawAAHqlV.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260412155700_twitter_com_scutigera_kuma_status_2043357728140390613.json"
       ],
-      "last_updated": "2026-08-01T09:26:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700/https://pbs.twimg.com/media/HFt2e6rawAAHqlV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2cb6b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700im_/https://pbs.twimg.com/media/HFt2e6rawAAHqlV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a02f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFt2e6qbcAAXueI.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260412155700_twitter_com_scutigera_kuma_status_2043357728140390613.json"
       ],
-      "last_updated": "2026-08-01T09:26:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700im_/https://pbs.twimg.com/media/HFt2e6qbcAAXueI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef7d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:40:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412155700im_/https://pbs.twimg.com/media/HFt2e6qbcAAXueI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23746090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFyv2UWasAAaDLb.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260413163246_twitter_com_scutigera_kuma_status_2043729113920442408.json"
       ],
-      "last_updated": "2026-08-01T09:27:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413163246im_/https://pbs.twimg.com/media/HFyv2UWasAAaDLb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24fc80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:41:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413163246im_/https://pbs.twimg.com/media/HFyv2UWasAAaDLb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd235e4f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HFzJMB_asAcjXAh.jpg": {
       "status": "done",
@@ -4698,27 +4698,27 @@
       "referenced_by": [
         "20260414110244_twitter_com_scutigera_kuma_status_2044008448346771595.json"
       ],
-      "last_updated": "2026-08-01T09:27:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414110244im_/https://pbs.twimg.com/media/HF3G2KDasAE-4p6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:41:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414110244im_/https://pbs.twimg.com/media/HF3G2KDasAE-4p6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ce600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HF3H13PasAMGSSp.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414110705_twitter_com_scutigera_kuma_status_2044009541956972960.json"
       ],
-      "last_updated": "2026-08-01T09:27:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414110705im_/https://pbs.twimg.com/media/HF3H13PasAMGSSp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a2ed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:41:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414110705im_/https://pbs.twimg.com/media/HF3H13PasAMGSSp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23745ca0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HF53piVacAAPvTF.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260415132851_twitter_com_scutigera_kuma_status_2044407607604269411.json"
       ],
-      "last_updated": "2026-08-01T09:27:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415132851im_/https://pbs.twimg.com/media/HF53piVacAAPvTF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:41:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415132851im_/https://pbs.twimg.com/media/HF53piVacAAPvTF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ce2d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HGM6vTNbwAAs4P4.jpg": {
       "status": "done",
@@ -4753,18 +4753,18 @@
       "referenced_by": [
         "20260515125716_twitter_com_scutigera_kuma_status_2055271296062341202.json"
       ],
-      "last_updated": "2026-08-01T09:28:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515125716im_/https://pbs.twimg.com/media/HIMa-aTb0AATf_H.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a354c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515125716im_/https://pbs.twimg.com/media/HIMa-aTb0AATf_H.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a16a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HIMa-aVb0AADG3L.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260515125716_twitter_com_scutigera_kuma_status_2055271296062341202.json"
       ],
-      "last_updated": "2026-08-01T09:28:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515125716im_/https://pbs.twimg.com/media/HIMa-aVb0AADG3L.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24da60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515125716if_/https://pbs.twimg.com/media/HIMa-aVb0AADG3L.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a1340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HIl1oH4agAAFRmF.jpg": {
       "status": "done",
@@ -4778,36 +4778,36 @@
       "referenced_by": [
         "20260522125813_twitter_com_scutigera_kuma_status_2057808247466475730.json"
       ],
-      "last_updated": "2026-08-01T09:28:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522125813im_/https://pbs.twimg.com/media/HI7NsSlaIAArAk0.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a3980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522125813im_/https://pbs.twimg.com/media/HI7NsSlaIAArAk0.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ccaa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HI_45IUbgAA8HL7.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260523104526_twitter_com_scutigera_kuma_status_2058137221539246090.json"
       ],
-      "last_updated": "2026-08-01T09:28:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523104526im_/https://pbs.twimg.com/media/HI_45IUbgAA8HL7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103edfa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523104526im_/https://pbs.twimg.com/media/HI_45IUbgAA8HL7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23777ec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJEyXtibgAAfj2I.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260524094452_twitter_com_scutigera_kuma_status_2058484365450162387.json"
       ],
-      "last_updated": "2026-08-01T09:28:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524094452im_/https://pbs.twimg.com/media/HJEyXtibgAAfj2I.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a35730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524094452im_/https://pbs.twimg.com/media/HJEyXtibgAAfj2I.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237a3c50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJeSoBXaAAAiCBT.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260529082628_twitter_com_scutigera_kuma_status_2060276577695662294.json"
       ],
-      "last_updated": "2026-08-01T09:28:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529082628im_/https://pbs.twimg.com/media/HJeSoBXaAAAiCBT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529082628im_/https://pbs.twimg.com/media/HJeSoBXaAAAiCBT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237757f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJfqem4bQAAVr_v.jpg": {
       "status": "done",
@@ -4821,18 +4821,18 @@
       "referenced_by": [
         "20260529145638_twitter_com_scutigera_kuma_status_2060374763248451937.json"
       ],
-      "last_updated": "2026-08-01T09:28:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529145638im_/https://pbs.twimg.com/media/HJfr7J0a4AAwaz1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2c9dc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529145638im_/https://pbs.twimg.com/media/HJfr7J0a4AAwaz1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23775940>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJg29Xsa4AAzMsr.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260529202428_twitter_com_scutigera_kuma_status_2060457264696398185.json"
       ],
-      "last_updated": "2026-08-01T09:28:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529202428im_/https://pbs.twimg.com/media/HJg29Xsa4AAzMsr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d250>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:42:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529202428im_/https://pbs.twimg.com/media/HJg29Xsa4AAzMsr.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776f30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJaBezuasAAGnF8.jpg": {
       "status": "done",
@@ -4853,9 +4853,9 @@
       "referenced_by": [
         "20260530115021_twitter_com_scutigera_kuma_status_2060690272414228773.json"
       ],
-      "last_updated": "2026-08-01T09:28:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530115021im_/https://pbs.twimg.com/media/HJkK4L9boAAWgG_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc6103ef770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530115021im_/https://pbs.twimg.com/media/HJkK4L9boAAWgG_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cea50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJpU2fMboAACkr2.jpg": {
       "status": "done",
@@ -4876,45 +4876,45 @@
       "referenced_by": [
         "20260625100400_twitter_com_scutigera_kuma_status_2070085595532345423.json"
       ],
-      "last_updated": "2026-08-01T09:29:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr31xb0AA73SY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f24d730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr31xb0AA73SY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd241cc8c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HLpr317aYAAwNFM.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260625100400_twitter_com_scutigera_kuma_status_2070085595532345423.json"
       ],
-      "last_updated": "2026-08-01T09:29:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr317aYAAwNFM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a1580>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr317aYAAwNFM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237cc980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HLpr31ybMAANn62.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260625100400_twitter_com_scutigera_kuma_status_2070085595532345423.json"
       ],
-      "last_updated": "2026-08-01T09:29:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400if_/https://pbs.twimg.com/media/HLpr31ybMAANn62.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610a36480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr31ybMAANn62.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ce2d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HLpr310aEAAerzj.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260625100400_twitter_com_scutigera_kuma_status_2070085595532345423.json"
       ],
-      "last_updated": "2026-08-01T09:29:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr310aEAAerzj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2c8830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625100400im_/https://pbs.twimg.com/media/HLpr310aEAAerzj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd23776300>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HL_ZzAFasAA-APR.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260629152336_twitter_com_scutigera_kuma_status_2071615576913682526.json"
       ],
-      "last_updated": "2026-08-01T09:29:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629152336im_/https://pbs.twimg.com/media/HL_ZzAFasAA-APR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc60f2a0c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629152336if_/https://pbs.twimg.com/media/HL_ZzAFasAA-APR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237462d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HMKEQsxa4AEJ5Ji.jpg": {
       "status": "done",
@@ -4928,9 +4928,9 @@
       "referenced_by": [
         "20260702120732_twitter_com_scutigera_kuma_status_2072653398105866430.json"
       ],
-      "last_updated": "2026-08-01T09:29:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702120732im_/https://pbs.twimg.com/media/HMOIrUdX0AAyppR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc610c30a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:43:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702120732im_/https://pbs.twimg.com/media/HMOIrUdX0AAyppR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd237ccf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HNlUaGKbwAAh7WU.jpg": {
       "status": "done",
@@ -7450,7 +7450,7 @@
       "miss_count": 2
     },
     "20251202150005_twitter_com_scutigera_kuma_status_1995870591124209815.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G7LBuMmbgAIhh1G.jpg"
@@ -7460,7 +7460,7 @@
           "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T09:29:44",
+      "last_updated": "2026-08-01T09:33:54",
       "miss_count": 2
     },
     "20251202163403_twitter_com_scutigera_kuma_status_1995894241613283797.json": {
