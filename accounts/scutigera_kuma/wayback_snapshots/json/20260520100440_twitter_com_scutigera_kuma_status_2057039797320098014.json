@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057039740244008961"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2057039797320098014",
+    "created_at": "2026-05-20T10:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057039797320098014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OruE0OnQaU",
+          "end": 32,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2057039797320098014/video/1",
+          "media_key": "13_2057039740244008961",
+          "start": 9,
+          "url": "https://t.co/OruE0OnQaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057039797320098014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我过520就这样 https://t.co/OruE0OnQaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9008,
+        "height": 852,
+        "media_key": "13_2057039740244008961",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057039740244008961/img/FSQ1WP70HSkY-liD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057039740244008961/vid/avc1/320x568/fMLN4gmSRuaii_Eg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057039740244008961/vid/avc1/480x852/t-UOhFeFmZhpoWVl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057039740244008961/pl/YnfTOQLYqnQncqSP.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057039740244008961"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2057039797320098014",
+        "created_at": "2026-05-20T10:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057039797320098014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OruE0OnQaU",
+              "end": 32,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2057039797320098014/video/1",
+              "media_key": "13_2057039740244008961",
+              "start": 9,
+              "url": "https://t.co/OruE0OnQaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057039797320098014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我过520就这样 https://t.co/OruE0OnQaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4994,
+          "following_count": 3511,
+          "like_count": 34235,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9136
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

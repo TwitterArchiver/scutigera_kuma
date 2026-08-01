@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2058101832359272945",
+    "created_at": "2026-05-23T08:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058101832359272945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "九真_クマ’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1PKqr…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1PKqrrEgLLNGb",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2058101834024443904/dkKV2EFU?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058101834024443904/dkKV2EFU?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 我没事干",
+          "unwound_url": "https://twitter.com/i/spaces/1PKqrrEgLLNGb/peek",
+          "url": "https://t.co/0NINK5yrqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058101832359272945",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0NINK5yrqa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2058101832359272945",
+        "created_at": "2026-05-23T08:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058101832359272945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "九真_クマ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1PKqr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1PKqrrEgLLNGb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2058101834024443904/dkKV2EFU?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058101834024443904/dkKV2EFU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 我没事干",
+              "unwound_url": "https://twitter.com/i/spaces/1PKqrrEgLLNGb/peek",
+              "url": "https://t.co/0NINK5yrqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058101832359272945",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0NINK5yrqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 3314,
+          "like_count": 34336,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9149
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

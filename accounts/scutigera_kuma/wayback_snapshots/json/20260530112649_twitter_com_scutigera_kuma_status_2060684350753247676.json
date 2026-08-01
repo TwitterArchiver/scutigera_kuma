@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060375338824421376"
+      ],
+      "media_source_tweet_id": [
+        "2060375385494405359"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2060684350753247676",
+    "created_at": "2026-05-30T11:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060684350753247676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GsG74OWxy0",
+          "end": 36,
+          "expanded_url": "https://x.com/Uni_btt/status/2060375385494405359/photo/1",
+          "media_key": "3_2060375338824421376",
+          "start": 13,
+          "url": "https://t.co/GsG74OWxy0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060684350753247676",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060375385494405359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: https://t.co/GsG74OWxy0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060375338824421376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfsdE6a0AAIT7M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060375338824421376"
+          ],
+          "media_source_tweet_id": [
+            "2060375385494405359"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060684350753247676",
+        "created_at": "2026-05-30T11:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060684350753247676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358061535340290048",
+              "start": 3,
+              "username": "Uni_btt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsG74OWxy0",
+              "end": 36,
+              "expanded_url": "https://x.com/Uni_btt/status/2060375385494405359/photo/1",
+              "media_key": "3_2060375338824421376",
+              "start": 13,
+              "url": "https://t.co/GsG74OWxy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060684350753247676",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060375385494405359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni_btt: https://t.co/GsG74OWxy0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060375338824421376"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "2060375385494405359",
+        "created_at": "2026-05-29T14:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060375385494405359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsG74OWxy0",
+              "end": 23,
+              "expanded_url": "https://x.com/Uni_btt/status/2060375385494405359/photo/1",
+              "media_key": "3_2060375338824421376",
+              "start": 0,
+              "url": "https://t.co/GsG74OWxy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060375385494405359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GsG74OWxy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 3310,
+          "like_count": 34442,
+          "listed_count": 5,
+          "media_count": 476,
+          "tweet_count": 9168
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "妈妈 @knk0223ff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "knk0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2003597089046147143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11011,
+          "following_count": 517,
+          "like_count": 11640,
+          "listed_count": 16,
+          "media_count": 1405,
+          "tweet_count": 11101
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

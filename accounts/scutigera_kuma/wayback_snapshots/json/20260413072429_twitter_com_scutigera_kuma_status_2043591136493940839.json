@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043545662835535872",
+        "3_2043545662839803904"
+      ],
+      "media_source_tweet_id": [
+        "2043545671236768066",
+        "2043545671236768066"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2043591136493940839",
+    "created_at": "2026-04-13T07:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043591136493940839"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "门槛"
+        },
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014418188587474944",
+          "start": 3,
+          "username": "GehringerVxf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RsQxCYvHu4",
+          "end": 89,
+          "expanded_url": "https://x.com/GehringerVxf/status/2043545671236768066/photo/1",
+          "media_key": "3_2043545662835535872",
+          "start": 66,
+          "url": "https://t.co/RsQxCYvHu4"
+        },
+        {
+          "display_url": "pic.x.com/RsQxCYvHu4",
+          "end": 89,
+          "expanded_url": "https://x.com/GehringerVxf/status/2043545671236768066/photo/1",
+          "media_key": "3_2043545662839803904",
+          "start": 66,
+          "url": "https://t.co/RsQxCYvHu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043591136493940839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043545671236768066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GehringerVxf: 置顶喵，转发抽2个50块三个15块，谢谢大家૮₍ɵ̷﹏ɵ̷̥᷅₎ა\n\n#门槛 #爸爸活 #线下 https://t.co/RsQxCYvHu4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043545662835535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwh9AOaMAAurDV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043545662839803904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwh9APbUAAkkfr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043545662835535872",
+            "3_2043545662839803904"
+          ],
+          "media_source_tweet_id": [
+            "2043545671236768066",
+            "2043545671236768066"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2043591136493940839",
+        "created_at": "2026-04-13T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043591136493940839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "门槛"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014418188587474944",
+              "start": 3,
+              "username": "GehringerVxf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsQxCYvHu4",
+              "end": 89,
+              "expanded_url": "https://x.com/GehringerVxf/status/2043545671236768066/photo/1",
+              "media_key": "3_2043545662835535872",
+              "start": 66,
+              "url": "https://t.co/RsQxCYvHu4"
+            },
+            {
+              "display_url": "pic.x.com/RsQxCYvHu4",
+              "end": 89,
+              "expanded_url": "https://x.com/GehringerVxf/status/2043545671236768066/photo/1",
+              "media_key": "3_2043545662839803904",
+              "start": 66,
+              "url": "https://t.co/RsQxCYvHu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043591136493940839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043545671236768066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GehringerVxf: 置顶喵，转发抽2个50块三个15块，谢谢大家૮₍ɵ̷﹏ɵ̷̥᷅₎ა\n\n#门槛 #爸爸活 #线下 https://t.co/RsQxCYvHu4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043545662835535872",
+            "3_2043545662839803904"
+          ]
+        },
+        "author_id": "2014418188587474944",
+        "conversation_id": "2043545671236768066",
+        "created_at": "2026-04-13T04:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043545671236768066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "门槛"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsQxCYvHu4",
+              "end": 71,
+              "expanded_url": "https://x.com/GehringerVxf/status/2043545671236768066/photo/1",
+              "media_key": "3_2043545662835535872",
+              "start": 48,
+              "url": "https://t.co/RsQxCYvHu4"
+            },
+            {
+              "display_url": "pic.x.com/RsQxCYvHu4",
+              "end": 71,
+              "expanded_url": "https://x.com/GehringerVxf/status/2043545671236768066/photo/1",
+              "media_key": "3_2043545662839803904",
+              "start": 48,
+              "url": "https://t.co/RsQxCYvHu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043545671236768066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶喵，转发抽2个50块三个15块，谢谢大家૮₍ɵ̷﹏ɵ̷̥᷅₎ა\n\n#门槛 #爸爸活 #线下 https://t.co/RsQxCYvHu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4700,
+          "following_count": 3466,
+          "like_count": 34134,
+          "listed_count": 6,
+          "media_count": 480,
+          "tweet_count": 9086
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T19:21:42.000Z",
+        "description": "我又买了个号复活了哈哈，互关巡回中",
+        "id": "2014418188587474944",
+        "location": "11.1km",
+        "name": "橘夏橘夏ᴗ.ᴗ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041439248205950976/gxHPiiPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 72
+        },
+        "username": "GehringerVxf",
+        "verified": false
+      }
+    ]
+  }
+}

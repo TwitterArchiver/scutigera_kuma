@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2024526841076457472"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2024351077165150384",
+    "created_at": "2026-02-19T16:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024526886496567766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507247614265241602",
+          "start": 0,
+          "username": "HeroShenLong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVavOxw34n",
+          "end": 37,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2024526886496567766/photo/1",
+          "media_key": "16_2024526841076457472",
+          "start": 14,
+          "url": "https://t.co/JVavOxw34n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024526886496567766",
+    "in_reply_to_user_id": "1507247614265241602",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024351077165150384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeroShenLong https://t.co/JVavOxw34n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "16_2024526841076457472",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBiQb4CbIAACZqh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBiQb4CbIAACZqh.mp4"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 15092,
+        "height": 1280,
+        "media_key": "7_2024351002661634048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024351002661634048/pu/img/Yzmc0My2OgtqyCJv.jpg",
+        "public_metrics": {
+          "view_count": 95523
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024351002661634048/pu/vid/avc1/320x568/Y37pDYAEVjAi8MbB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024351002661634048/pu/vid/avc1/480x852/_DuQq8035IMscuW6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024351002661634048/pu/vid/avc1/720x1280/DbkQWw1bGUoVwPsb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024351002661634048/pu/pl/J63W2Z8jl_rgMnqn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2024526841076457472"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2024351077165150384",
+        "created_at": "2026-02-19T16:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024526886496567766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507247614265241602",
+              "start": 0,
+              "username": "HeroShenLong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVavOxw34n",
+              "end": 37,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2024526886496567766/photo/1",
+              "media_key": "16_2024526841076457472",
+              "start": 14,
+              "url": "https://t.co/JVavOxw34n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024526886496567766",
+        "in_reply_to_user_id": "1507247614265241602",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024351077165150384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeroShenLong https://t.co/JVavOxw34n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024351002661634048"
+          ]
+        },
+        "author_id": "1507247614265241602",
+        "conversation_id": "2024351077165150384",
+        "created_at": "2026-02-19T05:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024351077165150384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3IppBSWei",
+              "end": 36,
+              "expanded_url": "https://x.com/HeroShenLong/status/2024351077165150384/video/1",
+              "media_key": "7_2024351002661634048",
+              "start": 13,
+              "url": "https://t.co/L3IppBSWei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024351077165150384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2253,
+          "impression_count": 197483,
+          "like_count": 4675,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "死生之律者希儿地牢电击r https://t.co/L3IppBSWei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 3447,
+          "like_count": 34181,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9024
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T06:47:01.000Z",
+        "description": "视频均为AI软件生成，个人喜好魔法少女，触手，捆绑，拘束，ryona，战败等，如果有喜欢的或者想看的角色可以评论在视频下面，我看到了就会制作",
+        "id": "1507247614265241602",
+        "location": "河南郑州",
+        "name": "HeroDragon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507247665179873282/fU64Ww7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 228,
+          "like_count": 495,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 109
+        },
+        "username": "HeroShenLong",
+        "verified": false
+      }
+    ]
+  }
+}

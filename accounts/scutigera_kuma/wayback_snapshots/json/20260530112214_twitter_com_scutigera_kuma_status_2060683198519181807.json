@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2060671572248305812",
+    "created_at": "2026-05-30T11:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060683198519181807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1340899956022935553",
+          "start": 0,
+          "username": "pdmt1wluwatt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060683198519181807",
+    "in_reply_to_user_id": "1340899956022935553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060671572248305812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pdmt1wluwatt 绝密2.9还要带吗。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2060671549905231872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj521La4AAW0jd.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2060671549909389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj521MaUAAJm1w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060671572248305812",
+        "created_at": "2026-05-30T11:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060683198519181807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1340899956022935553",
+              "start": 0,
+              "username": "pdmt1wluwatt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060683198519181807",
+        "in_reply_to_user_id": "1340899956022935553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060671572248305812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pdmt1wluwatt 绝密2.9还要带吗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060671549905231872",
+            "3_2060671549909389312"
+          ]
+        },
+        "author_id": "1340899956022935553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060671572248305812",
+        "created_at": "2026-05-30T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060671572248305812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYvkXJAN4x",
+              "end": 41,
+              "expanded_url": "https://x.com/pdmt1wluwatt/status/2060671572248305812/photo/1",
+              "media_key": "3_2060671549905231872",
+              "start": 18,
+              "url": "https://t.co/ZYvkXJAN4x"
+            },
+            {
+              "display_url": "pic.x.com/ZYvkXJAN4x",
+              "end": 41,
+              "expanded_url": "https://x.com/pdmt1wluwatt/status/2060671572248305812/photo/1",
+              "media_key": "3_2060671549909389312",
+              "start": 18,
+              "url": "https://t.co/ZYvkXJAN4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060671572248305812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想玩三角洲TAT\n有没有人带带我 https://t.co/ZYvkXJAN4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 3310,
+          "like_count": 34440,
+          "listed_count": 5,
+          "media_count": 476,
+          "tweet_count": 9165
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-21T06:00:48.000Z",
+        "description": "04年/不善言辞/COSER/宅女/FPS重度爱好者/不线下，别问我加不加微信qq但是欢迎私信！",
+        "id": "1340899956022935553",
+        "location": "游戏中",
+        "name": "Mizu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1340987448768094210/3HBHKj9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 141,
+          "like_count": 63,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 42
+        },
+        "username": "pdmt1wluwatt",
+        "verified": false
+      }
+    ]
+  }
+}

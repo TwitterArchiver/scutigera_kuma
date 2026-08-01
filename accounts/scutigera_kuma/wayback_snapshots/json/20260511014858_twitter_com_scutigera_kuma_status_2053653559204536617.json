@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2053653559204536617",
+    "created_at": "2026-05-11T01:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053653559204536617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mau_chan04/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/mau_chan04/status/2053459792304472540",
+          "start": 10,
+          "url": "https://t.co/HFwwQsUyUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053653559204536617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053459792304472540",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牢日也开始吃原粉了 https://t.co/HFwwQsUyUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053459787095121920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9ay_JaoAAMb1i.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2053653559204536617",
+        "created_at": "2026-05-11T01:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053653559204536617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mau_chan04/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/mau_chan04/status/2053459792304472540",
+              "start": 10,
+              "url": "https://t.co/HFwwQsUyUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053653559204536617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053459792304472540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢日也开始吃原粉了 https://t.co/HFwwQsUyUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053459787095121920"
+          ]
+        },
+        "author_id": "2023973682079821824",
+        "conversation_id": "2053459792304472540",
+        "created_at": "2026-05-10T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053459792304472540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPT7wtdvdZ",
+              "end": 41,
+              "expanded_url": "https://x.com/mau_chan04/status/2053459792304472540/photo/1",
+              "media_key": "3_2053459787095121920",
+              "start": 18,
+              "url": "https://t.co/tPT7wtdvdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053459792304472540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 87370,
+          "like_count": 1527,
+          "quote_count": 89,
+          "reply_count": 10,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】\nメジコン5キロ販売される https://t.co/tPT7wtdvdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 3517,
+          "like_count": 34215,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9129
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T04:11:54.000Z",
+        "description": "さぶ@nam_coco04￤有料@mau_y0426￤最奥@kzmn_04￤ツイ廃@wa_i0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "nam_coco04"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "mau_y0426"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "kzmn_04"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "wa_i0426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@mau_chan0426",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@mau_chan0426",
+                "start": 0,
+                "url": "https://t.co/BCdrQR24ru"
+              }
+            ]
+          }
+        },
+        "id": "2023973682079821824",
+        "location": "Tiktokフォロして➡️",
+        "name": "なまこチャハーン",
+        "pinned_tweet_id": "2024847754187665515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049801163877548032/4KhgECwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 45,
+          "like_count": 1471,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/BCdrQR24ru",
+        "username": "mau_chan04",
+        "verified": false
+      }
+    ]
+  }
+}

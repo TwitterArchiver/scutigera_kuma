@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2060980201841140206",
+    "created_at": "2026-06-01T05:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061318631385092562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636326380618260485",
+          "start": 0,
+          "username": "qiosh1337012"
+        },
+        {
+          "end": 30,
+          "id": "1874458926558961664",
+          "start": 14,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061318631385092562",
+    "in_reply_to_user_id": "1636326380618260485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061143870617092308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiosh1337012 @DaiianaVez69773 估计没多少人乐意和我玩，只能吸引看黄南和晶哥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060980201841140206",
+        "created_at": "2026-06-01T05:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061318631385092562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636326380618260485",
+              "start": 0,
+              "username": "qiosh1337012"
+            },
+            {
+              "end": 30,
+              "id": "1874458926558961664",
+              "start": 14,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061318631385092562",
+        "in_reply_to_user_id": "1636326380618260485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061143870617092308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiosh1337012 @DaiianaVez69773 估计没多少人乐意和我玩，只能吸引看黄南和晶哥。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636326380618260485",
+        "conversation_id": "2060980201841140206",
+        "created_at": "2026-05-31T17:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061143870617092308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 32,
+              "id": "1874458926558961664",
+              "start": 16,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061143870617092308",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061071402900529402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @DaiianaVez69773 大概就是公告天下。这样大家看到了自然会蜂拥而入。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5055,
+          "following_count": 3317,
+          "like_count": 34523,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9185
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T11:19:54.000Z",
+        "description": "中二，夜晚会产生些许情绪波动。从不后悔之人。拥有全部罪孽，憧憬成为拥有全部美德之人。不o不割不跨（但是完全理解，大概是因为这些人身上有我想要的情绪。黑色情绪什么的很好吃。）想进所有圈子当透明人，只是看着就好。喜欢视奸。",
+        "id": "1636326380618260485",
+        "name": "弱肉强食",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926678169794351104/vXztDiNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 29,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "qiosh1337012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 高3 infj-t 双相情感障碍、重度焦虑、精神分裂 服药治疗中，不良嗜好od吸烟割手\n音乐  jrock/噪音/盯鞋/黑金残死旋死血碾等金属/ボカロ/jpop/emocore/地下udg \n是个九年二次元小资历  喜欢cult片， 拉康派精神分析/不想有哲学门派倾向，大体上是悲观理性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2059308590339678354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 230,
+          "like_count": 13435,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

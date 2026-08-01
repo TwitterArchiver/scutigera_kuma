@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2043737449562812713",
+    "created_at": "2026-04-13T17:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043737449562812713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cult_of_yuri/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cult_of_yuri/status/2043707958786404768",
+          "start": 13,
+          "url": "https://t.co/0XTUsKBsCQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043737449562812713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043707958786404768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真是嫉妒魔圆天天吃国宴 https://t.co/0XTUsKBsCQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043707949374447616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFy1jUsbIAAqi8J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2043737449562812713",
+        "created_at": "2026-04-13T17:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043737449562812713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cult_of_yuri/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cult_of_yuri/status/2043707958786404768",
+              "start": 13,
+              "url": "https://t.co/0XTUsKBsCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043737449562812713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043707958786404768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真是嫉妒魔圆天天吃国宴 https://t.co/0XTUsKBsCQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043707949374447616"
+          ]
+        },
+        "author_id": "1513115097765650432",
+        "conversation_id": "2043707958786404768",
+        "created_at": "2026-04-13T15:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043707958786404768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD2w60pevx",
+              "end": 37,
+              "expanded_url": "https://x.com/Cult_of_yuri/status/2043707958786404768/photo/1",
+              "media_key": "3_2043707949374447616",
+              "start": 14,
+              "url": "https://t.co/XD2w60pevx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043707958786404768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 45479,
+          "like_count": 8009,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 1500
+        },
+        "reply_settings": "everyone",
+        "text": "...████-chan? https://t.co/XD2w60pevx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 3471,
+          "like_count": 34151,
+          "listed_count": 6,
+          "media_count": 480,
+          "tweet_count": 9095
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T11:22:20.000Z",
+        "description": "mdhm gay vl ||🔕|| ♡HomuMadoHomu, OzenLyza♡ || 🚫genAI || Repost with credit🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105701281",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/105701281",
+                "start": 0,
+                "url": "https://t.co/yTzkAzVqQf"
+              }
+            ]
+          }
+        },
+        "id": "1513115097765650432",
+        "location": "🎀⏳🔄🆗",
+        "name": "Avanes_D",
+        "pinned_tweet_id": "1987031292685513033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012557597820190721/Z4P0Ljlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17740,
+          "following_count": 878,
+          "like_count": 132662,
+          "listed_count": 48,
+          "media_count": 4159,
+          "tweet_count": 46240
+        },
+        "url": "https://t.co/yTzkAzVqQf",
+        "username": "Cult_of_yuri",
+        "verified": false
+      }
+    ]
+  }
+}

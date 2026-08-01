@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "1997359289258967449",
+    "created_at": "2025-12-07T02:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997497969290203579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931926644530581504",
+          "start": 0,
+          "username": "akizuki9145931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997497969290203579",
+    "in_reply_to_user_id": "1931926644530581504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997370109451788717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akizuki9145931 太好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1997359289258967449",
+        "created_at": "2025-12-07T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997497969290203579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931926644530581504",
+              "start": 0,
+              "username": "akizuki9145931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997497969290203579",
+        "in_reply_to_user_id": "1931926644530581504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997370109451788717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akizuki9145931 太好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931926644530581504",
+        "conversation_id": "1997359289258967449",
+        "created_at": "2025-12-06T18:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997370109451788717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997370109451788717",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997359289258967449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma kuma吃倭倭头了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4705,
+          "following_count": 3433,
+          "like_count": 34024,
+          "listed_count": 6,
+          "media_count": 446,
+          "tweet_count": 8894
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T04:09:56.000Z",
+        "description": "akizuki=空鸣=羽田丨呼哇~ 击中萌都玩丨mtf请屏蔽我丨喜欢说话有趣或者有发血图的人丨点击链接可以玩匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Akizuki84125",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Akizuki84125",
+                "start": 0,
+                "url": "https://t.co/G485oDfpI2"
+              }
+            ]
+          }
+        },
+        "id": "1931926644530581504",
+        "location": "0.1km",
+        "name": "akizuki（秋月级一番舰）",
+        "pinned_tweet_id": "1987541379539726501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808898937036800/1Qjfmc4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 140,
+          "like_count": 1337,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/G485oDfpI2",
+        "username": "akizuki9145931",
+        "verified": false
+      }
+    ]
+  }
+}

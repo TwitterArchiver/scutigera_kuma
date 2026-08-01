@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2060363350929011185",
+    "created_at": "2026-05-29T14:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060372632105816142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487311693021544451",
+          "start": 0,
+          "username": "Miekoudesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060372632105816142",
+    "in_reply_to_user_id": "1487311693021544451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060363350929011185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miekoudesu 整菲尼布特吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060363350929011185",
+        "created_at": "2026-05-29T14:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060372632105816142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487311693021544451",
+              "start": 0,
+              "username": "Miekoudesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060372632105816142",
+        "in_reply_to_user_id": "1487311693021544451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060363350929011185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miekoudesu 整菲尼布特吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487311693021544451",
+        "conversation_id": "2060363350929011185",
+        "created_at": "2026-05-29T14:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060363350929011185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "めいこ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1wxWj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1wxWjjBnZQZJQ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060363393324941312/0rBflMR_?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060363393324941312/0rBflMR_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: めいこ’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1wxWjjBnZQZJQ/peek",
+              "url": "https://t.co/yJczxbF1YD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363350929011185",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yJczxbF1YD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5011,
+          "following_count": 3308,
+          "like_count": 34429,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 9157
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T06:28:45.000Z",
+        "description": "brat/infp/20⬆️/https://t.co/uVJwwPioPN好朋友@qwq_shark",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "qwq_shark"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/meikodesu71207/",
+                "end": 38,
+                "expanded_url": "https://ngl.link/meikodesu71207/",
+                "start": 15,
+                "url": "https://t.co/uVJwwPioPN"
+              }
+            ]
+          }
+        },
+        "id": "1487311693021544451",
+        "location": "🚪288/520",
+        "name": "めいこ",
+        "pinned_tweet_id": "2060258655480820003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859720200263991296/s0X0R96c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 380,
+          "like_count": 3923,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 4234
+        },
+        "username": "Miekoudesu",
+        "verified": false
+      }
+    ]
+  }
+}

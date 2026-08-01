@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2009221080549085329",
+    "created_at": "2026-01-08T11:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009221371478577428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1908032064894676992",
+          "start": 0,
+          "username": "MaryGonzal41298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009221371478577428",
+    "in_reply_to_user_id": "1908032064894676992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009221080549085329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaryGonzal41298 我来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009221070432423942",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Iv6xJa0AYuOIv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009221070407258113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Iv6xDa0AEGevx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2009221071942414336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Iv62xbcAARd0W.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2009221080549085329",
+        "created_at": "2026-01-08T11:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009221371478577428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1908032064894676992",
+              "start": 0,
+              "username": "MaryGonzal41298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009221371478577428",
+        "in_reply_to_user_id": "1908032064894676992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009221080549085329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaryGonzal41298 我来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009221070432423942",
+            "3_2009221070407258113",
+            "3_2009221071942414336"
+          ]
+        },
+        "author_id": "1908032064894676992",
+        "conversation_id": "2009221080549085329",
+        "created_at": "2026-01-08T11:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009221080549085329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "线下"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "非绿"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "上海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxsgSn3sJr",
+              "end": 94,
+              "expanded_url": "https://x.com/MaryGonzal41298/status/2009221080549085329/photo/1",
+              "media_key": "3_2009221070432423942",
+              "start": 71,
+              "url": "https://t.co/NxsgSn3sJr"
+            },
+            {
+              "display_url": "pic.x.com/NxsgSn3sJr",
+              "end": 94,
+              "expanded_url": "https://x.com/MaryGonzal41298/status/2009221080549085329/photo/1",
+              "media_key": "3_2009221070407258113",
+              "start": 71,
+              "url": "https://t.co/NxsgSn3sJr"
+            },
+            {
+              "display_url": "pic.x.com/NxsgSn3sJr",
+              "end": 94,
+              "expanded_url": "https://x.com/MaryGonzal41298/status/2009221080549085329/photo/1",
+              "media_key": "3_2009221071942414336",
+              "start": 71,
+              "url": "https://t.co/NxsgSn3sJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009221080549085329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是雪梨我复活了……能不能帮我转转涨点粉，关注我评论转发这条我抽3个疯狂星期四！\n#门槛妹 #线下 #非绿 #爸爸活 #江浙沪 #上海 https://t.co/NxsgSn3sJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 3420,
+          "like_count": 33938,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 8941
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T05:41:16.000Z",
+        "description": "我是雪梨，这是我的新号！ 🚪188/388/520",
+        "id": "1908032064894676992",
+        "location": "距离你9.6km",
+        "name": "雪梨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009216783925039104/hBsVxHAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "username": "MaryGonzal41298",
+        "verified": false
+      }
+    ]
+  }
+}

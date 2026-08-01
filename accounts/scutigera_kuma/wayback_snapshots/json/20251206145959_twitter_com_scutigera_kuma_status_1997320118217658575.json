@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997276709830414336"
+      ],
+      "media_source_tweet_id": [
+        "1997276714393809009"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "1997320118217658575",
+    "created_at": "2025-12-06T14:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997320118217658575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1225268231826362369",
+          "start": 3,
+          "username": "hSwoiMuxk0pwr0h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XSNyp5a1Us",
+          "end": 44,
+          "expanded_url": "https://x.com/hSwoiMuxk0pwr0h/status/1997276714393809009/photo/1",
+          "media_key": "3_1997276709830414336",
+          "start": 21,
+          "url": "https://t.co/XSNyp5a1Us"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997320118217658575",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1601
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997276714393809009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hSwoiMuxk0pwr0h: https://t.co/XSNyp5a1Us"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_1997276709830414336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fAleeaUAA794n.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997276709830414336"
+          ],
+          "media_source_tweet_id": [
+            "1997276714393809009"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1997320118217658575",
+        "created_at": "2025-12-06T14:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997320118217658575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1225268231826362369",
+              "start": 3,
+              "username": "hSwoiMuxk0pwr0h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSNyp5a1Us",
+              "end": 44,
+              "expanded_url": "https://x.com/hSwoiMuxk0pwr0h/status/1997276714393809009/photo/1",
+              "media_key": "3_1997276709830414336",
+              "start": 21,
+              "url": "https://t.co/XSNyp5a1Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997320118217658575",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1601
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997276714393809009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hSwoiMuxk0pwr0h: https://t.co/XSNyp5a1Us"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997276709830414336"
+          ]
+        },
+        "author_id": "1225268231826362369",
+        "conversation_id": "1997276714393809009",
+        "created_at": "2025-12-06T12:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997276714393809009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSNyp5a1Us",
+              "end": 23,
+              "expanded_url": "https://x.com/hSwoiMuxk0pwr0h/status/1997276714393809009/photo/1",
+              "media_key": "3_1997276709830414336",
+              "start": 0,
+              "url": "https://t.co/XSNyp5a1Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997276714393809009",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1450,
+          "impression_count": 397018,
+          "like_count": 11115,
+          "quote_count": 45,
+          "reply_count": 19,
+          "retweet_count": 1601
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XSNyp5a1Us"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4704,
+          "following_count": 3432,
+          "like_count": 34025,
+          "listed_count": 6,
+          "media_count": 445,
+          "tweet_count": 8891
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T04:01:34.000Z",
+        "description": "あまり落書きしない 腐 成人済み/ポイピク→https://t.co/Zg4WjjjXdQ / pixiv→ https://t.co/qI39DeetuG / 成人向け(腐)→@TAx70097/07thディスコ鯖については聞いてください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "TAx70097"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "poipiku.com/5458562/",
+                "end": 45,
+                "expanded_url": "https://poipiku.com/5458562/",
+                "start": 22,
+                "url": "https://t.co/Zg4WjjjXdQ"
+              },
+              {
+                "display_url": "pixiv.net/users/2299490",
+                "end": 78,
+                "expanded_url": "https://www.pixiv.net/users/2299490",
+                "start": 55,
+                "url": "https://t.co/qI39DeetuG"
+              }
+            ]
+          }
+        },
+        "id": "1225268231826362369",
+        "location": "ジャンル雑多",
+        "name": "たたたた",
+        "pinned_tweet_id": "1859584971691958458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323120398905405440/l6jQGdaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 60,
+          "like_count": 3781,
+          "listed_count": 23,
+          "media_count": 598,
+          "tweet_count": 3046
+        },
+        "username": "hSwoiMuxk0pwr0h",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2061071266875105660",
+    "created_at": "2026-05-31T13:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061071266875105660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950521580288884736",
+          "start": 3,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061071266875105660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060246410273145023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeKam10623: 大家好我是ame我回来了我想接一些爸爸活\n有没有老公愿意帮我转发一下呀(⑉꒦ິ^꒦ິ⑉)\n🎁转发这条超过30转抽三个20超过50转抽两个52 \n纯绿/半绿/非绿都有在接，包路費可以🛩️\n今天去北京接单想多接一些单子w过几天去江浙沪，有没有金主想…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060246379071713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd3KoZasAAND42.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060246379071668224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd3KoZaAAAPiam.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2060246379067584512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd3KoYbsAAq9i3.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060246379495292928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd3Kp-aAAAX0Yo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2061071266875105660",
+        "created_at": "2026-05-31T13:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061071266875105660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950521580288884736",
+              "start": 3,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061071266875105660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060246410273145023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeKam10623: 大家好我是ame我回来了我想接一些爸爸活\n有没有老公愿意帮我转发一下呀(⑉꒦ິ^꒦ິ⑉)\n🎁转发这条超过30转抽三个20超过50转抽两个52 \n纯绿/半绿/非绿都有在接，包路費可以🛩️\n今天去北京接单想多接一些单子w过几天去江浙沪，有没有金主想…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060246379071713280",
+            "3_2060246379071668224",
+            "3_2060246379067584512",
+            "3_2060246379495292928"
+          ]
+        },
+        "author_id": "1950521580288884736",
+        "conversation_id": "2060246410273145023",
+        "created_at": "2026-05-29T06:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060246410273145023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpChtOzeph",
+              "end": 178,
+              "expanded_url": "https://x.com/AmeKam10623/status/2060246410273145023/photo/1",
+              "media_key": "3_2060246379071713280",
+              "start": 155,
+              "url": "https://t.co/VpChtOzeph"
+            },
+            {
+              "display_url": "pic.x.com/VpChtOzeph",
+              "end": 178,
+              "expanded_url": "https://x.com/AmeKam10623/status/2060246410273145023/photo/1",
+              "media_key": "3_2060246379071668224",
+              "start": 155,
+              "url": "https://t.co/VpChtOzeph"
+            },
+            {
+              "display_url": "pic.x.com/VpChtOzeph",
+              "end": 178,
+              "expanded_url": "https://x.com/AmeKam10623/status/2060246410273145023/photo/1",
+              "media_key": "3_2060246379067584512",
+              "start": 155,
+              "url": "https://t.co/VpChtOzeph"
+            },
+            {
+              "display_url": "pic.x.com/VpChtOzeph",
+              "end": 178,
+              "expanded_url": "https://x.com/AmeKam10623/status/2060246410273145023/photo/1",
+              "media_key": "3_2060246379495292928",
+              "start": 155,
+              "url": "https://t.co/VpChtOzeph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060246410273145023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1858,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是ame我回来了我想接一些爸爸活\n有没有老公愿意帮我转发一下呀(⑉꒦ິ^꒦ິ⑉)\n🎁转发这条超过30转抽三个20超过50转抽两个52 \n纯绿/半绿/非绿都有在接，包路費可以🛩️\n今天去北京接单想多接一些单子w过几天去江浙沪，有没有金主想找我！\n这边门槛支持二维码收款/加v转账收款/口令红包\n拜托了！ https://t.co/VpChtOzeph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 3313,
+          "like_count": 34507,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9181
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "坐标重庆/不定时去江浙沪 接线下包路費可🛩️",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520",
+        "name": "血",
+        "pinned_tweet_id": "1985976851093995534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033661883077824512/e6G9Du_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6604,
+          "following_count": 132,
+          "like_count": 405,
+          "listed_count": 13,
+          "media_count": 65,
+          "tweet_count": 455
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

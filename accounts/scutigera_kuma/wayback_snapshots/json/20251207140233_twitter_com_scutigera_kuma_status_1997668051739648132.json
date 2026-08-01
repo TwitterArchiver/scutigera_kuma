@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997643925222543360"
+      ],
+      "media_source_tweet_id": [
+        "1997643932646138230"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "1997668051739648132",
+    "created_at": "2025-12-07T14:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997668051739648132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1341766476609462274",
+          "start": 3,
+          "username": "mentallychels"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6axtFLEzRS",
+          "end": 46,
+          "expanded_url": "https://x.com/mentallychels/status/1997643932646138230/photo/1",
+          "media_key": "3_1997643925222543360",
+          "start": 23,
+          "url": "https://t.co/6axtFLEzRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997668051739648132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997643932646138230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mentallychels: 怎麼樣 https://t.co/6axtFLEzRS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997643925222543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kOkOabUAAyKO9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997643925222543360"
+          ],
+          "media_source_tweet_id": [
+            "1997643932646138230"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1997668051739648132",
+        "created_at": "2025-12-07T14:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997668051739648132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1341766476609462274",
+              "start": 3,
+              "username": "mentallychels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6axtFLEzRS",
+              "end": 46,
+              "expanded_url": "https://x.com/mentallychels/status/1997643932646138230/photo/1",
+              "media_key": "3_1997643925222543360",
+              "start": 23,
+              "url": "https://t.co/6axtFLEzRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997668051739648132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997643932646138230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mentallychels: 怎麼樣 https://t.co/6axtFLEzRS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997643925222543360"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1997643932646138230",
+        "created_at": "2025-12-07T12:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997643932646138230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6axtFLEzRS",
+              "end": 27,
+              "expanded_url": "https://x.com/mentallychels/status/1997643932646138230/photo/1",
+              "media_key": "3_1997643925222543360",
+              "start": 4,
+              "url": "https://t.co/6axtFLEzRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997643932646138230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼樣 https://t.co/6axtFLEzRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 3433,
+          "like_count": 34027,
+          "listed_count": 6,
+          "media_count": 446,
+          "tweet_count": 8897
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜shtwt｜双性恋｜双相I型｜天秤infp-t｜重度酥皮枕p｜素晴日全角色全肯定bot｜三無少女全肯定bot｜舞萌dx學習中｜我就這樣等著誰和我一起建設*卓希*｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_kuma🚪299",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "scutigera_kuma"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13989,
+          "following_count": 237,
+          "like_count": 1814,
+          "listed_count": 22,
+          "media_count": 324,
+          "tweet_count": 1312
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

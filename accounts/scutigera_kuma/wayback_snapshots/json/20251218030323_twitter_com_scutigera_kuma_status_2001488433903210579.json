@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2001241519010062768",
+    "created_at": "2025-12-18T03:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T04:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001488433903210579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001488433903210579",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001241519010062768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 加油加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2001241519010062768",
+        "created_at": "2025-12-18T03:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001488433903210579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001488433903210579",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001241519010062768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 加油加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654534022448713728",
+        "conversation_id": "2001241519010062768",
+        "created_at": "2025-12-17T10:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001241519010062768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001241519010062768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我面试完再继续给互关画贺图，这两天太忙了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 3417,
+          "like_count": 34152,
+          "listed_count": 6,
+          "media_count": 450,
+          "tweet_count": 8919
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "INTJ|男的|仮面ライダー|キャラクターデザイナー|小さな雑記|中野",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996001052634869760/MikLEZok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 218,
+          "like_count": 40959,
+          "listed_count": 0,
+          "media_count": 653,
+          "tweet_count": 4969
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

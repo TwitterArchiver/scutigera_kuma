@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024521661123612672",
+        "3_2024521661115252736",
+        "3_2024521661106843648"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2024520043095347245",
+    "created_at": "2026-02-19T16:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024521672548843853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQDBKVV7q3",
+          "end": 23,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2024521672548843853/photo/1",
+          "media_key": "3_2024521661123612672",
+          "start": 0,
+          "url": "https://t.co/oQDBKVV7q3"
+        },
+        {
+          "display_url": "pic.x.com/oQDBKVV7q3",
+          "end": 23,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2024521672548843853/photo/1",
+          "media_key": "3_2024521661115252736",
+          "start": 0,
+          "url": "https://t.co/oQDBKVV7q3"
+        },
+        {
+          "display_url": "pic.x.com/oQDBKVV7q3",
+          "end": 23,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2024521672548843853/photo/1",
+          "media_key": "3_2024521661106843648",
+          "start": 0,
+          "url": "https://t.co/oQDBKVV7q3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024521672548843853",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024520043095347245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/oQDBKVV7q3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2024521661123612672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiLuXNbUAA5L58.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2024521661115252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiLuXLbwAAwxq8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2024521661106843648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiLuXJbcAANHW4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024521661123612672",
+            "3_2024521661115252736",
+            "3_2024521661106843648"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2024520043095347245",
+        "created_at": "2026-02-19T16:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024521672548843853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQDBKVV7q3",
+              "end": 23,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2024521672548843853/photo/1",
+              "media_key": "3_2024521661123612672",
+              "start": 0,
+              "url": "https://t.co/oQDBKVV7q3"
+            },
+            {
+              "display_url": "pic.x.com/oQDBKVV7q3",
+              "end": 23,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2024521672548843853/photo/1",
+              "media_key": "3_2024521661115252736",
+              "start": 0,
+              "url": "https://t.co/oQDBKVV7q3"
+            },
+            {
+              "display_url": "pic.x.com/oQDBKVV7q3",
+              "end": 23,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2024521672548843853/photo/1",
+              "media_key": "3_2024521661106843648",
+              "start": 0,
+              "url": "https://t.co/oQDBKVV7q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024521672548843853",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520043095347245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/oQDBKVV7q3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2024520043095347245",
+        "created_at": "2026-02-19T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024520043095347245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "クま’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Xxyg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1XxygmmbwLEGM",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 别关我sps",
+              "unwound_url": "https://twitter.com/i/spaces/1XxygmmbwLEGM/peek",
+              "url": "https://t.co/vRrP9oTk5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520043095347245",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vRrP9oTk5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 3446,
+          "like_count": 34181,
+          "listed_count": 6,
+          "media_count": 468,
+          "tweet_count": 9023
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

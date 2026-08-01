@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2044035118176841793",
+    "created_at": "2026-04-14T13:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044043049114935682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1427858080298008578",
+          "start": 0,
+          "username": "0o_maika_o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044043049114935682",
+    "in_reply_to_user_id": "1427858080298008578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044035118176841793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0o_maika_o0 有点建模给你狂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2044035118176841793",
+        "created_at": "2026-04-14T13:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044043049114935682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1427858080298008578",
+              "start": 0,
+              "username": "0o_maika_o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044043049114935682",
+        "in_reply_to_user_id": "1427858080298008578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044035118176841793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0o_maika_o0 有点建模给你狂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427858080298008578",
+        "conversation_id": "2044035118176841793",
+        "created_at": "2026-04-14T12:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044035118176841793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044035118176841793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自分の顔が嫌いです！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 3474,
+          "like_count": 34179,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 9101
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T05:01:18.000Z",
+        "description": "日記",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/0o_maika_o0/pr…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/0o_maika_o0/profilecard/?igsh=bTI1OGRmaXdhcnZz",
+                "start": 0,
+                "url": "https://t.co/oMUqTVvpR3"
+              }
+            ]
+          }
+        },
+        "id": "1427858080298008578",
+        "location": "天使の部屋",
+        "name": "Maika",
+        "pinned_tweet_id": "1854165986041291028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855223192715223040/nB9mEIj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48810,
+          "following_count": 69,
+          "like_count": 8116,
+          "listed_count": 129,
+          "media_count": 381,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/oMUqTVvpR3",
+        "username": "0o_maika_o0",
+        "verified": false
+      }
+    ]
+  }
+}

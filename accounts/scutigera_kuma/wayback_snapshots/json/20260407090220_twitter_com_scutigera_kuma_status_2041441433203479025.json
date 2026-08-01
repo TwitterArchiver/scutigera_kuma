@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2041441433203479025",
+    "created_at": "2026-04-07T09:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041441433203479025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937073350750466048",
+          "start": 3,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041441433203479025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041125600614871376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karo269640607: 窝想跟中推和日推的餐券妹od妹互fo。。。。。。路过的来助力一下吧求求了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2041441433203479025",
+        "created_at": "2026-04-07T09:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041441433203479025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937073350750466048",
+              "start": 3,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041441433203479025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041125600614871376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karo269640607: 窝想跟中推和日推的餐券妹od妹互fo。。。。。。路过的来助力一下吧求求了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2041125600614871376",
+        "created_at": "2026-04-06T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041125600614871376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041125600614871376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "窝想跟中推和日推的餐券妹od妹互fo。。。。。。路过的来助力一下吧求求了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4723,
+          "following_count": 3460,
+          "like_count": 34112,
+          "listed_count": 6,
+          "media_count": 478,
+          "tweet_count": 9073
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 崇拜spring风 | 基佬孝女言切拒拆逆、生化昂右全肯定| 政治立场为混乱中立",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 227,
+          "like_count": 13150,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1650
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

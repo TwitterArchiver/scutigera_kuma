@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026980613266505728",
+        "3_2026980613413294081",
+        "3_2026980613253890048",
+        "3_2026980613253980160"
+      ],
+      "media_source_tweet_id": [
+        "2026980629200638221",
+        "2026980629200638221",
+        "2026980629200638221",
+        "2026980629200638221"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2027228026149494853",
+    "created_at": "2026-02-27T03:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027228026149494853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898242283780423681",
+          "start": 3,
+          "username": "kakakawaii8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jV1XIOh4w",
+          "end": 100,
+          "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+          "media_key": "3_2026980613266505728",
+          "start": 77,
+          "url": "https://t.co/1jV1XIOh4w"
+        },
+        {
+          "display_url": "pic.x.com/1jV1XIOh4w",
+          "end": 100,
+          "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+          "media_key": "3_2026980613413294081",
+          "start": 77,
+          "url": "https://t.co/1jV1XIOh4w"
+        },
+        {
+          "display_url": "pic.x.com/1jV1XIOh4w",
+          "end": 100,
+          "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+          "media_key": "3_2026980613253890048",
+          "start": 77,
+          "url": "https://t.co/1jV1XIOh4w"
+        },
+        {
+          "display_url": "pic.x.com/1jV1XIOh4w",
+          "end": 100,
+          "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+          "media_key": "3_2026980613253980160",
+          "start": 77,
+          "url": "https://t.co/1jV1XIOh4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027228026149494853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026980629200638221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakakawaii8964: 我是苦桃 上个号又被封了这是我的第三世正在努力寻回互关中…\n这条关注转发评论抽3个88 两个18.8 请求助力😢 https://t.co/1jV1XIOh4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026980613266505728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFIINxagAA3Yag.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026980613413294081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFIIOUaUAEO2w0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2026980613253890048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFIINuaAAA_cW8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026980613253980160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFIINubYAAoBZB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026980613266505728",
+            "3_2026980613413294081",
+            "3_2026980613253890048",
+            "3_2026980613253980160"
+          ],
+          "media_source_tweet_id": [
+            "2026980629200638221",
+            "2026980629200638221",
+            "2026980629200638221",
+            "2026980629200638221"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2027228026149494853",
+        "created_at": "2026-02-27T03:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027228026149494853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898242283780423681",
+              "start": 3,
+              "username": "kakakawaii8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 100,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613266505728",
+              "start": 77,
+              "url": "https://t.co/1jV1XIOh4w"
+            },
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 100,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613413294081",
+              "start": 77,
+              "url": "https://t.co/1jV1XIOh4w"
+            },
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 100,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613253890048",
+              "start": 77,
+              "url": "https://t.co/1jV1XIOh4w"
+            },
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 100,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613253980160",
+              "start": 77,
+              "url": "https://t.co/1jV1XIOh4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027228026149494853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026980629200638221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakakawaii8964: 我是苦桃 上个号又被封了这是我的第三世正在努力寻回互关中…\n这条关注转发评论抽3个88 两个18.8 请求助力😢 https://t.co/1jV1XIOh4w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026980613266505728",
+            "3_2026980613413294081",
+            "3_2026980613253890048",
+            "3_2026980613253980160"
+          ]
+        },
+        "author_id": "1898242283780423681",
+        "conversation_id": "2026980629200638221",
+        "created_at": "2026-02-26T11:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026980629200638221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 80,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613266505728",
+              "start": 57,
+              "url": "https://t.co/1jV1XIOh4w"
+            },
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 80,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613413294081",
+              "start": 57,
+              "url": "https://t.co/1jV1XIOh4w"
+            },
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 80,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613253890048",
+              "start": 57,
+              "url": "https://t.co/1jV1XIOh4w"
+            },
+            {
+              "display_url": "pic.x.com/1jV1XIOh4w",
+              "end": 80,
+              "expanded_url": "https://x.com/kakakawaii8964/status/2026980629200638221/photo/1",
+              "media_key": "3_2026980613253980160",
+              "start": 57,
+              "url": "https://t.co/1jV1XIOh4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026980629200638221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 21218,
+          "like_count": 178,
+          "quote_count": 9,
+          "reply_count": 73,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "我是苦桃 上个号又被封了这是我的第三世正在努力寻回互关中…\n这条关注转发评论抽3个88 两个18.8 请求助力😢 https://t.co/1jV1XIOh4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 3450,
+          "like_count": 34113,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9021
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T05:20:12.000Z",
+        "description": "苦桃三世 喜欢我就给我点钱",
+        "id": "1898242283780423681",
+        "location": "🚪88/288",
+        "name": "苦桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026982132573474816/V9pMqhWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 22,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "kakakawaii8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2038642441671352749",
+    "created_at": "2026-03-31T10:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038919283749826823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038919283749826823",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038642441671352749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 一期一会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2038642441671352749",
+        "created_at": "2026-03-31T10:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038919283749826823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038919283749826823",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038642441671352749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 一期一会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654534022448713728",
+        "conversation_id": "2038642441671352749",
+        "created_at": "2026-03-30T15:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038642441671352749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038642441671352749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然知道朋友的渐行渐远是人生的常态，但是看到那么多曾经的互关淡推或者退推了还是觉得淡淡的伤感。人与人的关系必然是走向离别的，或许不玩推特了也意味着生活变得幸福了，这样也很好吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4740,
+          "following_count": 3457,
+          "like_count": 34080,
+          "listed_count": 6,
+          "media_count": 477,
+          "tweet_count": 9065
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030935804856737792/9BMfJW1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 239,
+          "like_count": 51645,
+          "listed_count": 1,
+          "media_count": 964,
+          "tweet_count": 7271
+        },
+        "username": "jueduizhengyi_A",
+        "verified": false
+      }
+    ]
+  }
+}

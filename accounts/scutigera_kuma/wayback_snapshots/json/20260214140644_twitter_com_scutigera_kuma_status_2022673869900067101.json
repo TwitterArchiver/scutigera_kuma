@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2022673610780061737",
+    "created_at": "2026-02-14T14:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T15:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022673869900067101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786682099677966336",
+          "start": 0,
+          "username": "mentallychel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022673869900067101",
+    "in_reply_to_user_id": "1786682099677966336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022673610780061737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychel 🧎🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022673601003163656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBH67GxakAgdfMz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2022673610780061737",
+        "created_at": "2026-02-14T14:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022673869900067101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786682099677966336",
+              "start": 0,
+              "username": "mentallychel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022673869900067101",
+        "in_reply_to_user_id": "1786682099677966336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022673610780061737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychel 🧎🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022673601003163656"
+          ]
+        },
+        "author_id": "1786682099677966336",
+        "conversation_id": "2022673610780061737",
+        "created_at": "2026-02-14T14:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022673610780061737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiFITHKdI2",
+              "end": 29,
+              "expanded_url": "https://x.com/mentallychel/status/2022673610780061737/photo/1",
+              "media_key": "3_2022673601003163656",
+              "start": 6,
+              "url": "https://t.co/yiFITHKdI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022673610780061737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有小熊喲 https://t.co/yiFITHKdI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 3447,
+          "like_count": 34155,
+          "listed_count": 6,
+          "media_count": 464,
+          "tweet_count": 9009
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T08:59:54.000Z",
+        "description": "壑2.0 爱是一个遍及宇宙的缺席者 前世@mentallychels 🚪288/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1786682099677966336",
+        "name": "mentallychels",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283507658354688/P1spn4_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 58,
+          "like_count": 47,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 40
+        },
+        "username": "mentallychel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "2068711717165756881",
+    "created_at": "2026-06-21T15:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068711717165756881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/higu_anime/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/higu_anime/status/2068667853247823909",
+          "start": 4,
+          "url": "https://t.co/1JwOIWvlfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068711717165756881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068667853247823909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过年了 https://t.co/1JwOIWvlfN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068664941352206336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVfzcyaQAAkRsm.jpg",
+        "width": 2867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2068711717165756881",
+        "created_at": "2026-06-21T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068711717165756881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/higu_anime/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/higu_anime/status/2068667853247823909",
+              "start": 4,
+              "url": "https://t.co/1JwOIWvlfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068711717165756881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068667853247823909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过年了 https://t.co/1JwOIWvlfN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068664941352206336"
+          ]
+        },
+        "author_id": "293977985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2068667853247823909",
+        "created_at": "2026-06-21T12:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068667853247823909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "ひぐらし新アニメ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "昭和58年初夏。人口2千に満たない寒村、雛見沢で起こる惨劇―――。完全新作、まだ誰も知らない雛見沢へ。 原作：竜騎士07「ひぐらしのなく頃に」新プロジェクト",
+              "display_url": "higurashianime.com",
+              "end": 58,
+              "expanded_url": "https://higurashianime.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2067717703939366912/G31L669G?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067717703939366912/G31L669G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "TVアニメ「ひぐらしのなく頃に 業・卒」公式サイト",
+              "unwound_url": "https://higurashianime.com/",
+              "url": "https://t.co/jOlIWcmPVc"
+            },
+            {
+              "description": "みんな、おかえり『ひぐらしのなく頃に』新作TVアニメーション制作決定―■スタッフ原作：竜騎士07/07th Expansi...",
+              "display_url": "x.gd/9Hgz1",
+              "end": 103,
+              "expanded_url": "https://x.gd/9Hgz1",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2068667900983140352/BEBrHL4g?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068667900983140352/BEBrHL4g?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "「ひぐらしのなく頃に」新作TVアニメーション制作決定PV",
+              "unwound_url": "https://www.youtube.com/watch?v=Tlv6sDFoljg&feature=youtu.be",
+              "url": "https://t.co/112AdyMPax"
+            },
+            {
+              "display_url": "pic.x.com/gIiL8AIgUs",
+              "end": 138,
+              "expanded_url": "https://x.com/higu_anime/status/2068667853247823909/photo/1",
+              "media_key": "3_2068664941352206336",
+              "start": 115,
+              "url": "https://t.co/gIiL8AIgUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068667853247823909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7222,
+          "impression_count": 5115127,
+          "like_count": 79616,
+          "quote_count": 10961,
+          "reply_count": 784,
+          "retweet_count": 38407
+        },
+        "reply_settings": "everyone",
+        "text": "⛩みんな、おかえり⛩\n\n『ひぐらしのなく頃に』\nポータルサイト公開\n\nhttps://t.co/jOlIWcmPVc\n\n新作TVアニメーション制作決定PV\n▶️https://t.co/112AdyMPax\n\n#ひぐらし新アニメ https://t.co/gIiL8AIgUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423445410050048/x8WO11UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 3307,
+          "like_count": 34194,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 9145
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-06T09:40:32.000Z",
+        "description": "⛩新作制作決定⛩ #保志総一朗 #中原麻衣 #ゆきのさつき #かないみか #田村ゆかり  推奨 #ひぐらし新アニメ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "保志総一朗"
+              },
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "中原麻衣"
+              },
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "ゆきのさつき"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "かないみか"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "田村ゆかり"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "ひぐらし新アニメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "higurashianime.com",
+                "end": 23,
+                "expanded_url": "https://higurashianime.com",
+                "start": 0,
+                "url": "https://t.co/aRe87NxH5P"
+              }
+            ]
+          }
+        },
+        "id": "293977985",
+        "location": "雛見沢村",
+        "name": "TVアニメ「ひぐらしのなく頃に」新作制作決定⛩",
+        "pinned_tweet_id": "2068667811258622165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068667579129118720/Wxvx-Qq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118079,
+          "following_count": 22,
+          "like_count": 17,
+          "listed_count": 905,
+          "media_count": 1961,
+          "tweet_count": 5292
+        },
+        "url": "https://t.co/aRe87NxH5P",
+        "username": "higu_anime",
+        "verified": false
+      }
+    ]
+  }
+}

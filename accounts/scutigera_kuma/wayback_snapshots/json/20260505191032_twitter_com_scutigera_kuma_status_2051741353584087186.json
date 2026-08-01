@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2051720041612415460",
+    "created_at": "2026-05-05T19:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051741353584087186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051741353584087186",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051720041612415460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 能让你炸毛的已经不是一般的毛病了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2051720041612415460",
+        "created_at": "2026-05-05T19:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051741353584087186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051741353584087186",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051720041612415460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 能让你炸毛的已经不是一般的毛病了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654534022448713728",
+        "conversation_id": "2051720041612415460",
+        "created_at": "2026-05-05T17:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051720041612415460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051720041612415460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看人很少会看走眼，屈指可数吧，能让我看走眼的那确实是非常能装的人了🌚所以我关系好的互关和朋友基本上人都很不错，我愿意跟他们互动，也从不吝啬我的称赞。\n而我这个人包容度很高，跟什么群体基本都玩得来，这就很能说明问题了。我不喜欢的人大概率都是有让人无法忍受的毛病的🌚非常的精准🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 3524,
+          "like_count": 34240,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9130
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030935804856737792/9BMfJW1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 265,
+          "like_count": 56125,
+          "listed_count": 2,
+          "media_count": 1070,
+          "tweet_count": 8100
+        },
+        "username": "jueduizhengyi_A",
+        "verified": false
+      }
+    ]
+  }
+}

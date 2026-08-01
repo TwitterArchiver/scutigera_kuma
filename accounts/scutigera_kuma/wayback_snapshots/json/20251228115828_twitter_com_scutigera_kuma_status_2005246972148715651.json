@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004192880999780362"
+      ],
+      "media_source_tweet_id": [
+        "2004192889770065958"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2005246972148715651",
+    "created_at": "2025-12-28T11:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005246972148715651"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2003078961522483201",
+          "start": 3,
+          "username": "xiaoliiii2819"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TpS4Wvcu2x",
+          "end": 49,
+          "expanded_url": "https://x.com/xiaoliiii2819/status/2004192889770065958/photo/1",
+          "media_key": "3_2004192880999780362",
+          "start": 26,
+          "url": "https://t.co/TpS4Wvcu2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005246972148715651",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004192889770065958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoliiii2819: #自撮り界隈 https://t.co/TpS4Wvcu2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004192880999780362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BSzn1b0Ao_tYx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004192880999780362"
+          ],
+          "media_source_tweet_id": [
+            "2004192889770065958"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2005246972148715651",
+        "created_at": "2025-12-28T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005246972148715651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2003078961522483201",
+              "start": 3,
+              "username": "xiaoliiii2819"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpS4Wvcu2x",
+              "end": 49,
+              "expanded_url": "https://x.com/xiaoliiii2819/status/2004192889770065958/photo/1",
+              "media_key": "3_2004192880999780362",
+              "start": 26,
+              "url": "https://t.co/TpS4Wvcu2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005246972148715651",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004192889770065958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoliiii2819: #自撮り界隈 https://t.co/TpS4Wvcu2x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004192880999780362"
+          ]
+        },
+        "author_id": "2003078961522483201",
+        "conversation_id": "2004192889770065958",
+        "created_at": "2025-12-25T14:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004192889770065958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpS4Wvcu2x",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaoliiii2819/status/2004192889770065958/photo/1",
+              "media_key": "3_2004192880999780362",
+              "start": 7,
+              "url": "https://t.co/TpS4Wvcu2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004192889770065958",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/TpS4Wvcu2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 3415,
+          "like_count": 34166,
+          "listed_count": 6,
+          "media_count": 453,
+          "tweet_count": 8936
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T12:24:08.000Z",
+        "description": "我是小狸（重生版）",
+        "id": "2003078961522483201",
+        "location": "🚪100 188 520",
+        "name": "狸小路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003777376589930496/9Ky-fw6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "xiaoliiii2819",
+        "verified": false
+      }
+    ]
+  }
+}

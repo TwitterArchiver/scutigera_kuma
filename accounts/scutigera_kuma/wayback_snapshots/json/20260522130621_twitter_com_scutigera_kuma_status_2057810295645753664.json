@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2057612628109959452",
+    "created_at": "2026-05-22T13:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057810295645753664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596887209835388928",
+          "start": 0,
+          "username": "Kuruolyuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057810295645753664",
+    "in_reply_to_user_id": "1596887209835388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057612628109959452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuruolyuuki 不疲劳也框框喝这个太好喝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057612618966421505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4bxnba0AEWZ1w.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2057612628109959452",
+        "created_at": "2026-05-22T13:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057810295645753664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596887209835388928",
+              "start": 0,
+              "username": "Kuruolyuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057810295645753664",
+        "in_reply_to_user_id": "1596887209835388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057612628109959452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuruolyuuki 不疲劳也框框喝这个太好喝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057612618966421505"
+          ]
+        },
+        "author_id": "1596887209835388928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057612628109959452",
+        "created_at": "2026-05-22T00:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057612628109959452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIZHJjwUUb",
+              "end": 27,
+              "expanded_url": "https://x.com/Kuruolyuuki/status/2057612628109959452/photo/1",
+              "media_key": "3_2057612618966421505",
+              "start": 4,
+              "url": "https://t.co/aIZHJjwUUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057612628109959452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "お疲れ https://t.co/aIZHJjwUUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 3310,
+          "like_count": 34313,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9144
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:22:45.000Z",
+        "description": "ちょっとした独り言と、好きなデザインと、私のかけら（只有這一個ID\n純分享生活、日本語中國語英語OK",
+        "id": "1596887209835388928",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Zeconky",
+        "pinned_tweet_id": "1935325553655169244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050842125416476672/ZIgsjXNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 467,
+          "like_count": 5471,
+          "listed_count": 5,
+          "media_count": 1451,
+          "tweet_count": 9813
+        },
+        "username": "Kuruolyuuki",
+        "verified": false
+      }
+    ]
+  }
+}

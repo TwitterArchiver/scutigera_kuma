@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2018389608325943532",
+    "created_at": "2026-02-02T18:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T19:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018389608325943532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018389608325943532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我都打算淡推了这群小逼崽子给我气的在时间线上骂人，之前都有互关说我天天在骂人害怕我了😅但是我还是要攻击你个死妈仔脑子没成型阴毛没长齐的在这议论生命还干涉骚扰辱骂死亡威胁别人，显着你了你是o圈嘉豪你是o圈皇帝只有你能审判别人牛逼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2018389608325943532",
+        "created_at": "2026-02-02T18:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018389608325943532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018389608325943532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都打算淡推了这群小逼崽子给我气的在时间线上骂人，之前都有互关说我天天在骂人害怕我了😅但是我还是要攻击你个死妈仔脑子没成型阴毛没长齐的在这议论生命还干涉骚扰辱骂死亡威胁别人，显着你了你是o圈嘉豪你是o圈皇帝只有你能审判别人牛逼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4696,
+          "following_count": 3427,
+          "like_count": 34090,
+          "listed_count": 6,
+          "media_count": 460,
+          "tweet_count": 8992
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

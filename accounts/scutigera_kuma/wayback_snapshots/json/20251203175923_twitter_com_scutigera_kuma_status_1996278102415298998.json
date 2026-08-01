@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "1996277993925427468",
+    "created_at": "2025-12-03T17:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996278102415298998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939739537150025729",
+          "start": 0,
+          "username": "ayanoslastday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996278102415298998",
+    "in_reply_to_user_id": "1939739537150025729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996277993925427468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanoslastday 发你妈臭比"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996277993925427468].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996277993925427468",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996277993925427468"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1996277993925427468",
+        "created_at": "2025-12-03T17:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996278102415298998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939739537150025729",
+              "start": 0,
+              "username": "ayanoslastday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996278102415298998",
+        "in_reply_to_user_id": "1939739537150025729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996277993925427468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanoslastday 发你妈臭比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4707,
+          "following_count": 3428,
+          "like_count": 34044,
+          "listed_count": 6,
+          "media_count": 445,
+          "tweet_count": 8889
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T17:35:28.000Z",
+        "description": "shtwt｜我叫ayano｜绝对之爱导致了自我毁灭的嗜好",
+        "id": "1939739537150025729",
+        "location": "tokyo",
+        "name": "死んだ眼球のすべて",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939742665286811649/JyZdnAXU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 33,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 480
+        },
+        "username": "ayanoslastday",
+        "verified": false
+      }
+    ]
+  }
+}

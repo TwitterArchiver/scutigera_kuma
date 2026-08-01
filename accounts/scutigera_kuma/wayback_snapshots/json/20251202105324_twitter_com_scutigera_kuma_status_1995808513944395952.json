@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1995808489961390085"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "1995808513944395952",
+    "created_at": "2025-12-02T10:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995808513944395952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ef06LtU2OR",
+          "end": 34,
+          "expanded_url": "https://x.com/scutigera_kuma/status/1995808513944395952/photo/1",
+          "media_key": "16_1995808489961390085",
+          "start": 11,
+          "url": "https://t.co/Ef06LtU2OR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995808513944395952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜 天台 校服 药效 https://t.co/Ef06LtU2OR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_1995808489961390085",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7KJP1PbgAUj7e8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7KJP1PbgAUj7e8.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1995808489961390085"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1995808513944395952",
+        "created_at": "2025-12-02T10:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995808513944395952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ef06LtU2OR",
+              "end": 34,
+              "expanded_url": "https://x.com/scutigera_kuma/status/1995808513944395952/photo/1",
+              "media_key": "16_1995808489961390085",
+              "start": 11,
+              "url": "https://t.co/Ef06LtU2OR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995808513944395952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜 天台 校服 药效 https://t.co/Ef06LtU2OR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 3431,
+          "like_count": 34032,
+          "listed_count": 6,
+          "media_count": 444,
+          "tweet_count": 8882
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2013573955735691721",
+    "created_at": "2026-01-20T15:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013636277447409738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012840861210693632",
+          "start": 0,
+          "username": "Varerie_0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013636277447409738",
+    "in_reply_to_user_id": "2012840861210693632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013573955735691721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Varerie_0208 可以发帖骂门槛妹骂od的骂有精神病的骂搞黄色的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2013573955735691721",
+        "created_at": "2026-01-20T15:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013636277447409738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012840861210693632",
+              "start": 0,
+              "username": "Varerie_0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013636277447409738",
+        "in_reply_to_user_id": "2012840861210693632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013573955735691721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Varerie_0208 可以发帖骂门槛妹骂od的骂有精神病的骂搞黄色的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012840861210693632",
+        "conversation_id": "2013573955735691721",
+        "created_at": "2026-01-20T11:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013573955735691721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013573955735691721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这号该怎么起？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 3427,
+          "like_count": 34000,
+          "listed_count": 6,
+          "media_count": 457,
+          "tweet_count": 8959
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:54:04.000Z",
+        "description": "Akira第二人格｜おぼえててね ｜@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "2012840861210693632",
+        "name": "IRL_Varerie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012841431048597504/mLjKnkEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Varerie_0208",
+        "verified": false
+      }
+    ]
+  }
+}

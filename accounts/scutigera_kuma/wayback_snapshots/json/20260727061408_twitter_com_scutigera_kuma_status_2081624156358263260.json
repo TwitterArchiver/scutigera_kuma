@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2081621384686665781",
+    "created_at": "2026-07-27T06:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081624156358263260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1637590138149810177",
+          "start": 0,
+          "username": "rainfu_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081624156358263260",
+    "in_reply_to_user_id": "1637590138149810177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081621384686665781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainfu_U 这又是什么新鲜东西"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081621384686665781].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081621384686665781",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081621384686665781"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2081621384686665781",
+        "created_at": "2026-07-27T06:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081624156358263260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1637590138149810177",
+              "start": 0,
+              "username": "rainfu_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081624156358263260",
+        "in_reply_to_user_id": "1637590138149810177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081621384686665781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainfu_U 这又是什么新鲜东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5030,
+          "following_count": 3328,
+          "like_count": 33950,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 9173
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T23:01:44.000Z",
+        "description": "…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "itsukasinu.imasugu.com",
+                "end": 23,
+                "expanded_url": "http://itsukasinu.imasugu.com",
+                "start": 0,
+                "url": "https://t.co/piqfixR7aO"
+              }
+            ]
+          }
+        },
+        "id": "1637590138149810177",
+        "location": "⚪︎⚪︎の家",
+        "name": "ふゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066611917444276224/BJMyaCFy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/piqfixR7aO",
+        "username": "rainfu_U",
+        "verified": false
+      }
+    ]
+  }
+}

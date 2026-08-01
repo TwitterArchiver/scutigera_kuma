@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024483935389196289"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2024483947305218273",
+    "created_at": "2026-02-19T13:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024483947305218273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFykmjmf4P",
+          "end": 29,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2024483947305218273/photo/1",
+          "media_key": "3_2024483935389196289",
+          "start": 6,
+          "url": "https://t.co/yFykmjmf4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024483947305218273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "农村的夜空 https://t.co/yFykmjmf4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024483935389196289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhpab5boAEG6Re.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024483935389196289"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2024483947305218273",
+        "created_at": "2026-02-19T13:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024483947305218273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFykmjmf4P",
+              "end": 29,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2024483947305218273/photo/1",
+              "media_key": "3_2024483935389196289",
+              "start": 6,
+              "url": "https://t.co/yFykmjmf4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024483947305218273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "农村的夜空 https://t.co/yFykmjmf4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 3446,
+          "like_count": 34171,
+          "listed_count": 6,
+          "media_count": 467,
+          "tweet_count": 9020
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2082392621117518153",
+    "created_at": "2026-07-29T09:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082392621117518153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082392621117518153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈天天骂董晗这个死妈全网偷文案，然后你们这群傻逼还能捧他说是文笔好甚至往墙内发，他吃金刚烷胺吃颠了你们也颠了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2082392621117518153",
+        "created_at": "2026-07-29T09:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082392621117518153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082392621117518153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈天天骂董晗这个死妈全网偷文案，然后你们这群傻逼还能捧他说是文笔好甚至往墙内发，他吃金刚烷胺吃颠了你们也颠了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5036,
+          "following_count": 3331,
+          "like_count": 33961,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 9178
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

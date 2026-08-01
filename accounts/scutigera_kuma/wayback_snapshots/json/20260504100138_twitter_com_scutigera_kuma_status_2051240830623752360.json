@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2050962976111497698",
+    "created_at": "2026-05-04T10:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051240830623752360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508447794537070595",
+          "start": 0,
+          "username": "Sakura2333owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051240830623752360",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050962976111497698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura2333owo 下次可以带个丁腈手套"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18953,
+        "height": 1280,
+        "media_key": "13_2050962802433724417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050962802433724417/img/NJdZcQrp5pz_EBoh.jpg",
+        "public_metrics": {
+          "view_count": 505
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/vid/avc1/320x568/6PeLedLQRcLBMGoS.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/vid/avc1/480x852/4Am8d9BTNp6c42nI.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/vid/avc1/720x1280/mq360z_mOQKr35fX.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/pl/mIxpye0GAMF1hBl3.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2050962976111497698",
+        "created_at": "2026-05-04T10:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051240830623752360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051240830623752360",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050962976111497698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 下次可以带个丁腈手套"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050962802433724417"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "2050962976111497698",
+        "created_at": "2026-05-03T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050962976111497698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdSku7Al51",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2050962976111497698/video/1",
+              "media_key": "13_2050962802433724417",
+              "start": 16,
+              "url": "https://t.co/AdSku7Al51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050962976111497698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1849,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "已化作一颗舍利子( ˘ω˘ ) https://t.co/AdSku7Al51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4914,
+          "following_count": 3522,
+          "like_count": 34271,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9124
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37719,
+          "following_count": 299,
+          "like_count": 8023,
+          "listed_count": 81,
+          "media_count": 1197,
+          "tweet_count": 5485
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

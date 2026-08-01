@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "1999486327121936680",
+    "created_at": "2025-12-12T14:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T15:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999486327121936680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "曈’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1mnGe…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1mnGeNOPDjnJX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1999486328258580480/SO-xZf7C?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1999486328258580480/SO-xZf7C?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 有人想我吗。",
+          "unwound_url": "https://twitter.com/i/spaces/1mnGeNOPDjnJX/peek",
+          "url": "https://t.co/GPvksC7WbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999486327121936680",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GPvksC7WbW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1999486327121936680",
+        "created_at": "2025-12-12T14:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999486327121936680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "曈’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mnGe…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mnGeNOPDjnJX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1999486328258580480/SO-xZf7C?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999486328258580480/SO-xZf7C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 有人想我吗。",
+              "unwound_url": "https://twitter.com/i/spaces/1mnGeNOPDjnJX/peek",
+              "url": "https://t.co/GPvksC7WbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999486327121936680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GPvksC7WbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 3416,
+          "like_count": 33938,
+          "listed_count": 6,
+          "media_count": 449,
+          "tweet_count": 8908
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

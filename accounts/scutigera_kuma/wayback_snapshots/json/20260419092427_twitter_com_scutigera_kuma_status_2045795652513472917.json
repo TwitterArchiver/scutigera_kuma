@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2045746880941044114",
+    "created_at": "2026-04-19T09:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045795652513472917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766137671238516736",
+          "start": 0,
+          "username": "beanmilk1kuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045795652513472917",
+    "in_reply_to_user_id": "1766137671238516736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045789265859379317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beanmilk1kuai 喷水a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2045746880941044114",
+        "created_at": "2026-04-19T09:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045795652513472917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766137671238516736",
+              "start": 0,
+              "username": "beanmilk1kuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045795652513472917",
+        "in_reply_to_user_id": "1766137671238516736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045789265859379317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beanmilk1kuai 喷水a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766137671238516736",
+        "conversation_id": "2045746880941044114",
+        "created_at": "2026-04-19T08:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045789265859379317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045789265859379317",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045746880941044114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 啥玩意儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4728,
+          "following_count": 3475,
+          "like_count": 34180,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 9107
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T16:23:46.000Z",
+        "description": "听到我不哭的那就是不哭",
+        "id": "1766137671238516736",
+        "name": "远航星",
+        "pinned_tweet_id": "2004678510514946148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031205874736443394/nx-XYr4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 213,
+          "like_count": 8058,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2460
+        },
+        "username": "beanmilk1kuai",
+        "verified": false
+      }
+    ]
+  }
+}

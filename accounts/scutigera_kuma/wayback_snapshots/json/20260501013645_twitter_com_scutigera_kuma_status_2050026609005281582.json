@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2050026609005281582",
+    "created_at": "2026-05-01T01:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050026609005281582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050026609005281582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049831690487701897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAN100222: 一会儿智性恋，一会儿慕强批，现在又开始搞什么向上社交，承认自己就是个势利眼很难吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2050026609005281582",
+        "created_at": "2026-05-01T01:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050026609005281582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050026609005281582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049831690487701897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAN100222: 一会儿智性恋，一会儿慕强批，现在又开始搞什么向上社交，承认自己就是个势利眼很难吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2049831690487701897",
+        "created_at": "2026-04-30T12:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049831690487701897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049831690487701897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 32625,
+          "like_count": 1146,
+          "quote_count": 12,
+          "reply_count": 85,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "一会儿智性恋，一会儿慕强批，现在又开始搞什么向上社交，承认自己就是个势利眼很难吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 3522,
+          "like_count": 34262,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9118
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好",
+        "id": "1900706496121602048",
+        "name": "龙丽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 173,
+          "like_count": 8618,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2772
+        },
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

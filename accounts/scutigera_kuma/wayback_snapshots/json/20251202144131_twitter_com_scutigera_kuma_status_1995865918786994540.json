@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1863888664088252416"
+      ],
+      "media_source_tweet_id": [
+        "1863888699802669149"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995865918786994540",
+    "created_at": "2025-12-02T14:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995865918786994540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3022134476",
+          "start": 3,
+          "username": "disneyddonald"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oPp4URgFWU",
+          "end": 65,
+          "expanded_url": "https://x.com/Urthr_6/status/1863888699802669149/video/1",
+          "media_key": "7_1863888664088252416",
+          "start": 42,
+          "url": "https://t.co/oPp4URgFWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995865918786994540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2973
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914795005874725220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @disneyddonald: この程度で文句言ってる奴はこれ見て落ち着け\n\nhttps://t.co/oPp4URgFWU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995865918786994540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995865918786994540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995865918786994540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33046,
+        "height": 1252,
+        "media_key": "7_1863888664088252416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1863888664088252416/pu/img/3vgcXIql1sMSs2xY.jpg",
+        "public_metrics": {
+          "view_count": 1538359
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863888664088252416/pu/vid/avc1/320x556/58hW42lvHTwrHD5b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863888664088252416/pu/vid/avc1/480x834/nhtAa8Cznm51L6Jv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863888664088252416/pu/vid/avc1/720x1252/Ti-XPI-0pGjixqgs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1863888664088252416/pu/pl/Arw_owqQVbX18gJz.m3u8?tag=12&v=98e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1863888664088252416"
+          ],
+          "media_source_tweet_id": [
+            "1863888699802669149"
+          ]
+        },
+        "author_id": "3022134476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914795005874725220",
+        "created_at": "2025-04-22T21:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T22:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914795005874725220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPp4URgFWU",
+              "end": 46,
+              "expanded_url": "https://x.com/Urthr_6/status/1863888699802669149/video/1",
+              "media_key": "7_1863888664088252416",
+              "start": 23,
+              "url": "https://t.co/oPp4URgFWU"
+            },
+            {
+              "display_url": "x.com/tokyotengu/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/tokyotengu/status/1913781864105386446",
+              "start": 47,
+              "url": "https://t.co/LM5CXWRLxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914795005874725220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12964,
+          "impression_count": 2202930,
+          "like_count": 33238,
+          "quote_count": 1069,
+          "reply_count": 116,
+          "retweet_count": 2973
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913781864105386446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この程度で文句言ってる奴はこれ見て落ち着け\n\nhttps://t.co/oPp4URgFWU https://t.co/LM5CXWRLxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "曈",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980641198587994112/ClawUbzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4710,
+          "following_count": 3432,
+          "like_count": 34043,
+          "listed_count": 6,
+          "media_count": 444,
+          "tweet_count": 8886
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T08:12:58.000Z",
+        "description": "カメラマン+通信制高校生(留年中)やってます！📸（ＲＴは自分の作品）  😀 🐭ディズニー友達募集 共通/1DXmk3/B2/♂/元TDLカメラマン🕍撮影依頼はDM📩へ",
+        "id": "3022134476",
+        "location": "CrownClownカメラマン",
+        "name": "📸ひろひろ📸",
+        "pinned_tweet_id": "907620840832778241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/878922522288205825/1X9OOJr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 78,
+          "like_count": 11218,
+          "listed_count": 18,
+          "media_count": 487,
+          "tweet_count": 2156
+        },
+        "username": "disneyddonald",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1148209264256663552",
+          "name": "Tabletop role-playing games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1148209264256663552",
+          "name": "Tabletop role-playing games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1148209264256663552",
+          "name": "Tabletop role-playing games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2052942420745322694",
+    "created_at": "2026-05-09T02:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052942420745322694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1540315386931204098",
+          "start": 3,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052942420745322694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050786150701535665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyouka_charming: 【創作のご報告】\nサークル「心病结社 pasteller」にて\n病みテーマTRPG\n『メンヘラ救済RPG：絆創幸際』体験版公開しました\n\n病みカップルの関係性を描くフィクション作品です\n※15歳以上推奨\n※やばい表現ある\n※現実の行為を…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050786136977760256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXbIETa4AAD6Jx.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1532,
+        "media_key": "3_2050786136977780736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXbIETbMAA-oht.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2050786137011339264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXbIEbbQAAcQt7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050786137002930176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXbIEZa8AA7PX2.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2052942420745322694",
+        "created_at": "2026-05-09T02:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052942420745322694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1540315386931204098",
+              "start": 3,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052942420745322694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050786150701535665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyouka_charming: 【創作のご報告】\nサークル「心病结社 pasteller」にて\n病みテーマTRPG\n『メンヘラ救済RPG：絆創幸際』体験版公開しました\n\n病みカップルの関係性を描くフィクション作品です\n※15歳以上推奨\n※やばい表現ある\n※現実の行為を…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050786136977760256",
+            "3_2050786136977780736",
+            "3_2050786137011339264",
+            "3_2050786137002930176"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2050786150701535665",
+        "created_at": "2026-05-03T03:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050786150701535665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 169,
+              "start": 164,
+              "tag": "TRPG"
+            }
+          ],
+          "urls": [
+            {
+              "description": "メンヘラテーマのナラティブ系TRPGの体験版です。 「救済」と「共依存」のあいだで揺れる関係性を、 プレイヤー同士で描いていくことを目的としています。 少人数・短時間でも遊べる構成となっており、 感情の変化や心の状態に焦点を当てたセッション体験が可能です。 --- 【プレイ情報】 ・プレイ人数：2人 ・対象年齢：15歳以上 ・プレイ時間：短時間セッション対応 --- 【特徴】 ・感情と関係性の変化を重視したナラティブ設計 ・「心の状態」を扱う独自システム ・正多面体ダイス全種類必須 ・少人数（2人）での濃密なセッション体験 ・即興でシナリオ作成可能（推奨） --- 【内容物】",
+              "display_url": "kkkyouau.booth.pm/items/8286652",
+              "end": 163,
+              "expanded_url": "http://kkkyouau.booth.pm/items/8286652",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2049747862075158528/eEKudF3M?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049747862075158528/eEKudF3M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 140,
+              "status": 200,
+              "title": "メンヘラ救済RPG「絆創幸際」体験版 - kkkyouau - BOOTH",
+              "unwound_url": "https://kkkyouau.booth.pm/items/8286652",
+              "url": "https://t.co/94Jo8G7sUF"
+            },
+            {
+              "display_url": "pic.x.com/o9mWobA66P",
+              "end": 193,
+              "expanded_url": "https://x.com/kyouka_charming/status/2050786150701535665/photo/1",
+              "media_key": "3_2050786136977760256",
+              "start": 170,
+              "url": "https://t.co/o9mWobA66P"
+            },
+            {
+              "display_url": "pic.x.com/o9mWobA66P",
+              "end": 193,
+              "expanded_url": "https://x.com/kyouka_charming/status/2050786150701535665/photo/1",
+              "media_key": "3_2050786136977780736",
+              "start": 170,
+              "url": "https://t.co/o9mWobA66P"
+            },
+            {
+              "display_url": "pic.x.com/o9mWobA66P",
+              "end": 193,
+              "expanded_url": "https://x.com/kyouka_charming/status/2050786150701535665/photo/1",
+              "media_key": "3_2050786137011339264",
+              "start": 170,
+              "url": "https://t.co/o9mWobA66P"
+            },
+            {
+              "display_url": "pic.x.com/o9mWobA66P",
+              "end": 193,
+              "expanded_url": "https://x.com/kyouka_charming/status/2050786150701535665/photo/1",
+              "media_key": "3_2050786137002930176",
+              "start": 170,
+              "url": "https://t.co/o9mWobA66P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050786150701535665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1405,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【創作のご報告】\nサークル「心病结社 pasteller」にて\n病みテーマTRPG\n『メンヘラ救済RPG：絆創幸際』体験版公開しました\n\n病みカップルの関係性を描くフィクション作品です\n※15歳以上推奨\n※やばい表現ある\n※現実の行為を推奨するつもりありません\n\n▼DLはこちら\nhttps://t.co/94Jo8G7sUF\n#TRPG https://t.co/o9mWobA66P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4949,
+          "following_count": 3518,
+          "like_count": 34216,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9130
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、🏳️‍⚧️20↑トランスジェンダー女性、元漫画家志望者、TRPG民間通訳者。ENG/日本語/華语OK。元日本留学不登校児高校生、現在北京在住。\n「メンヘラ」という言葉が中国語の「心病系」ヘ通訳した者\n現在「メンヘラ結社パステラー」の一員として「メンヘラ救済RPG絆創幸際」制作中",
+        "id": "1540315386931204098",
+        "name": "🪞🌺【メンヘラ救済RPG絆創幸際】体験版ダウンロード可能",
+        "pinned_tweet_id": "2050786150701535665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050358059135045632/BEz7DHu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 1525,
+          "like_count": 12786,
+          "listed_count": 1,
+          "media_count": 1233,
+          "tweet_count": 9765
+        },
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}
