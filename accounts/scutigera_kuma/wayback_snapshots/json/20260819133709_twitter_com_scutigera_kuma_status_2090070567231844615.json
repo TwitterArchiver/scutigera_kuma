@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2089753827872510161",
+    "created_at": "2026-08-19T13:37:09.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090070567231844615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999825948284497920",
+          "start": 0,
+          "username": "emi049emi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090070567231844615",
+    "in_reply_to_user_id": "1999825948284497920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089997482818445503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emi049emi 喝过呀，日本甜水真无敌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2089753827872510161",
+        "created_at": "2026-08-19T13:37:09.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090070567231844615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999825948284497920",
+              "start": 0,
+              "username": "emi049emi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090070567231844615",
+        "in_reply_to_user_id": "1999825948284497920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089997482818445503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emi049emi 喝过呀，日本甜水真无敌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999825948284497920",
+        "conversation_id": "2089753827872510161",
+        "created_at": "2026-08-19T08:46:44.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089997482818445503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089997482818445503",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089753827872510161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 它有个8度还是9度的你喝过没"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090070567231844615",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 3313,
+          "like_count": 33864,
+          "listed_count": 5,
+          "media_count": 474,
+          "tweet_count": 9185
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T12:57:37.000Z",
+        "description": "Emiです/本殿下的精神世界/",
+        "id": "1999825948284497920",
+        "is_identity_verified": false,
+        "location": "🚪99/149/199（纯绿 区别是会更喜欢你）",
+        "most_recent_tweet_id": "2090067617721765997",
+        "name": "エミ（2周目版",
+        "pinned_tweet_id": "2048440301791191492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999825948284497920/1765631145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010504501166534658/lvXedgjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 20,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 870
+        },
+        "url": "",
+        "username": "emi049emi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

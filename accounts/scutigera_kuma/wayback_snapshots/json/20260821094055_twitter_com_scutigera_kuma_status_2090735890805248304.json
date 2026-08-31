@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2090442305501364611",
+    "created_at": "2026-08-21T09:40:55.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090735890805248304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997020469399552",
+          "start": 0,
+          "username": "gongzisama1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090735890805248304",
+    "in_reply_to_user_id": "1701997020469399552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090442305501364611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongzisama1 马上就可以学会火球术了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2090442305501364611",
+        "created_at": "2026-08-21T09:40:55.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090735890805248304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997020469399552",
+              "start": 0,
+              "username": "gongzisama1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090735890805248304",
+        "in_reply_to_user_id": "1701997020469399552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090442305501364611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongzisama1 马上就可以学会火球术了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2090442305501364611",
+        "created_at": "2026-08-20T14:14:18.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090442305501364611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IYDKMIGTHTKY23…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/IYDKMIGTHTKY23/status/2090100961440333901",
+              "start": 82,
+              "url": "https://t.co/a02tbbL8wB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090442305501364611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2223,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100961440333901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：×\n有过男朋友：×\n有过女朋友：×\n喝过酒：√\n挂过科： √\n抽过烟/用过电子烟：√\n吻过别人：×\n被课堂赶出去：√\n考试作弊：√\n偷偷溜出家门： √ https://t.co/a02tbbL8wB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090735890805248304",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5006,
+          "following_count": 3312,
+          "like_count": 33874,
+          "listed_count": 5,
+          "media_count": 474,
+          "tweet_count": 9192
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC\n名人堂RC开始出品，零售业务可咨询沐雨，也可联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090717601903349979",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 328,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
