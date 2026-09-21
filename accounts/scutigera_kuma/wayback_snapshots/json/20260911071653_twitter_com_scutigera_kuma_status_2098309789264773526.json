@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2096564112822296930",
+    "created_at": "2026-09-11T07:16:53.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098309789264773526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561558349073616897",
+          "start": 0,
+          "username": "nokorikaaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098309789264773526",
+    "in_reply_to_user_id": "1561558349073616897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098305039022637287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nokorikaaka 画个龙宫礼奈可以吗🥹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098305039022637287].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098305039022637287",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098305039022637287"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2096564112822296930",
+        "created_at": "2026-09-11T07:16:53.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098309789264773526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561558349073616897",
+              "start": 0,
+              "username": "nokorikaaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098309789264773526",
+        "in_reply_to_user_id": "1561558349073616897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098305039022637287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nokorikaaka 画个龙宫礼奈可以吗🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098309789264773526",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4999,
+          "following_count": 3318,
+          "like_count": 33839,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 9225
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T03:38:30.000Z",
+        "description": "",
+        "id": "1561558349073616897",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2027778440544575997",
+        "name": "檀香刑",
+        "pinned_tweet_id": "2096564112822296930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561558349073616897/1713812635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096717395717197824/RdqfehX1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 530,
+          "like_count": 24809,
+          "listed_count": 0,
+          "media_count": 1096,
+          "tweet_count": 19298
+        },
+        "url": "",
+        "username": "nokorikaaka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

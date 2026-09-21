@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080696067457515520"
+      ],
+      "media_source_tweet_id": [
+        "2101446240613347617"
+      ]
+    },
+    "author_id": "1557839863151337473",
+    "conversation_id": "2101628793270181983",
+    "created_at": "2026-09-20T11:05:25.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101628793270181983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "さユり"
+        },
+        {
+          "end": 61,
+          "start": 53,
+          "tag": "LONGTAL"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "夢雨"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "ミカヅキ"
+        },
+        {
+          "end": 84,
+          "start": 72,
+          "tag": "それは小さな光のような"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "平行線"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "月と花束"
+        },
+        {
+          "end": 102,
+          "start": 96,
+          "tag": "世界の秘密"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2549990586",
+          "start": 3,
+          "username": "meinichi_bot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UI7oBSrLbg",
+          "end": 126,
+          "expanded_url": "https://x.com/meinichi_bot1/status/2101446240613347617/photo/1",
+          "media_key": "3_2080696067457515520",
+          "start": 103,
+          "url": "https://t.co/UI7oBSrLbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101628793270181983",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2080696067457515520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2672
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101446240613347617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meinichi_bot1: 2024年9月20日　さユり【ミュージシャン】\n28歳没\n#さユり\n#LONGTAL\n#夢雨\n#ミカヅキ\n#それは小さな光のような\n#平行線\n#月と花束\n#世界の秘密 https://t.co/UI7oBSrLbg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2080696067457515520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAeDKJbgAAwH4v.jpg",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080696067457515520"
+          ],
+          "media_source_tweet_id": [
+            "2101446240613347617"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2101628793270181983",
+        "created_at": "2026-09-20T11:05:25.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101628793270181983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "さユり"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "LONGTAL"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "夢雨"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "ミカヅキ"
+            },
+            {
+              "end": 84,
+              "start": 72,
+              "tag": "それは小さな光のような"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "平行線"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "月と花束"
+            },
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "世界の秘密"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2549990586",
+              "start": 3,
+              "username": "meinichi_bot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UI7oBSrLbg",
+              "end": 126,
+              "expanded_url": "https://x.com/meinichi_bot1/status/2101446240613347617/photo/1",
+              "media_key": "3_2080696067457515520",
+              "start": 103,
+              "url": "https://t.co/UI7oBSrLbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101628793270181983",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2080696067457515520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2672
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101446240613347617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meinichi_bot1: 2024年9月20日　さユり【ミュージシャン】\n28歳没\n#さユり\n#LONGTAL\n#夢雨\n#ミカヅキ\n#それは小さな光のような\n#平行線\n#月と花束\n#世界の秘密 https://t.co/UI7oBSrLbg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080696067457515520"
+          ]
+        },
+        "author_id": "2549990586",
+        "conversation_id": "2101446240613347617",
+        "created_at": "2026-09-19T23:00:01.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101446240613347617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "さユり"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "LONGTAL"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "夢雨"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "ミカヅキ"
+            },
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "それは小さな光のような"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "平行線"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "月と花束"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "世界の秘密"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UI7oBSrLbg",
+              "end": 107,
+              "expanded_url": "https://x.com/meinichi_bot1/status/2101446240613347617/photo/1",
+              "media_key": "3_2080696067457515520",
+              "start": 84,
+              "url": "https://t.co/UI7oBSrLbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101446240613347617",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2080696067457515520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1483,
+          "impression_count": 2249489,
+          "like_count": 21689,
+          "quote_count": 584,
+          "reply_count": 130,
+          "retweet_count": 2672
+        },
+        "reply_settings": "everyone",
+        "text": "2024年9月20日　さユり【ミュージシャン】\n28歳没\n#さユり\n#LONGTAL\n#夢雨\n#ミカヅキ\n#それは小さな光のような\n#平行線\n#月と花束\n#世界の秘密 https://t.co/UI7oBSrLbg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101628793270181983",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4984,
+          "following_count": 3325,
+          "like_count": 33786,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 9235
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-06-06T13:17:29.000Z",
+        "description": "No matter how rich or famous at will always die.\nThat's why being alive now is precious.\nDon't forget actor,actress,musician,artist,athlete,and more.",
+        "id": "2549990586",
+        "is_identity_verified": false,
+        "location": "Kingdom of Heaven",
+        "most_recent_tweet_id": "2101448752355815478",
+        "name": "命日bot",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2549990586/1403528393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/475142053567795200/w-QRZzxJ_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59482,
+          "following_count": 8,
+          "like_count": 65755,
+          "listed_count": 167,
+          "media_count": 403,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "meinichi_bot1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

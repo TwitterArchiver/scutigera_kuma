@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2098077913027580095",
+    "created_at": "2026-09-10T17:28:10.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098101235811488048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070894139953311744",
+          "start": 0,
+          "username": "Mememechan_3066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098101235811488048",
+    "in_reply_to_user_id": "2070894139953311744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098077913027580095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mememechan_3066 你涨粉好快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098077887895371776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3euRMbAAAeFTy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2098077913027580095",
+        "created_at": "2026-09-10T17:28:10.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098101235811488048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070894139953311744",
+              "start": 0,
+              "username": "Mememechan_3066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098101235811488048",
+        "in_reply_to_user_id": "2070894139953311744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098077913027580095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mememechan_3066 你涨粉好快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098077887895371776"
+          ]
+        },
+        "author_id": "2070894139953311744",
+        "conversation_id": "2098077913027580095",
+        "created_at": "2026-09-10T15:55:29.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098077913027580095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "足控"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "萝莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zoBWeJ3SY",
+              "end": 45,
+              "expanded_url": "https://x.com/Mememechan_3066/status/2098077913027580095/photo/1",
+              "media_key": "3_2098077887895371776",
+              "start": 22,
+              "url": "https://t.co/0zoBWeJ3SY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098077913027580095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098077887895371776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1693,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "超级淡妆 (*^▽^*) \n#足控 #萝莉 https://t.co/0zoBWeJ3SY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098101235811488048",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 3315,
+          "like_count": 33830,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 9222
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T15:40:07.000Z",
+        "description": "使用我，然后抛下我。\n地雷，请不要在不了解我的时候轻浮的说爱我。\n日常碎碎念请关注@yume_2446",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "yume_2446"
+              }
+            ]
+          }
+        },
+        "id": "2070894139953311744",
+        "is_identity_verified": false,
+        "location": "梦境",
+        "most_recent_tweet_id": "2098091969771958288",
+        "name": "赛博斐济杯",
+        "pinned_tweet_id": "2084536432283230563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070894139953311744/1782575789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075927214512812032/TFrssCtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 78,
+          "like_count": 804,
+          "listed_count": 7,
+          "media_count": 17,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "Mememechan_3066",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2097237596837753056",
+    "created_at": "2026-09-08T09:36:14.000Z",
+    "display_text_range": [
+      11,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097257693929226248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "842278046748966912",
+          "start": 0,
+          "username": "rnatataki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097257693929226248",
+    "in_reply_to_user_id": "842278046748966912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097237596837753056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnatataki 私は約4年前からあなたの作品が好きでしたね、その頃はまだアイコンとして使用していました、懐かしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2097237596837753056",
+        "created_at": "2026-09-08T09:36:14.000Z",
+        "display_text_range": [
+          11,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097257693929226248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "842278046748966912",
+              "start": 0,
+              "username": "rnatataki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097257693929226248",
+        "in_reply_to_user_id": "842278046748966912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097237596837753056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnatataki 私は約4年前からあなたの作品が好きでしたね、その頃はまだアイコンとして使用していました、懐かしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "842278046748966912",
+        "conversation_id": "2097237596837753056",
+        "created_at": "2026-09-08T08:16:22.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097237596837753056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "のろヰ's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mGPa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mGPaZbNDBYJN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2097237639158247424/gtwlMJ79?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097237639158247424/gtwlMJ79?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: ブロン / X",
+              "unwound_url": "https://x.com/i/spaces/1mGPaZbNDBYJN",
+              "url": "https://t.co/TBbcTy8Tbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097237596837753056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TBbcTy8Tbw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097257693929226248",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4993,
+          "following_count": 3312,
+          "like_count": 33835,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9210
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-16T07:35:09.000Z",
+        "description": "渦になる / お仕事募集中 / skeb https://t.co/z7gZVwaSqq / FANBOX https://t.co/o3E3qVVfFZ / FA等 #のろたんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "のろたんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rnatataki",
+                "end": 44,
+                "expanded_url": "https://skeb.jp/@rnatataki",
+                "start": 21,
+                "url": "https://t.co/z7gZVwaSqq"
+              },
+              {
+                "display_url": "rnatataki.fanbox.cc",
+                "end": 77,
+                "expanded_url": "https://rnatataki.fanbox.cc/",
+                "start": 54,
+                "url": "https://t.co/o3E3qVVfFZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rnatataki",
+                "end": 23,
+                "expanded_url": "https://lit.link/rnatataki",
+                "start": 0,
+                "url": "https://t.co/Of0neav5p8"
+              }
+            ]
+          }
+        },
+        "id": "842278046748966912",
+        "is_identity_verified": false,
+        "location": "お仕事 ▶︎ rnatataki.exe@gmail.com",
+        "most_recent_tweet_id": "2097237596837753056",
+        "name": "のろヰ",
+        "pinned_tweet_id": "2095094201583337937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842278046748966912/1787552274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137491982404603906/iRcXCVNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65958,
+          "following_count": 98,
+          "like_count": 1310,
+          "listed_count": 426,
+          "media_count": 685,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/Of0neav5p8",
+        "username": "rnatataki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

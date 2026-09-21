@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2097817423995109839",
+    "created_at": "2026-09-10T04:58:12.000Z",
+    "display_text_range": [
+      11,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097912504135618869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999825948284497920",
+          "start": 0,
+          "username": "emi049emi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097912504135618869",
+    "in_reply_to_user_id": "1999825948284497920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097817423995109839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emi049emi 现在租房子都要做好不退押金的觉悟，都几把显微镜定损，一点生活痕迹能给你裤衩子扣光，所以退房搬完直接走打扫都多余"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2097817423995109839",
+        "created_at": "2026-09-10T04:58:12.000Z",
+        "display_text_range": [
+          11,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097912504135618869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999825948284497920",
+              "start": 0,
+              "username": "emi049emi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097912504135618869",
+        "in_reply_to_user_id": "1999825948284497920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097817423995109839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emi049emi 现在租房子都要做好不退押金的觉悟，都几把显微镜定损，一点生活痕迹能给你裤衩子扣光，所以退房搬完直接走打扫都多余"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999825948284497920",
+        "conversation_id": "2097817423995109839",
+        "created_at": "2026-09-09T22:40:24.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097817423995109839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097817423995109839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拖欠工资 扣全部房租押金 造黄谣 这些是我（和任何人）人生里遇到的挺严重的痛苦 但这些事全都又你们昆明人给我带来😂😂 外地人来玩也要被你们整呢再也不想来云南。苦笑 你们真是整个云南的耻辱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097912504135618869",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4994,
+          "following_count": 3312,
+          "like_count": 33827,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 9219
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T12:57:37.000Z",
+        "description": "Emiです/本殿下的精神世界/",
+        "id": "1999825948284497920",
+        "is_identity_verified": false,
+        "location": "🚪99/149/199（纯绿 区别是会更喜欢你）",
+        "most_recent_tweet_id": "2097837723273064897",
+        "name": "エミ（2周目版",
+        "pinned_tweet_id": "2048440301791191492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999825948284497920/1765631145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010504501166534658/lvXedgjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 22,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "emi049emi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

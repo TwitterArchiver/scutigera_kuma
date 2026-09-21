@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2098103454162198937",
+    "created_at": "2026-09-10T17:41:03.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098104481640861854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033317543386152960",
+          "start": 0,
+          "username": "rei10_beeeeam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098104481640861854",
+    "in_reply_to_user_id": "2033317543386152960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098103454162198937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei10_beeeeam 格好い過ぎじゃねか"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098103445307924480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3195-aIAAfD8H.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2098103454162198937",
+        "created_at": "2026-09-10T17:41:03.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098104481640861854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033317543386152960",
+              "start": 0,
+              "username": "rei10_beeeeam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098104481640861854",
+        "in_reply_to_user_id": "2033317543386152960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098103454162198937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei10_beeeeam 格好い過ぎじゃねか"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098103445307924480"
+          ]
+        },
+        "author_id": "2033317543386152960",
+        "conversation_id": "2098103454162198937",
+        "created_at": "2026-09-10T17:36:59.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098103454162198937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zS4ZfgCe12",
+              "end": 23,
+              "expanded_url": "https://x.com/rei10_beeeeam/status/2098103454162198937/photo/1",
+              "media_key": "3_2098103445307924480",
+              "start": 0,
+              "url": "https://t.co/zS4ZfgCe12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098103454162198937",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098103445307924480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zS4ZfgCe12"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098104481640861854",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 3315,
+          "like_count": 33832,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 9224
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T23:02:44.000Z",
+        "description": "ゲボ嗚咽\nれいって呼んでください\nPayPay乞食常習犯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ninjar.jp/users/rei10_be…",
+                "end": 23,
+                "expanded_url": "https://www.ninjar.jp/users/rei10_beeeeam/themes/new?uid=rei10_beeeeam",
+                "start": 0,
+                "url": "https://t.co/Z0xUDQ7AIH"
+              }
+            ]
+          }
+        },
+        "id": "2033317543386152960",
+        "is_identity_verified": false,
+        "location": "質問箱→",
+        "most_recent_tweet_id": "2098103454162198937",
+        "name": "れいとうビーム",
+        "pinned_tweet_id": "2086803082210689033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033317543386152960/1783258963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072368459972063232/de6UOhhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 219,
+          "like_count": 7682,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/Z0xUDQ7AIH",
+        "username": "rei10_beeeeam",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
