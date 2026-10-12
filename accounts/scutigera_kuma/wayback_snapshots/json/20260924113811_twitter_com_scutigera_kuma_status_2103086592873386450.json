@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2103086592873386450",
+    "created_at": "2026-09-24T11:38:11.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103086592873386450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hexy_sz/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hexy_sz/status/2102872770094993831",
+          "start": 6,
+          "url": "https://t.co/CzSBMBC0CT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103086592873386450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102872770094993831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男人=婊子 https://t.co/CzSBMBC0CT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2103086592873386450",
+        "created_at": "2026-09-24T11:38:11.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103086592873386450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hexy_sz/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hexy_sz/status/2102872770094993831",
+              "start": 6,
+              "url": "https://t.co/CzSBMBC0CT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103086592873386450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102872770094993831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男人=婊子 https://t.co/CzSBMBC0CT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007015116274012161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          }
+        ],
+        "conversation_id": "2102872770094993831",
+        "created_at": "2026-09-23T21:28:32.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102872770094993831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102872770094993831",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 134955,
+          "like_count": 12281,
+          "quote_count": 45,
+          "reply_count": 156,
+          "retweet_count": 2942
+        },
+        "reply_settings": "everyone",
+        "text": "A sociedade é tipo:\nMulher Gótica = puta\nMulher Padrão = puta\nMulher cis = puta\nMulher trans = puta\nMãe solteira = puta\nMulher sem filhos = puta\nMãe c +de 1 filho = puta\nMulher de beleza natural = puta\nMulher com plástica = puta\nMulher inteligente = puta\nMulher = puta\nPuta = puta"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103086592873386450",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 3323,
+          "like_count": 33799,
+          "listed_count": 5,
+          "media_count": 480,
+          "tweet_count": 9245
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:05:14.000Z",
+        "description": "ʷᵘᵇᵇᵃ ˡᵘᵇᵇᵃ ᵈᵘᵇ ᵈᵘᵇ  | morbid Romanian fairytale \n(https://t.co/reA16jhS8n) 🩷💛🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hexhammerhead.bsky.social",
+                "end": 74,
+                "expanded_url": "https://hexhammerhead.bsky.social",
+                "start": 51,
+                "url": "https://t.co/reA16jhS8n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hex_hammerhead…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hex_hammerhead?igsh=MWw3NmNsZXV0M2l0Ng==",
+                "start": 0,
+                "url": "https://t.co/iH6TXHZTk2"
+              }
+            ]
+          }
+        },
+        "id": "2007015116274012161",
+        "is_identity_verified": false,
+        "location": "InHellTakingaNapOnDevilsLap",
+        "most_recent_tweet_id": "2103028306534605164",
+        "name": "@hex_hammerhead 🦈",
+        "pinned_tweet_id": "2102211744861200491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007015116274012161/1767396356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095880174650703879/63hRgXVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 184,
+          "like_count": 5149,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/iH6TXHZTk2",
+        "username": "hexy_sz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2104608032684380598",
+    "created_at": "2026-09-28T16:26:23.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104608670285959595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104608670285959595",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104608032684380598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CJing3_ 又一个被落差感击毙的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2104608032684380598",
+        "created_at": "2026-09-28T16:26:23.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104608670285959595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104608670285959595",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104608032684380598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CJing3_ 又一个被落差感击毙的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "2104608032684380598",
+        "created_at": "2026-09-28T16:23:51.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104608032684380598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104608032684380598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "不是说美院都抑郁症吗，怎么一个连 四个班就特么我一个花臂，真是打扰了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104608670285959595",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 3320,
+          "like_count": 33806,
+          "listed_count": 5,
+          "media_count": 482,
+          "tweet_count": 9247
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@Cjing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Cjing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "is_identity_verified": false,
+        "location": "轉載Reprint🚫 orca",
+        "most_recent_tweet_id": "2104608397173600636",
+        "name": "楚鯨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658881840349061120/1748457748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10315,
+          "following_count": 184,
+          "like_count": 10775,
+          "listed_count": 17,
+          "media_count": 21,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "CJing3_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2103198740895187436",
+    "created_at": "2026-09-24T19:03:50.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T20:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103198740895187436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uvk4vx/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/uvk4vx/status/2103113734575231392",
+          "start": 3,
+          "url": "https://t.co/2RnE9tuNSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103198740895187436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103113734575231392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼 https://t.co/2RnE9tuNSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9400,
+        "height": 1280,
+        "media_key": "13_2103113713435975680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103113713435975680/img/Fw4xI7RfYL5mOar_.jpg",
+        "public_metrics": {
+          "view_count": 778
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103113713435975680/vid/avc1/320x568/vD8UN11S6ODZGi-Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103113713435975680/vid/avc1/480x852/et5c1e0yNq5NwfbR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103113713435975680/vid/avc1/720x1280/p7uf9PCZqq5PQzl-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103113713435975680/pl/z3t4RtdYkPROlluT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2103198740895187436",
+        "created_at": "2026-09-24T19:03:50.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103198740895187436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uvk4vx/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/uvk4vx/status/2103113734575231392",
+              "start": 3,
+              "url": "https://t.co/2RnE9tuNSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103198740895187436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103113734575231392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/2RnE9tuNSu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103113713435975680"
+          ]
+        },
+        "author_id": "1875614925642665984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2103113734575231392",
+        "created_at": "2026-09-24T13:26:02.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103113734575231392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "音ゲー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aHXkKlC5p",
+              "end": 54,
+              "expanded_url": "https://x.com/uvk4vx/status/2103113734575231392/video/1",
+              "media_key": "13_2103113713435975680",
+              "start": 31,
+              "url": "https://t.co/1aHXkKlC5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103113734575231392",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103113713435975680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1394,
+          "like_count": 28,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "女のケツで音ゲーの練習してみた‼️\n #プロセカ  #音ゲー https://t.co/1aHXkKlC5p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103198740895187436",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4988,
+          "following_count": 3322,
+          "like_count": 33800,
+          "listed_count": 5,
+          "media_count": 480,
+          "tweet_count": 9244
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T18:47:06.000Z",
+        "description": "美しい日本が崩壊されていく危機😩📌 #移民受け入れ反対😑これ以上移民を受け入れるな👊\n😑 #スパイ防止法賛成⭕️📌マスゴミの偏向報道に怒り\n😡 子どもや孫の世代まで安心して暮らせる日本🇯🇵を全力で守っていただける政党支持します😊❣️犬猫動画を観て癒されてます🐶🐱🐾🐈🐈‍⬛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 18,
+                "tag": "移民受け入れ反対"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "スパイ防止法賛成"
+              }
+            ]
+          }
+        },
+        "id": "1875614925642665984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103117849527238729",
+        "name": "上越幹",
+        "pinned_tweet_id": "2098036227035578508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875614925642665984/1786455323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101399178580738048/MAOB4STV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 411,
+          "like_count": 22530,
+          "listed_count": 13,
+          "media_count": 635,
+          "tweet_count": 15882
+        },
+        "url": "",
+        "username": "uvk4vx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

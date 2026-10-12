@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2105670214910181872",
+    "created_at": "2026-10-01T18:42:20.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T19:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105730048703795272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073228681758298112",
+          "start": 0,
+          "username": "fffyyp565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105730048703795272",
+    "in_reply_to_user_id": "2073228681758298112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105670214910181872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffyyp565 粘性手雷来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2392,
+        "media_key": "3_2105670204252655616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjX5PqakAArJTY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2105670214910181872",
+        "created_at": "2026-10-01T18:42:20.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105730048703795272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073228681758298112",
+              "start": 0,
+              "username": "fffyyp565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105730048703795272",
+        "in_reply_to_user_id": "2073228681758298112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105670214910181872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffyyp565 粘性手雷来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105670204252655616"
+          ]
+        },
+        "author_id": "2073228681758298112",
+        "conversation_id": "2105670214910181872",
+        "created_at": "2026-10-01T14:44:35.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105670214910181872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLVF6zcggT",
+              "end": 40,
+              "expanded_url": "https://x.com/fffyyp565/status/2105670214910181872/photo/1",
+              "media_key": "3_2105670204252655616",
+              "start": 17,
+              "url": "https://t.co/BLVF6zcggT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105670214910181872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105670204252655616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认真看题又做了一遍。恶魔数值🌚🌚 https://t.co/BLVF6zcggT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105730048703795272",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 3300,
+          "like_count": 33806,
+          "listed_count": 5,
+          "media_count": 482,
+          "tweet_count": 9249
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T02:15:32.000Z",
+        "description": "只是互关。\n我是沼泽，藻仄，早则，皂沢\n私信打钱。别来骚扰我(((((\n朋友@sweety0216xyyx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "sweety0216xyyx"
+              }
+            ]
+          }
+        },
+        "id": "2073228681758298112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105672269431296222",
+        "name": "fff yy🐾",
+        "pinned_tweet_id": "2104913190186533055",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073228681758298112/1790861594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102972789762519040/i_x6ZzsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 404,
+          "like_count": 3601,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1153
+        },
+        "url": "",
+        "username": "fffyyp565",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1557839863151337473",
+    "conversation_id": "2106638377747628288",
+    "created_at": "2026-10-04T06:51:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106638377747628288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964377484717363200",
+          "start": 3,
+          "username": "caionic_"
+        },
+        {
+          "end": 30,
+          "id": "2049952346407407616",
+          "start": 14,
+          "username": "CamargoJes87176"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106638377747628288",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106489214355243274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caionic_: @CamargoJes87176 Oxe recém depilada, depilada a duas horas, um mês, matagal dane-se eu vou meter a linguada, lavou tá novo es…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2106638377747628288",
+        "created_at": "2026-10-04T06:51:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106638377747628288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964377484717363200",
+              "start": 3,
+              "username": "caionic_"
+            },
+            {
+              "end": 30,
+              "id": "2049952346407407616",
+              "start": 14,
+              "username": "CamargoJes87176"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106638377747628288",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106489214355243274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caionic_: @CamargoJes87176 Oxe recém depilada, depilada a duas horas, um mês, matagal dane-se eu vou meter a linguada, lavou tá novo es…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964377484717363200",
+        "conversation_id": "2106414174356279643",
+        "created_at": "2026-10-03T20:59:00.000Z",
+        "display_text_range": [
+          17,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T21:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106489214355243274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049952346407407616",
+              "start": 0,
+              "username": "CamargoJes87176"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106489214355243274",
+        "in_reply_to_user_id": "2049952346407407616",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 280039,
+          "like_count": 5239,
+          "quote_count": 10,
+          "reply_count": 19,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106414174356279643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamargoJes87176 Oxe recém depilada, depilada a duas horas, um mês, matagal dane-se eu vou meter a linguada, lavou tá novo essa poha"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fifthriver",
+                "end": 23,
+                "expanded_url": "https://t.me/Fifthriver",
+                "start": 0,
+                "url": "https://t.co/yr0vgGGBJt"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106638377747628288",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557839863151337473/1759211484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078339908834615296/-YU2u3tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4986,
+          "following_count": 3306,
+          "like_count": 33815,
+          "listed_count": 5,
+          "media_count": 482,
+          "tweet_count": 9252
+        },
+        "url": "https://t.co/yr0vgGGBJt",
+        "username": "scutigera_kuma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T17:18:23.000Z",
+        "description": "20↑ 🏳️‍⚧️ - ENTP | Curto desenhar, assistir uns filmes e jogos uns joguinhos por aí",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/5oen3",
+                "end": 23,
+                "expanded_url": "https://boxd.it/5oen3",
+                "start": 0,
+                "url": "https://t.co/O5CFpxI8wI"
+              }
+            ]
+          }
+        },
+        "id": "1964377484717363200",
+        "is_identity_verified": false,
+        "location": "Ele/Dele",
+        "most_recent_tweet_id": "2106636652047225033",
+        "name": "Caio",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106480394832953344/nvwHondR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 603,
+          "like_count": 16399,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/O5CFpxI8wI",
+        "username": "caionic_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-30T20:41:59.000Z",
+        "description": "✨ 24 anos, sonhos e muita leveza.\n👩🏻‍🎓 Apaixonada por aprender e ensinar.\n📲 Instagram: jessicasaricamargo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jessicasaricam…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jessicasaricamargo?igsh=MWowaDM2Zm50d2Jhdg==",
+                "start": 0,
+                "url": "https://t.co/9MlMXHNIEn"
+              }
+            ]
+          }
+        },
+        "id": "2049952346407407616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106589389422055822",
+        "name": "Jéssica Camargo",
+        "pinned_tweet_id": "2098618823515517079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049952346407407616/1777581955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049952497662308352/0cIhJ-OA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 1,
+          "like_count": 545,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 4303
+        },
+        "url": "https://t.co/9MlMXHNIEn",
+        "username": "CamargoJes87176",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
